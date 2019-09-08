@@ -3,8 +3,8 @@
     <transition-group name="items" tag="section" class="content">
       <div v-for="item in filteredprice" :key="item.id" class="item">
         <div class="img-contain">
-          <NuxtLink :to="`product/${item.id}`">
-            <img :src="`/products/${item.img}`" />
+          <NuxtLink :to="`products/${item.handle}`">
+            <img :src="item.img" />
           </NuxtLink>
         </div>
         <star-rating
@@ -16,7 +16,7 @@
         ></star-rating>
         <h3>{{ item.name }}</h3>
         <h4 class="price">{{ item.price | dollar }}</h4>
-        <NuxtLink :to="`product/${item.id}`">
+        <NuxtLink :to="`products/${item.handle}`">
           <button class="multi-item">View Item ></button>
         </NuxtLink>
       </div>

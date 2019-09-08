@@ -5,10 +5,10 @@
     </h2>
     <div class="featureditems">
       <div class="item" v-for="product in featuredProducts" :key="product.id">
-        <img :src="`/products/${product.img}`" />
+        <img :src="product.img" />
         <h3>{{ product.name }}</h3>
         <h4>{{ product.price | dollar }}</h4>
-        <NuxtLink :to="`/product/${product.id}`">
+        <NuxtLink :to="`/products/${product.handle}`">
           <button class="multi-item">View Item ></button>
         </NuxtLink>
       </div>

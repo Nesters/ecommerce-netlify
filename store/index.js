@@ -1,6 +1,6 @@
 import axios from "axios"
 import uuidv1 from "uuid/v1"
-import data from "~/static/storedata.json"
+import data from "~/static/shopifydata.json"
 
 export const state = () => ({
   cartUIStatus: "idle",

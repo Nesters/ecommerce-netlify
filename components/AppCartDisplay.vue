@@ -10,7 +10,7 @@
         </tr>
         <tr v-for="item in cart" :key="item.id">
           <td>
-            <img :src="`/products/${item.img}`" :alt="item.name" class="productimg" />
+            <img :src="item.img" :alt="item.name" class="productimg" />
             <h3 class="productname">{{ item.name }}</h3>
           </td>
           <td>

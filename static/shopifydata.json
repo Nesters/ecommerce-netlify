@@ -1,0 +1,4728 @@
+[
+  {
+    "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0LzE5ODk1Njg2NTk1MTA=",
+    "availableForSale": true,
+    "createdAt": "2019-02-28T20:06:46Z",
+    "updatedAt": "2019-09-05T14:04:00Z",
+    "descriptionHtml": "Kafijas batoniņš, kurš nodrošinās Tev kofeīna devu visur, kur atrodies! <!-- split --> [TABS]\n<h5>Apraksts</h5>\n<p>Šis batoniņš ir jauns un gards kafijas veids, ko viegli paņemt līdzi, lai kurp Tava diena vestu. Lai gan tas izskatās un kūst kā šokolāde, tas ir gatavots vienīgi no kafijas pupiņām un kafijas ķirša apvalka (cascara), kas nepārprotami jūtams gan garšā, gan iedarbībā. </p>\n<h5>Specifikācija</h5>\n<p> </p>\n<h5>Lietošanas instrukcija</h5>\n<p> </p>\n[/TABS]",
+    "description": "Kafijas batoniņš, kurš nodrošinās Tev kofeīna devu visur, kur atrodies! &lt;!-- split --> [TABS] Apraksts Šis batoniņš ir jauns un gards kafijas veids, ko viegli paņemt līdzi, lai kurp Tava diena vestu. Lai gan tas izskatās un kūst kā šokolāde, tas ir gatavots vienīgi no kafijas pupiņām un kafijas ķirša apvalka (cascara), kas nepārprotami jūtams gan garšā, gan iedarbībā. Specifikācija Lietošanas instrukcija [/TABS]",
+    "handle": "coffee-pixels-cascara-kafijas-batonins",
+    "productType": "Cita kafija",
+    "title": "Coffee Pixels Cascara, kafijas batoniņš",
+    "vendor": "Coffee Pixels",
+    "publishedAt": "2019-07-14T22:42:29Z",
+    "onlineStoreUrl": "https://www.esmilukafiju.lv/products/coffee-pixels-cascara-kafijas-batonins",
+    "options": [
+      {
+        "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0T3B0aW9uLzI3NzUzNzEyMTg5OTg=",
+        "name": "Title",
+        "values": [
+          {
+            "value": "Default Title",
+            "type": {
+              "name": "String",
+              "kind": "SCALAR"
+            }
+          }
+        ],
+        "type": {
+          "name": "ProductOption",
+          "kind": "OBJECT",
+          "fieldBaseTypes": {
+            "name": "String",
+            "values": "String"
+          },
+          "implementsNode": true
+        }
+      }
+    ],
+    "images": [
+      {
+        "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0SW1hZ2UvNjc5NTk3NDM3NzUyNg==",
+        "src": "https://cdn.shopify.com/s/files/1/0142/1334/9430/products/PIX01_6869043e-06ab-4c1c-85b2-c4227701bb75.jpg?v=1551961932",
+        "altText": "Coffee Pixels Cascara, kafijas batoniņš",
+        "type": {
+          "name": "Image",
+          "kind": "OBJECT",
+          "fieldBaseTypes": {
+            "altText": "String",
+            "id": "ID",
+            "originalSrc": "URL",
+            "src": "URL"
+          },
+          "implementsNode": false
+        },
+        "hasNextPage": {
+          "value": true
+        },
+        "hasPreviousPage": false,
+        "variableValues": {
+          "first": 20
+        }
+      },
+      {
+        "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0SW1hZ2UvNjc5NTk3NDQxMDI5NA==",
+        "src": "https://cdn.shopify.com/s/files/1/0142/1334/9430/products/PIX01-1_2110559d-846a-49c2-b1c6-5396086070cd.jpg?v=1551961932",
+        "altText": null,
+        "type": {
+          "name": "Image",
+          "kind": "OBJECT",
+          "fieldBaseTypes": {
+            "altText": "String",
+            "id": "ID",
+            "originalSrc": "URL",
+            "src": "URL"
+          },
+          "implementsNode": false
+        },
+        "hasNextPage": {
+          "value": true
+        },
+        "hasPreviousPage": {
+          "value": true
+        },
+        "variableValues": {
+          "first": 20
+        }
+      },
+      {
+        "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0SW1hZ2UvNjc5NTk3NDQ0MzA2Mg==",
+        "src": "https://cdn.shopify.com/s/files/1/0142/1334/9430/products/PIX01-2_97947c6c-527e-4940-935b-02cb4735f39f.jpg?v=1551961932",
+        "altText": null,
+        "type": {
+          "name": "Image",
+          "kind": "OBJECT",
+          "fieldBaseTypes": {
+            "altText": "String",
+            "id": "ID",
+            "originalSrc": "URL",
+            "src": "URL"
+          },
+          "implementsNode": false
+        },
+        "hasNextPage": false,
+        "hasPreviousPage": {
+          "value": true
+        },
+        "variableValues": {
+          "first": 20
+        }
+      }
+    ],
+    "variants": [
+      {
+        "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0VmFyaWFudC8xOTgzMTE5ODIyMDM0Mg==",
+        "title": "Default Title",
+        "price": "1.95",
+        "priceV2": {
+          "amount": "1.95",
+          "currencyCode": "EUR",
+          "type": {
+            "name": "MoneyV2",
+            "kind": "OBJECT",
+            "fieldBaseTypes": {
+              "amount": "Decimal",
+              "currencyCode": "CurrencyCode"
+            },
+            "implementsNode": false
+          }
+        },
+        "presentmentPrices": [
+          {
+            "price": {
+              "amount": "1.95",
+              "currencyCode": "EUR",
+              "type": {
+                "name": "MoneyV2",
+                "kind": "OBJECT",
+                "fieldBaseTypes": {
+                  "amount": "Decimal",
+                  "currencyCode": "CurrencyCode"
+                },
+                "implementsNode": false
+              }
+            },
+            "type": {
+              "name": "ProductVariantPricePair",
+              "kind": "OBJECT",
+              "fieldBaseTypes": {
+                "price": "MoneyV2"
+              },
+              "implementsNode": false
+            },
+            "hasNextPage": false,
+            "hasPreviousPage": false,
+            "variableValues": {
+              "first": 20
+            }
+          }
+        ],
+        "weight": 0,
+        "available": true,
+        "sku": "PIX01",
+        "compareAtPrice": null,
+        "compareAtPriceV2": null,
+        "image": {
+          "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0SW1hZ2UvNjc5NTk3NDM3NzUyNg==",
+          "src": "https://cdn.shopify.com/s/files/1/0142/1334/9430/products/PIX01_6869043e-06ab-4c1c-85b2-c4227701bb75.jpg?v=1551961932",
+          "altText": "Coffee Pixels Cascara, kafijas batoniņš",
+          "type": {
+            "name": "Image",
+            "kind": "OBJECT",
+            "fieldBaseTypes": {
+              "altText": "String",
+              "id": "ID",
+              "originalSrc": "URL",
+              "src": "URL"
+            },
+            "implementsNode": false
+          }
+        },
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title",
+            "type": {
+              "name": "SelectedOption",
+              "kind": "OBJECT",
+              "fieldBaseTypes": {
+                "name": "String",
+                "value": "String"
+              },
+              "implementsNode": false
+            }
+          }
+        ],
+        "type": {
+          "name": "ProductVariant",
+          "kind": "OBJECT",
+          "fieldBaseTypes": {
+            "availableForSale": "Boolean",
+            "compareAtPrice": "Money",
+            "compareAtPriceV2": "MoneyV2",
+            "id": "ID",
+            "image": "Image",
+            "presentmentPrices": "ProductVariantPricePairConnection",
+            "price": "Money",
+            "priceV2": "MoneyV2",
+            "product": "Product",
+            "selectedOptions": "SelectedOption",
+            "sku": "String",
+            "title": "String",
+            "weight": "Float"
+          },
+          "implementsNode": true
+        },
+        "hasNextPage": false,
+        "hasPreviousPage": false,
+        "variableValues": {
+          "first": 20
+        }
+      }
+    ],
+    "type": {
+      "name": "Product",
+      "kind": "OBJECT",
+      "fieldBaseTypes": {
+        "availableForSale": "Boolean",
+        "createdAt": "DateTime",
+        "description": "String",
+        "descriptionHtml": "HTML",
+        "handle": "String",
+        "id": "ID",
+        "images": "ImageConnection",
+        "onlineStoreUrl": "URL",
+        "options": "ProductOption",
+        "productType": "String",
+        "publishedAt": "DateTime",
+        "title": "String",
+        "updatedAt": "DateTime",
+        "variants": "ProductVariantConnection",
+        "vendor": "String"
+      },
+      "implementsNode": true
+    },
+    "hasNextPage": {
+      "value": true
+    },
+    "hasPreviousPage": false,
+    "variableValues": {
+      "first": 20
+    },
+    "img": "https://cdn.shopify.com/s/files/1/0142/1334/9430/products/PIX01_6869043e-06ab-4c1c-85b2-c4227701bb75.jpg?v=1551961932"
+  },
+  {
+    "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0LzE5ODk1NjkwNTI3MjY=",
+    "availableForSale": true,
+    "createdAt": "2019-02-28T20:06:56Z",
+    "updatedAt": "2019-08-27T10:07:36Z",
+    "descriptionHtml": "Katrs E.S.E. pods satur precīzi dozētu un tampētu leģendāro Illy maisījumu, noslēgtā videi draudzīgā filtrpapīra iepakojumā, lai saglabātu īpašo garšu un aromātus. <!-- split --> [TABS]\n<h5>Apraksts</h5>\n<p>Lielākā daļa ekspertu piekrīt, ka Illy bija gājis laikam pa priekšu jau 1970. gadā, atrodot veidu, kā augstas kvalitātes espresso pagatavošanu padarīt vieglāku un baudāmāku. E.S.E. (Easy Serving Espresso) podu formāts jau tad paredzēja mūsdienīgo vienas kafijas tases pagatavošanas veidus. Šī joprojām ir viena no populārākajām dedzīgu kafijas mīļotāju izvēlēm kafijas pagatavošanai mājas apstākļos.</p>\n<h5>Specifikācija</h5>\n<p> </p>\n<h5>Lietošanas instrukcija</h5>\n<p> </p>\n[/TABS]",
+    "description": "Katrs E.S.E. pods satur precīzi dozētu un tampētu leģendāro Illy maisījumu, noslēgtā videi draudzīgā filtrpapīra iepakojumā, lai saglabātu īpašo garšu un aromātus. &lt;!-- split --> [TABS] Apraksts Lielākā daļa ekspertu piekrīt, ka Illy bija gājis laikam pa priekšu jau 1970. gadā, atrodot veidu, kā augstas kvalitātes espresso pagatavošanu padarīt vieglāku un baudāmāku. E.S.E. (Easy Serving Espresso) podu formāts jau tad paredzēja mūsdienīgo vienas kafijas tases pagatavošanas veidus. Šī joprojām ir viena no populārākajām dedzīgu kafijas mīļotāju izvēlēm kafijas pagatavošanai mājas apstākļos. Specifikācija Lietošanas instrukcija [/TABS]",
+    "handle": "895-kafijas-spilventini-illy-videja-grauzdejuma-18gb",
+    "productType": "Kapsulas",
+    "title": "Kafijas spilventiņi Illy, Vidēja grauzdējuma, 18gb",
+    "vendor": "illy",
+    "publishedAt": "2019-07-14T22:42:29Z",
+    "onlineStoreUrl": "https://www.esmilukafiju.lv/products/895-kafijas-spilventini-illy-videja-grauzdejuma-18gb",
+    "options": [
+      {
+        "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0T3B0aW9uLzI3NzUzNzE2NDQ5ODI=",
+        "name": "Title",
+        "values": [
+          {
+            "value": "Default Title",
+            "type": {
+              "name": "String",
+              "kind": "SCALAR"
+            }
+          }
+        ],
+        "type": {
+          "name": "ProductOption",
+          "kind": "OBJECT",
+          "fieldBaseTypes": {
+            "name": "String",
+            "values": "String"
+          },
+          "implementsNode": true
+        }
+      }
+    ],
+    "images": [
+      {
+        "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0SW1hZ2UvNjc5NTk3NDYzOTY3MA==",
+        "src": "https://cdn.shopify.com/s/files/1/0142/1334/9430/products/IN6780_a90840b7-61d7-4161-9dd6-11c79c275ecd.jpg?v=1553502133",
+        "altText": "Kafijas spilventiņi Illy, Vidēja grauzdējuma, 18gb",
+        "type": {
+          "name": "Image",
+          "kind": "OBJECT",
+          "fieldBaseTypes": {
+            "altText": "String",
+            "id": "ID",
+            "originalSrc": "URL",
+            "src": "URL"
+          },
+          "implementsNode": false
+        },
+        "hasNextPage": {
+          "value": true
+        },
+        "hasPreviousPage": false,
+        "variableValues": {
+          "first": 20
+        }
+      },
+      {
+        "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0SW1hZ2UvNjc5NTk3NDczNzk3NA==",
+        "src": "https://cdn.shopify.com/s/files/1/0142/1334/9430/products/IN6780_vide_329cd5dc-7551-45f0-836f-85c5d32056c5.jpg?v=1553502133",
+        "altText": null,
+        "type": {
+          "name": "Image",
+          "kind": "OBJECT",
+          "fieldBaseTypes": {
+            "altText": "String",
+            "id": "ID",
+            "originalSrc": "URL",
+            "src": "URL"
+          },
+          "implementsNode": false
+        },
+        "hasNextPage": false,
+        "hasPreviousPage": {
+          "value": true
+        },
+        "variableValues": {
+          "first": 20
+        }
+      }
+    ],
+    "variants": [
+      {
+        "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0VmFyaWFudC8xOTgzMTIwOTEzMjA4Ng==",
+        "title": "Default Title",
+        "price": "8.49",
+        "priceV2": {
+          "amount": "8.49",
+          "currencyCode": "EUR",
+          "type": {
+            "name": "MoneyV2",
+            "kind": "OBJECT",
+            "fieldBaseTypes": {
+              "amount": "Decimal",
+              "currencyCode": "CurrencyCode"
+            },
+            "implementsNode": false
+          }
+        },
+        "presentmentPrices": [
+          {
+            "price": {
+              "amount": "8.49",
+              "currencyCode": "EUR",
+              "type": {
+                "name": "MoneyV2",
+                "kind": "OBJECT",
+                "fieldBaseTypes": {
+                  "amount": "Decimal",
+                  "currencyCode": "CurrencyCode"
+                },
+                "implementsNode": false
+              }
+            },
+            "type": {
+              "name": "ProductVariantPricePair",
+              "kind": "OBJECT",
+              "fieldBaseTypes": {
+                "price": "MoneyV2"
+              },
+              "implementsNode": false
+            },
+            "hasNextPage": false,
+            "hasPreviousPage": false,
+            "variableValues": {
+              "first": 20
+            }
+          }
+        ],
+        "weight": 0,
+        "available": true,
+        "sku": "IN6780",
+        "compareAtPrice": null,
+        "compareAtPriceV2": null,
+        "image": {
+          "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0SW1hZ2UvNjc5NTk3NDYzOTY3MA==",
+          "src": "https://cdn.shopify.com/s/files/1/0142/1334/9430/products/IN6780_a90840b7-61d7-4161-9dd6-11c79c275ecd.jpg?v=1553502133",
+          "altText": "Kafijas spilventiņi Illy, Vidēja grauzdējuma, 18gb",
+          "type": {
+            "name": "Image",
+            "kind": "OBJECT",
+            "fieldBaseTypes": {
+              "altText": "String",
+              "id": "ID",
+              "originalSrc": "URL",
+              "src": "URL"
+            },
+            "implementsNode": false
+          }
+        },
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title",
+            "type": {
+              "name": "SelectedOption",
+              "kind": "OBJECT",
+              "fieldBaseTypes": {
+                "name": "String",
+                "value": "String"
+              },
+              "implementsNode": false
+            }
+          }
+        ],
+        "type": {
+          "name": "ProductVariant",
+          "kind": "OBJECT",
+          "fieldBaseTypes": {
+            "availableForSale": "Boolean",
+            "compareAtPrice": "Money",
+            "compareAtPriceV2": "MoneyV2",
+            "id": "ID",
+            "image": "Image",
+            "presentmentPrices": "ProductVariantPricePairConnection",
+            "price": "Money",
+            "priceV2": "MoneyV2",
+            "product": "Product",
+            "selectedOptions": "SelectedOption",
+            "sku": "String",
+            "title": "String",
+            "weight": "Float"
+          },
+          "implementsNode": true
+        },
+        "hasNextPage": false,
+        "hasPreviousPage": false,
+        "variableValues": {
+          "first": 20
+        }
+      }
+    ],
+    "type": {
+      "name": "Product",
+      "kind": "OBJECT",
+      "fieldBaseTypes": {
+        "availableForSale": "Boolean",
+        "createdAt": "DateTime",
+        "description": "String",
+        "descriptionHtml": "HTML",
+        "handle": "String",
+        "id": "ID",
+        "images": "ImageConnection",
+        "onlineStoreUrl": "URL",
+        "options": "ProductOption",
+        "productType": "String",
+        "publishedAt": "DateTime",
+        "title": "String",
+        "updatedAt": "DateTime",
+        "variants": "ProductVariantConnection",
+        "vendor": "String"
+      },
+      "implementsNode": true
+    },
+    "hasNextPage": {
+      "value": true
+    },
+    "hasPreviousPage": {
+      "value": true
+    },
+    "variableValues": {
+      "first": 20
+    },
+    "img": "https://cdn.shopify.com/s/files/1/0142/1334/9430/products/IN6780_a90840b7-61d7-4161-9dd6-11c79c275ecd.jpg?v=1553502133"
+  },
+  {
+    "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0LzE5ODk1NjkyMTY1NjY=",
+    "availableForSale": true,
+    "createdAt": "2019-02-28T20:07:01Z",
+    "updatedAt": "2019-09-06T14:07:31Z",
+    "descriptionHtml": "Cremosso kafijas pupiņas klasiskas kafijas cienītājiem. <!-- split --> [TABS]\n<h5>Apraksts</h5>\n<p>\"Katra kafijas pupiņa sevī ietver kripatiņu maģijas\", reiz teica Antonio Zavelli, kuru ģimene šai maģijai tic jau vairāk kā 100 gadu. Maisījums no Brazījas Arabica Santos šķirnes, Kolumbijas Arabica Excelsio šķirnes un augstvērtīgas Indijas Robusta (7%) pupiņām. Iepakojmā 1kg.</p>\n<h5>Specifikācija</h5>\n<p> </p>\n<h5>Lietošanas instrukcija</h5>\n<p> </p>\n[/TABS]",
+    "description": "Cremosso kafijas pupiņas klasiskas kafijas cienītājiem. &lt;!-- split --> [TABS] Apraksts \"Katra kafijas pupiņa sevī ietver kripatiņu maģijas\", reiz teica Antonio Zavelli, kuru ģimene šai maģijai tic jau vairāk kā 100 gadu. Maisījums no Brazījas Arabica Santos šķirnes, Kolumbijas Arabica Excelsio šķirnes un augstvērtīgas Indijas Robusta (7%) pupiņām. Iepakojmā 1kg. Specifikācija Lietošanas instrukcija [/TABS]",
+    "handle": "728-cremosso-espresso-kafijas-pupinas-1-kg",
+    "productType": "Kafijas pupiņas",
+    "title": "Cremosso, Espresso, kafijas pupiņas, 1 kg",
+    "vendor": "Es mīlu kafiju",
+    "publishedAt": "2019-07-14T22:42:29Z",
+    "onlineStoreUrl": "https://www.esmilukafiju.lv/products/728-cremosso-espresso-kafijas-pupinas-1-kg",
+    "options": [
+      {
+        "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0T3B0aW9uLzI3NzUzNzE4MDg4MjI=",
+        "name": "Title",
+        "values": [
+          {
+            "value": "Default Title",
+            "type": {
+              "name": "String",
+              "kind": "SCALAR"
+            }
+          }
+        ],
+        "type": {
+          "name": "ProductOption",
+          "kind": "OBJECT",
+          "fieldBaseTypes": {
+            "name": "String",
+            "values": "String"
+          },
+          "implementsNode": true
+        }
+      }
+    ],
+    "images": [
+      {
+        "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0SW1hZ2UvNjc5NTk3NDg2OTA0Ng==",
+        "src": "https://cdn.shopify.com/s/files/1/0142/1334/9430/products/RB0101100055-Edit_8af9393e-89d8-4b06-9139-ab0552b2e778.jpg?v=1551961949",
+        "altText": "Cremosso, Espresso, kafijas pupiņas, 1 kg",
+        "type": {
+          "name": "Image",
+          "kind": "OBJECT",
+          "fieldBaseTypes": {
+            "altText": "String",
+            "id": "ID",
+            "originalSrc": "URL",
+            "src": "URL"
+          },
+          "implementsNode": false
+        },
+        "hasNextPage": {
+          "value": true
+        },
+        "hasPreviousPage": false,
+        "variableValues": {
+          "first": 20
+        }
+      },
+      {
+        "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0SW1hZ2UvNjc5NTk3NDkwMTgxNA==",
+        "src": "https://cdn.shopify.com/s/files/1/0142/1334/9430/products/RB0101100055_vide_82b74ff0-176c-4767-9e83-80b0ef93082d.jpg?v=1551961949",
+        "altText": null,
+        "type": {
+          "name": "Image",
+          "kind": "OBJECT",
+          "fieldBaseTypes": {
+            "altText": "String",
+            "id": "ID",
+            "originalSrc": "URL",
+            "src": "URL"
+          },
+          "implementsNode": false
+        },
+        "hasNextPage": false,
+        "hasPreviousPage": {
+          "value": true
+        },
+        "variableValues": {
+          "first": 20
+        }
+      }
+    ],
+    "variants": [
+      {
+        "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0VmFyaWFudC8xOTgzMTE5ODQ0OTcxOA==",
+        "title": "Default Title",
+        "price": "19.49",
+        "priceV2": {
+          "amount": "19.49",
+          "currencyCode": "EUR",
+          "type": {
+            "name": "MoneyV2",
+            "kind": "OBJECT",
+            "fieldBaseTypes": {
+              "amount": "Decimal",
+              "currencyCode": "CurrencyCode"
+            },
+            "implementsNode": false
+          }
+        },
+        "presentmentPrices": [
+          {
+            "price": {
+              "amount": "19.49",
+              "currencyCode": "EUR",
+              "type": {
+                "name": "MoneyV2",
+                "kind": "OBJECT",
+                "fieldBaseTypes": {
+                  "amount": "Decimal",
+                  "currencyCode": "CurrencyCode"
+                },
+                "implementsNode": false
+              }
+            },
+            "type": {
+              "name": "ProductVariantPricePair",
+              "kind": "OBJECT",
+              "fieldBaseTypes": {
+                "price": "MoneyV2"
+              },
+              "implementsNode": false
+            },
+            "hasNextPage": false,
+            "hasPreviousPage": false,
+            "variableValues": {
+              "first": 20
+            }
+          }
+        ],
+        "weight": 1,
+        "available": true,
+        "sku": "RB0101100055",
+        "compareAtPrice": null,
+        "compareAtPriceV2": null,
+        "image": {
+          "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0SW1hZ2UvNjc5NTk3NDg2OTA0Ng==",
+          "src": "https://cdn.shopify.com/s/files/1/0142/1334/9430/products/RB0101100055-Edit_8af9393e-89d8-4b06-9139-ab0552b2e778.jpg?v=1551961949",
+          "altText": "Cremosso, Espresso, kafijas pupiņas, 1 kg",
+          "type": {
+            "name": "Image",
+            "kind": "OBJECT",
+            "fieldBaseTypes": {
+              "altText": "String",
+              "id": "ID",
+              "originalSrc": "URL",
+              "src": "URL"
+            },
+            "implementsNode": false
+          }
+        },
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title",
+            "type": {
+              "name": "SelectedOption",
+              "kind": "OBJECT",
+              "fieldBaseTypes": {
+                "name": "String",
+                "value": "String"
+              },
+              "implementsNode": false
+            }
+          }
+        ],
+        "type": {
+          "name": "ProductVariant",
+          "kind": "OBJECT",
+          "fieldBaseTypes": {
+            "availableForSale": "Boolean",
+            "compareAtPrice": "Money",
+            "compareAtPriceV2": "MoneyV2",
+            "id": "ID",
+            "image": "Image",
+            "presentmentPrices": "ProductVariantPricePairConnection",
+            "price": "Money",
+            "priceV2": "MoneyV2",
+            "product": "Product",
+            "selectedOptions": "SelectedOption",
+            "sku": "String",
+            "title": "String",
+            "weight": "Float"
+          },
+          "implementsNode": true
+        },
+        "hasNextPage": false,
+        "hasPreviousPage": false,
+        "variableValues": {
+          "first": 20
+        }
+      }
+    ],
+    "type": {
+      "name": "Product",
+      "kind": "OBJECT",
+      "fieldBaseTypes": {
+        "availableForSale": "Boolean",
+        "createdAt": "DateTime",
+        "description": "String",
+        "descriptionHtml": "HTML",
+        "handle": "String",
+        "id": "ID",
+        "images": "ImageConnection",
+        "onlineStoreUrl": "URL",
+        "options": "ProductOption",
+        "productType": "String",
+        "publishedAt": "DateTime",
+        "title": "String",
+        "updatedAt": "DateTime",
+        "variants": "ProductVariantConnection",
+        "vendor": "String"
+      },
+      "implementsNode": true
+    },
+    "hasNextPage": {
+      "value": true
+    },
+    "hasPreviousPage": {
+      "value": true
+    },
+    "variableValues": {
+      "first": 20
+    },
+    "img": "https://cdn.shopify.com/s/files/1/0142/1334/9430/products/RB0101100055-Edit_8af9393e-89d8-4b06-9139-ab0552b2e778.jpg?v=1551961949"
+  },
+  {
+    "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0LzE5ODk1Njk0MTMxNzQ=",
+    "availableForSale": true,
+    "createdAt": "2019-02-28T20:07:05Z",
+    "updatedAt": "2019-09-06T12:07:33Z",
+    "descriptionHtml": "Cremosso kafijas pupiņas klasiskas kafijas cienītājiem. <!-- split --> [TABS]\n<h5>Apraksts</h5>\n<p>\"Katra kafijas pupiņa sevī ietver kripatiņu maģijas\", reiz teica Antonio Zavelli, kuru ģimene šai maģijai tic jau vairāk kā 100 gadu. Maisījums no Brazījas Arabica Santos šķirnes, Kolumbijas Arabica Excelsio šķirnes un augstvērtīgas Indijas Robusta (7%) pupiņām. Iepakojmā 250g</p>\n<h5>Specifikācija</h5>\n<p> </p>\n<h5>Lietošanas instrukcija</h5>\n<p> </p>\n[/TABS]",
+    "description": "Cremosso kafijas pupiņas klasiskas kafijas cienītājiem. &lt;!-- split --> [TABS] Apraksts \"Katra kafijas pupiņa sevī ietver kripatiņu maģijas\", reiz teica Antonio Zavelli, kuru ģimene šai maģijai tic jau vairāk kā 100 gadu. Maisījums no Brazījas Arabica Santos šķirnes, Kolumbijas Arabica Excelsio šķirnes un augstvērtīgas Indijas Robusta (7%) pupiņām. Iepakojmā 250g Specifikācija Lietošanas instrukcija [/TABS]",
+    "handle": "987-cremosso-espresso-pupinu-kafija-250g",
+    "productType": "Kafijas pupiņas",
+    "title": "Cremosso, Espresso, pupiņu kafija, 250g",
+    "vendor": "Es mīlu kafiju",
+    "publishedAt": "2019-07-14T22:42:29Z",
+    "onlineStoreUrl": "https://www.esmilukafiju.lv/products/987-cremosso-espresso-pupinu-kafija-250g",
+    "options": [
+      {
+        "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0T3B0aW9uLzI3NzUzNzIwMDU0MzA=",
+        "name": "Title",
+        "values": [
+          {
+            "value": "Default Title",
+            "type": {
+              "name": "String",
+              "kind": "SCALAR"
+            }
+          }
+        ],
+        "type": {
+          "name": "ProductOption",
+          "kind": "OBJECT",
+          "fieldBaseTypes": {
+            "name": "String",
+            "values": "String"
+          },
+          "implementsNode": true
+        }
+      }
+    ],
+    "images": [
+      {
+        "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0SW1hZ2UvNjc5NTk3NTA2NTY1NA==",
+        "src": "https://cdn.shopify.com/s/files/1/0142/1334/9430/products/RB0101025011-Edit_44b9ffdb-bf75-441b-9524-f8b6ce4e80a5.jpg?v=1551961954",
+        "altText": "Cremosso, Espresso, pupiņu kafija, 250g",
+        "type": {
+          "name": "Image",
+          "kind": "OBJECT",
+          "fieldBaseTypes": {
+            "altText": "String",
+            "id": "ID",
+            "originalSrc": "URL",
+            "src": "URL"
+          },
+          "implementsNode": false
+        },
+        "hasNextPage": {
+          "value": true
+        },
+        "hasPreviousPage": false,
+        "variableValues": {
+          "first": 20
+        }
+      },
+      {
+        "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0SW1hZ2UvNjc5NTk3NTA5ODQyMg==",
+        "src": "https://cdn.shopify.com/s/files/1/0142/1334/9430/products/RB0101025011_vide_e66b1b7f-451b-42b6-8944-a9373f8a7631.jpg?v=1551961954",
+        "altText": null,
+        "type": {
+          "name": "Image",
+          "kind": "OBJECT",
+          "fieldBaseTypes": {
+            "altText": "String",
+            "id": "ID",
+            "originalSrc": "URL",
+            "src": "URL"
+          },
+          "implementsNode": false
+        },
+        "hasNextPage": false,
+        "hasPreviousPage": {
+          "value": true
+        },
+        "variableValues": {
+          "first": 20
+        }
+      }
+    ],
+    "variants": [
+      {
+        "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0VmFyaWFudC8xOTgzMTE5ODYxMzU1OA==",
+        "title": "Default Title",
+        "price": "6.15",
+        "priceV2": {
+          "amount": "6.15",
+          "currencyCode": "EUR",
+          "type": {
+            "name": "MoneyV2",
+            "kind": "OBJECT",
+            "fieldBaseTypes": {
+              "amount": "Decimal",
+              "currencyCode": "CurrencyCode"
+            },
+            "implementsNode": false
+          }
+        },
+        "presentmentPrices": [
+          {
+            "price": {
+              "amount": "6.15",
+              "currencyCode": "EUR",
+              "type": {
+                "name": "MoneyV2",
+                "kind": "OBJECT",
+                "fieldBaseTypes": {
+                  "amount": "Decimal",
+                  "currencyCode": "CurrencyCode"
+                },
+                "implementsNode": false
+              }
+            },
+            "type": {
+              "name": "ProductVariantPricePair",
+              "kind": "OBJECT",
+              "fieldBaseTypes": {
+                "price": "MoneyV2"
+              },
+              "implementsNode": false
+            },
+            "hasNextPage": false,
+            "hasPreviousPage": false,
+            "variableValues": {
+              "first": 20
+            }
+          }
+        ],
+        "weight": 0,
+        "available": true,
+        "sku": "RB0101025011",
+        "compareAtPrice": null,
+        "compareAtPriceV2": null,
+        "image": {
+          "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0SW1hZ2UvNjc5NTk3NTA2NTY1NA==",
+          "src": "https://cdn.shopify.com/s/files/1/0142/1334/9430/products/RB0101025011-Edit_44b9ffdb-bf75-441b-9524-f8b6ce4e80a5.jpg?v=1551961954",
+          "altText": "Cremosso, Espresso, pupiņu kafija, 250g",
+          "type": {
+            "name": "Image",
+            "kind": "OBJECT",
+            "fieldBaseTypes": {
+              "altText": "String",
+              "id": "ID",
+              "originalSrc": "URL",
+              "src": "URL"
+            },
+            "implementsNode": false
+          }
+        },
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title",
+            "type": {
+              "name": "SelectedOption",
+              "kind": "OBJECT",
+              "fieldBaseTypes": {
+                "name": "String",
+                "value": "String"
+              },
+              "implementsNode": false
+            }
+          }
+        ],
+        "type": {
+          "name": "ProductVariant",
+          "kind": "OBJECT",
+          "fieldBaseTypes": {
+            "availableForSale": "Boolean",
+            "compareAtPrice": "Money",
+            "compareAtPriceV2": "MoneyV2",
+            "id": "ID",
+            "image": "Image",
+            "presentmentPrices": "ProductVariantPricePairConnection",
+            "price": "Money",
+            "priceV2": "MoneyV2",
+            "product": "Product",
+            "selectedOptions": "SelectedOption",
+            "sku": "String",
+            "title": "String",
+            "weight": "Float"
+          },
+          "implementsNode": true
+        },
+        "hasNextPage": false,
+        "hasPreviousPage": false,
+        "variableValues": {
+          "first": 20
+        }
+      }
+    ],
+    "type": {
+      "name": "Product",
+      "kind": "OBJECT",
+      "fieldBaseTypes": {
+        "availableForSale": "Boolean",
+        "createdAt": "DateTime",
+        "description": "String",
+        "descriptionHtml": "HTML",
+        "handle": "String",
+        "id": "ID",
+        "images": "ImageConnection",
+        "onlineStoreUrl": "URL",
+        "options": "ProductOption",
+        "productType": "String",
+        "publishedAt": "DateTime",
+        "title": "String",
+        "updatedAt": "DateTime",
+        "variants": "ProductVariantConnection",
+        "vendor": "String"
+      },
+      "implementsNode": true
+    },
+    "hasNextPage": {
+      "value": true
+    },
+    "hasPreviousPage": {
+      "value": true
+    },
+    "variableValues": {
+      "first": 20
+    },
+    "img": "https://cdn.shopify.com/s/files/1/0142/1334/9430/products/RB0101025011-Edit_44b9ffdb-bf75-441b-9524-f8b6ce4e80a5.jpg?v=1551961954"
+  },
+  {
+    "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0LzE5ODk1Njk2NzUzMTg=",
+    "availableForSale": true,
+    "createdAt": "2019-02-28T20:07:08Z",
+    "updatedAt": "2019-09-06T16:07:34Z",
+    "descriptionHtml": "Latvijā svaigi grauzdētas kafijas pupiņas! <!-- split --> [TABS]\n<h5>Apraksts</h5>\n<p>Ilovecoffee kafijas pupiņas 1kg. 100% Arabica kafijas maisījums no labākajām kafijas pupiņām. Atlasītām nelielās plantācijās Hondurasā un Brazīlijā. </p>\n<h5>Specifikācija</h5>\n<p> </p>\n<h5>Lietošanas instrukcija</h5>\n<p> </p>\n[/TABS]",
+    "description": "Latvijā svaigi grauzdētas kafijas pupiņas! &lt;!-- split --> [TABS] Apraksts Ilovecoffee kafijas pupiņas 1kg. 100% Arabica kafijas maisījums no labākajām kafijas pupiņām. Atlasītām nelielās plantācijās Hondurasā un Brazīlijā. Specifikācija Lietošanas instrukcija [/TABS]",
+    "handle": "442-ilovecoffee-kafijas-pupinas-1-kg",
+    "productType": "Kafijas pupiņas",
+    "title": "Ilovecoffee kafijas pupiņas, 1 KG",
+    "vendor": "Es mīlu kafiju",
+    "publishedAt": "2019-07-14T22:42:29Z",
+    "onlineStoreUrl": "https://www.esmilukafiju.lv/products/442-ilovecoffee-kafijas-pupinas-1-kg",
+    "options": [
+      {
+        "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0T3B0aW9uLzI3NzUzNzIyNjc1NzQ=",
+        "name": "Title",
+        "values": [
+          {
+            "value": "Default Title",
+            "type": {
+              "name": "String",
+              "kind": "SCALAR"
+            }
+          }
+        ],
+        "type": {
+          "name": "ProductOption",
+          "kind": "OBJECT",
+          "fieldBaseTypes": {
+            "name": "String",
+            "values": "String"
+          },
+          "implementsNode": true
+        }
+      }
+    ],
+    "images": [
+      {
+        "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0SW1hZ2UvNjc5NTk3NTE2Mzk1OA==",
+        "src": "https://cdn.shopify.com/s/files/1/0142/1334/9430/products/RB0101100024-Edit_8318c6f3-97b7-4766-8c55-c63a709ff531.jpg?v=1551961956",
+        "altText": "Ilovecoffee kafijas pupiņas, 1 KG",
+        "type": {
+          "name": "Image",
+          "kind": "OBJECT",
+          "fieldBaseTypes": {
+            "altText": "String",
+            "id": "ID",
+            "originalSrc": "URL",
+            "src": "URL"
+          },
+          "implementsNode": false
+        },
+        "hasNextPage": {
+          "value": true
+        },
+        "hasPreviousPage": false,
+        "variableValues": {
+          "first": 20
+        }
+      },
+      {
+        "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0SW1hZ2UvNzE0MDI5MTkwMzU0Mg==",
+        "src": "https://cdn.shopify.com/s/files/1/0142/1334/9430/products/RB0101100024.jpg?v=1556271421",
+        "altText": null,
+        "type": {
+          "name": "Image",
+          "kind": "OBJECT",
+          "fieldBaseTypes": {
+            "altText": "String",
+            "id": "ID",
+            "originalSrc": "URL",
+            "src": "URL"
+          },
+          "implementsNode": false
+        },
+        "hasNextPage": false,
+        "hasPreviousPage": {
+          "value": true
+        },
+        "variableValues": {
+          "first": 20
+        }
+      }
+    ],
+    "variants": [
+      {
+        "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0VmFyaWFudC8xOTgzMTIwNTY5MTQ0Ng==",
+        "title": "Default Title",
+        "price": "27.50",
+        "priceV2": {
+          "amount": "27.5",
+          "currencyCode": "EUR",
+          "type": {
+            "name": "MoneyV2",
+            "kind": "OBJECT",
+            "fieldBaseTypes": {
+              "amount": "Decimal",
+              "currencyCode": "CurrencyCode"
+            },
+            "implementsNode": false
+          }
+        },
+        "presentmentPrices": [
+          {
+            "price": {
+              "amount": "27.5",
+              "currencyCode": "EUR",
+              "type": {
+                "name": "MoneyV2",
+                "kind": "OBJECT",
+                "fieldBaseTypes": {
+                  "amount": "Decimal",
+                  "currencyCode": "CurrencyCode"
+                },
+                "implementsNode": false
+              }
+            },
+            "type": {
+              "name": "ProductVariantPricePair",
+              "kind": "OBJECT",
+              "fieldBaseTypes": {
+                "price": "MoneyV2"
+              },
+              "implementsNode": false
+            },
+            "hasNextPage": false,
+            "hasPreviousPage": false,
+            "variableValues": {
+              "first": 20
+            }
+          }
+        ],
+        "weight": 1,
+        "available": true,
+        "sku": "RB0101100024",
+        "compareAtPrice": null,
+        "compareAtPriceV2": null,
+        "image": {
+          "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0SW1hZ2UvNjc5NTk3NTE2Mzk1OA==",
+          "src": "https://cdn.shopify.com/s/files/1/0142/1334/9430/products/RB0101100024-Edit_8318c6f3-97b7-4766-8c55-c63a709ff531.jpg?v=1551961956",
+          "altText": "Ilovecoffee kafijas pupiņas, 1 KG",
+          "type": {
+            "name": "Image",
+            "kind": "OBJECT",
+            "fieldBaseTypes": {
+              "altText": "String",
+              "id": "ID",
+              "originalSrc": "URL",
+              "src": "URL"
+            },
+            "implementsNode": false
+          }
+        },
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title",
+            "type": {
+              "name": "SelectedOption",
+              "kind": "OBJECT",
+              "fieldBaseTypes": {
+                "name": "String",
+                "value": "String"
+              },
+              "implementsNode": false
+            }
+          }
+        ],
+        "type": {
+          "name": "ProductVariant",
+          "kind": "OBJECT",
+          "fieldBaseTypes": {
+            "availableForSale": "Boolean",
+            "compareAtPrice": "Money",
+            "compareAtPriceV2": "MoneyV2",
+            "id": "ID",
+            "image": "Image",
+            "presentmentPrices": "ProductVariantPricePairConnection",
+            "price": "Money",
+            "priceV2": "MoneyV2",
+            "product": "Product",
+            "selectedOptions": "SelectedOption",
+            "sku": "String",
+            "title": "String",
+            "weight": "Float"
+          },
+          "implementsNode": true
+        },
+        "hasNextPage": false,
+        "hasPreviousPage": false,
+        "variableValues": {
+          "first": 20
+        }
+      }
+    ],
+    "type": {
+      "name": "Product",
+      "kind": "OBJECT",
+      "fieldBaseTypes": {
+        "availableForSale": "Boolean",
+        "createdAt": "DateTime",
+        "description": "String",
+        "descriptionHtml": "HTML",
+        "handle": "String",
+        "id": "ID",
+        "images": "ImageConnection",
+        "onlineStoreUrl": "URL",
+        "options": "ProductOption",
+        "productType": "String",
+        "publishedAt": "DateTime",
+        "title": "String",
+        "updatedAt": "DateTime",
+        "variants": "ProductVariantConnection",
+        "vendor": "String"
+      },
+      "implementsNode": true
+    },
+    "hasNextPage": {
+      "value": true
+    },
+    "hasPreviousPage": {
+      "value": true
+    },
+    "variableValues": {
+      "first": 20
+    },
+    "img": "https://cdn.shopify.com/s/files/1/0142/1334/9430/products/RB0101100024-Edit_8318c6f3-97b7-4766-8c55-c63a709ff531.jpg?v=1551961956"
+  },
+  {
+    "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0LzE5ODk1Njk5NzAyMzA=",
+    "availableForSale": true,
+    "createdAt": "2019-02-28T20:07:15Z",
+    "updatedAt": "2019-08-27T08:07:49Z",
+    "descriptionHtml": "Bonomi kafijas maisījumā izmantotas rūpīgi atlasītas pupiņas no pasaulē vadošajām kafijas audzēšanas valstīm. <!-- split --> [TABS]\n<h5>Apraksts</h5>\n<p>Bonomi BLU kafijas pupiņu maisījums sastāv no labākajām Arabica šķirnes kafijas pupiņām. Šis Bonomi kafijas pupiņu maisījums ir viens no vecākajiem, tradicionālajiem Bonomi pupiņu maisījumiem.Kafijas pupiņas ir grauzdētas balstoties uz labākajām itāļu tradīcijām, lai iegūtu pilnīgu un harmonisku garšu kopā ar īpaši bagātīgu aromātu, kas raksturo patiesi baudāmu kafijas tasīti. </p>\n<p> </p>\n<h5>Specifikācija</h5>\n<p> </p>\n<h5>Lietošanas instrukcija</h5>\n<p> </p>\n[/TABS]",
+    "description": "Bonomi kafijas maisījumā izmantotas rūpīgi atlasītas pupiņas no pasaulē vadošajām kafijas audzēšanas valstīm. &lt;!-- split --> [TABS] Apraksts Bonomi BLU kafijas pupiņu maisījums sastāv no labākajām Arabica šķirnes kafijas pupiņām. Šis Bonomi kafijas pupiņu maisījums ir viens no vecākajiem, tradicionālajiem Bonomi pupiņu maisījumiem.Kafijas pupiņas ir grauzdētas balstoties uz labākajām itāļu tradīcijām, lai iegūtu pilnīgu un harmonisku garšu kopā ar īpaši bagātīgu aromātu, kas raksturo patiesi baudāmu kafijas tasīti. Specifikācija Lietošanas instrukcija [/TABS]",
+    "handle": "572-kafijas-pupinas-bonomi-blu-1kg",
+    "productType": "Kafijas pupiņas",
+    "title": "Kafijas pupiņas Bonomi, BLU, 1kg",
+    "vendor": "Bonomi",
+    "publishedAt": "2019-07-14T22:42:29Z",
+    "onlineStoreUrl": "https://www.esmilukafiju.lv/products/572-kafijas-pupinas-bonomi-blu-1kg",
+    "options": [
+      {
+        "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0T3B0aW9uLzI3NzUzNzI2MjgwMjI=",
+        "name": "Title",
+        "values": [
+          {
+            "value": "Default Title",
+            "type": {
+              "name": "String",
+              "kind": "SCALAR"
+            }
+          }
+        ],
+        "type": {
+          "name": "ProductOption",
+          "kind": "OBJECT",
+          "fieldBaseTypes": {
+            "name": "String",
+            "values": "String"
+          },
+          "implementsNode": true
+        }
+      }
+    ],
+    "images": [
+      {
+        "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0SW1hZ2UvNjc5NTk3NTg4NDg1NA==",
+        "src": "https://cdn.shopify.com/s/files/1/0142/1334/9430/products/BN050_9f9293f1-5c70-4067-a6ec-fcb2b56d089d.jpg?v=1551961965",
+        "altText": "Kafijas pupiņas Bonomi, BLU, 1kg",
+        "type": {
+          "name": "Image",
+          "kind": "OBJECT",
+          "fieldBaseTypes": {
+            "altText": "String",
+            "id": "ID",
+            "originalSrc": "URL",
+            "src": "URL"
+          },
+          "implementsNode": false
+        },
+        "hasNextPage": {
+          "value": true
+        },
+        "hasPreviousPage": false,
+        "variableValues": {
+          "first": 20
+        }
+      },
+      {
+        "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0SW1hZ2UvNjc5NTk3NTkxNzYyMg==",
+        "src": "https://cdn.shopify.com/s/files/1/0142/1334/9430/products/BN050_vide_84c56d02-9b09-4cb8-bafe-e4b0aa705092.jpg?v=1551961965",
+        "altText": null,
+        "type": {
+          "name": "Image",
+          "kind": "OBJECT",
+          "fieldBaseTypes": {
+            "altText": "String",
+            "id": "ID",
+            "originalSrc": "URL",
+            "src": "URL"
+          },
+          "implementsNode": false
+        },
+        "hasNextPage": false,
+        "hasPreviousPage": {
+          "value": true
+        },
+        "variableValues": {
+          "first": 20
+        }
+      }
+    ],
+    "variants": [
+      {
+        "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0VmFyaWFudC8xOTgzMTIwODY3MzMzNA==",
+        "title": "Default Title",
+        "price": "28.00",
+        "priceV2": {
+          "amount": "28.0",
+          "currencyCode": "EUR",
+          "type": {
+            "name": "MoneyV2",
+            "kind": "OBJECT",
+            "fieldBaseTypes": {
+              "amount": "Decimal",
+              "currencyCode": "CurrencyCode"
+            },
+            "implementsNode": false
+          }
+        },
+        "presentmentPrices": [
+          {
+            "price": {
+              "amount": "28.0",
+              "currencyCode": "EUR",
+              "type": {
+                "name": "MoneyV2",
+                "kind": "OBJECT",
+                "fieldBaseTypes": {
+                  "amount": "Decimal",
+                  "currencyCode": "CurrencyCode"
+                },
+                "implementsNode": false
+              }
+            },
+            "type": {
+              "name": "ProductVariantPricePair",
+              "kind": "OBJECT",
+              "fieldBaseTypes": {
+                "price": "MoneyV2"
+              },
+              "implementsNode": false
+            },
+            "hasNextPage": false,
+            "hasPreviousPage": false,
+            "variableValues": {
+              "first": 20
+            }
+          }
+        ],
+        "weight": 0,
+        "available": true,
+        "sku": "BN050",
+        "compareAtPrice": null,
+        "compareAtPriceV2": null,
+        "image": {
+          "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0SW1hZ2UvNjc5NTk3NTg4NDg1NA==",
+          "src": "https://cdn.shopify.com/s/files/1/0142/1334/9430/products/BN050_9f9293f1-5c70-4067-a6ec-fcb2b56d089d.jpg?v=1551961965",
+          "altText": "Kafijas pupiņas Bonomi, BLU, 1kg",
+          "type": {
+            "name": "Image",
+            "kind": "OBJECT",
+            "fieldBaseTypes": {
+              "altText": "String",
+              "id": "ID",
+              "originalSrc": "URL",
+              "src": "URL"
+            },
+            "implementsNode": false
+          }
+        },
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title",
+            "type": {
+              "name": "SelectedOption",
+              "kind": "OBJECT",
+              "fieldBaseTypes": {
+                "name": "String",
+                "value": "String"
+              },
+              "implementsNode": false
+            }
+          }
+        ],
+        "type": {
+          "name": "ProductVariant",
+          "kind": "OBJECT",
+          "fieldBaseTypes": {
+            "availableForSale": "Boolean",
+            "compareAtPrice": "Money",
+            "compareAtPriceV2": "MoneyV2",
+            "id": "ID",
+            "image": "Image",
+            "presentmentPrices": "ProductVariantPricePairConnection",
+            "price": "Money",
+            "priceV2": "MoneyV2",
+            "product": "Product",
+            "selectedOptions": "SelectedOption",
+            "sku": "String",
+            "title": "String",
+            "weight": "Float"
+          },
+          "implementsNode": true
+        },
+        "hasNextPage": false,
+        "hasPreviousPage": false,
+        "variableValues": {
+          "first": 20
+        }
+      }
+    ],
+    "type": {
+      "name": "Product",
+      "kind": "OBJECT",
+      "fieldBaseTypes": {
+        "availableForSale": "Boolean",
+        "createdAt": "DateTime",
+        "description": "String",
+        "descriptionHtml": "HTML",
+        "handle": "String",
+        "id": "ID",
+        "images": "ImageConnection",
+        "onlineStoreUrl": "URL",
+        "options": "ProductOption",
+        "productType": "String",
+        "publishedAt": "DateTime",
+        "title": "String",
+        "updatedAt": "DateTime",
+        "variants": "ProductVariantConnection",
+        "vendor": "String"
+      },
+      "implementsNode": true
+    },
+    "hasNextPage": {
+      "value": true
+    },
+    "hasPreviousPage": {
+      "value": true
+    },
+    "variableValues": {
+      "first": 20
+    },
+    "img": "https://cdn.shopify.com/s/files/1/0142/1334/9430/products/BN050_9f9293f1-5c70-4067-a6ec-fcb2b56d089d.jpg?v=1551961965"
+  },
+  {
+    "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0LzE5ODk1NzAxMzQwNzA=",
+    "availableForSale": true,
+    "createdAt": "2019-02-28T20:07:19Z",
+    "updatedAt": "2019-09-02T12:07:44Z",
+    "descriptionHtml": "Bonomi kafijas maisījumā izmantotas rūpīgi atlasītas pupiņas no pasaulē vadošajām kafijas audzēšanas valstīm. <!-- split --> [TABS]\n<h5>Apraksts</h5>\n<meta charset=\"utf-8\">\n<p><span>Centenario ir balansēts pupiņu maisījums, galvenokārt sastāvot no Arabica šķirnes pupiņām, tām pievienojot augstas kvalitātes Robusta pupiņas ar tumšās šokolādes notīm.Kafijas pupiņas ir grauzdētas balstoties uz labākajām itāļu tradīcijām, lai iegūtu pilnīgu un harmonisku garšu kopā ar īpaši bagātīgu aromātu, kas raksturo patiesi baudāmu kafijas tasīti. </span>Specifikācija</p>\n<p> </p>\n<h5>Lietošanas instrukcija</h5>\n<p> </p>\n[/TABS]",
+    "description": "Bonomi kafijas maisījumā izmantotas rūpīgi atlasītas pupiņas no pasaulē vadošajām kafijas audzēšanas valstīm. &lt;!-- split --> [TABS] Apraksts Centenario ir balansēts pupiņu maisījums, galvenokārt sastāvot no Arabica šķirnes pupiņām, tām pievienojot augstas kvalitātes Robusta pupiņas ar tumšās šokolādes notīm.Kafijas pupiņas ir grauzdētas balstoties uz labākajām itāļu tradīcijām, lai iegūtu pilnīgu un harmonisku garšu kopā ar īpaši bagātīgu aromātu, kas raksturo patiesi baudāmu kafijas tasīti. Specifikācija Lietošanas instrukcija [/TABS]",
+    "handle": "455-kafijas-pupinas-bonomi-centenario-1kg",
+    "productType": "Kafijas pupiņas",
+    "title": "Kafijas pupiņas Bonomi, Centenario, 1kg",
+    "vendor": "Bonomi",
+    "publishedAt": "2019-07-14T22:42:29Z",
+    "onlineStoreUrl": "https://www.esmilukafiju.lv/products/455-kafijas-pupinas-bonomi-centenario-1kg",
+    "options": [
+      {
+        "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0T3B0aW9uLzI3NzUzNzI3OTE4NjI=",
+        "name": "Title",
+        "values": [
+          {
+            "value": "Default Title",
+            "type": {
+              "name": "String",
+              "kind": "SCALAR"
+            }
+          }
+        ],
+        "type": {
+          "name": "ProductOption",
+          "kind": "OBJECT",
+          "fieldBaseTypes": {
+            "name": "String",
+            "values": "String"
+          },
+          "implementsNode": true
+        }
+      }
+    ],
+    "images": [
+      {
+        "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0SW1hZ2UvNjc5NTk3NjE3OTc2Ng==",
+        "src": "https://cdn.shopify.com/s/files/1/0142/1334/9430/products/BN310-1_11bc6d8f-8f02-4fad-b0d3-0c8c7c62e7cc.jpg?v=1553255205",
+        "altText": null,
+        "type": {
+          "name": "Image",
+          "kind": "OBJECT",
+          "fieldBaseTypes": {
+            "altText": "String",
+            "id": "ID",
+            "originalSrc": "URL",
+            "src": "URL"
+          },
+          "implementsNode": false
+        },
+        "hasNextPage": {
+          "value": true
+        },
+        "hasPreviousPage": false,
+        "variableValues": {
+          "first": 20
+        }
+      },
+      {
+        "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0SW1hZ2UvNzE0MDc0NjIzMTg2Mg==",
+        "src": "https://cdn.shopify.com/s/files/1/0142/1334/9430/products/BN310.jpg?v=1556282292",
+        "altText": null,
+        "type": {
+          "name": "Image",
+          "kind": "OBJECT",
+          "fieldBaseTypes": {
+            "altText": "String",
+            "id": "ID",
+            "originalSrc": "URL",
+            "src": "URL"
+          },
+          "implementsNode": false
+        },
+        "hasNextPage": false,
+        "hasPreviousPage": {
+          "value": true
+        },
+        "variableValues": {
+          "first": 20
+        }
+      }
+    ],
+    "variants": [
+      {
+        "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0VmFyaWFudC8xOTgzMTIwODcwNjEwMg==",
+        "title": "Default Title",
+        "price": "23.99",
+        "priceV2": {
+          "amount": "23.99",
+          "currencyCode": "EUR",
+          "type": {
+            "name": "MoneyV2",
+            "kind": "OBJECT",
+            "fieldBaseTypes": {
+              "amount": "Decimal",
+              "currencyCode": "CurrencyCode"
+            },
+            "implementsNode": false
+          }
+        },
+        "presentmentPrices": [
+          {
+            "price": {
+              "amount": "23.99",
+              "currencyCode": "EUR",
+              "type": {
+                "name": "MoneyV2",
+                "kind": "OBJECT",
+                "fieldBaseTypes": {
+                  "amount": "Decimal",
+                  "currencyCode": "CurrencyCode"
+                },
+                "implementsNode": false
+              }
+            },
+            "type": {
+              "name": "ProductVariantPricePair",
+              "kind": "OBJECT",
+              "fieldBaseTypes": {
+                "price": "MoneyV2"
+              },
+              "implementsNode": false
+            },
+            "hasNextPage": false,
+            "hasPreviousPage": false,
+            "variableValues": {
+              "first": 20
+            }
+          }
+        ],
+        "weight": 0,
+        "available": true,
+        "sku": "BN310",
+        "compareAtPrice": null,
+        "compareAtPriceV2": null,
+        "image": {
+          "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0SW1hZ2UvNjc5NTk3NjE3OTc2Ng==",
+          "src": "https://cdn.shopify.com/s/files/1/0142/1334/9430/products/BN310-1_11bc6d8f-8f02-4fad-b0d3-0c8c7c62e7cc.jpg?v=1553255205",
+          "altText": null,
+          "type": {
+            "name": "Image",
+            "kind": "OBJECT",
+            "fieldBaseTypes": {
+              "altText": "String",
+              "id": "ID",
+              "originalSrc": "URL",
+              "src": "URL"
+            },
+            "implementsNode": false
+          }
+        },
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title",
+            "type": {
+              "name": "SelectedOption",
+              "kind": "OBJECT",
+              "fieldBaseTypes": {
+                "name": "String",
+                "value": "String"
+              },
+              "implementsNode": false
+            }
+          }
+        ],
+        "type": {
+          "name": "ProductVariant",
+          "kind": "OBJECT",
+          "fieldBaseTypes": {
+            "availableForSale": "Boolean",
+            "compareAtPrice": "Money",
+            "compareAtPriceV2": "MoneyV2",
+            "id": "ID",
+            "image": "Image",
+            "presentmentPrices": "ProductVariantPricePairConnection",
+            "price": "Money",
+            "priceV2": "MoneyV2",
+            "product": "Product",
+            "selectedOptions": "SelectedOption",
+            "sku": "String",
+            "title": "String",
+            "weight": "Float"
+          },
+          "implementsNode": true
+        },
+        "hasNextPage": false,
+        "hasPreviousPage": false,
+        "variableValues": {
+          "first": 20
+        }
+      }
+    ],
+    "type": {
+      "name": "Product",
+      "kind": "OBJECT",
+      "fieldBaseTypes": {
+        "availableForSale": "Boolean",
+        "createdAt": "DateTime",
+        "description": "String",
+        "descriptionHtml": "HTML",
+        "handle": "String",
+        "id": "ID",
+        "images": "ImageConnection",
+        "onlineStoreUrl": "URL",
+        "options": "ProductOption",
+        "productType": "String",
+        "publishedAt": "DateTime",
+        "title": "String",
+        "updatedAt": "DateTime",
+        "variants": "ProductVariantConnection",
+        "vendor": "String"
+      },
+      "implementsNode": true
+    },
+    "hasNextPage": {
+      "value": true
+    },
+    "hasPreviousPage": {
+      "value": true
+    },
+    "variableValues": {
+      "first": 20
+    },
+    "img": "https://cdn.shopify.com/s/files/1/0142/1334/9430/products/BN310-1_11bc6d8f-8f02-4fad-b0d3-0c8c7c62e7cc.jpg?v=1553255205"
+  },
+  {
+    "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0LzE5ODk1NzAyNjUxNDI=",
+    "availableForSale": true,
+    "createdAt": "2019-02-28T20:07:23Z",
+    "updatedAt": "2019-08-21T07:04:54Z",
+    "descriptionHtml": "Bonomi kafijas maisījumā izmantotas rūpīgi atlasītas pupiņas no pasaulē vadošajām kafijas audzēšanas valstīm. <!-- split --> [TABS]\n<h5>Apraksts</h5>\n<meta charset=\"utf-8\">\n<p><span>Kaffa kafijas pupiņu maisījums, kas sniegs ziedainu nošu Espresso un liegla pieskāriena saldskābu garšu. Kafijas maisījums ar visaptverošu garšu un viegli pikantu aromātu.Bonomi kafija ir pagatavota izmantojot rūpīgi atlasītas kafijas pupiņas no pasaulē vadošākajām pupiņu audzēšanas valstīm. Kafijas pupiņas ir grauzdētas balstoties uz labākajām itāļu tradīcijām, lai iegūtu pilnīgu un harmonisku garšu kopā ar īpaši bagātīgu aromātu, kas raksturo patiesi baudāmu kafijas tasīti.</span>Specifikācija</p>\n<p> </p>\n<h5>Lietošanas instrukcija</h5>\n<p> </p>\n[/TABS]",
+    "description": "Bonomi kafijas maisījumā izmantotas rūpīgi atlasītas pupiņas no pasaulē vadošajām kafijas audzēšanas valstīm. &lt;!-- split --> [TABS] Apraksts Kaffa kafijas pupiņu maisījums, kas sniegs ziedainu nošu Espresso un liegla pieskāriena saldskābu garšu. Kafijas maisījums ar visaptverošu garšu un viegli pikantu aromātu.Bonomi kafija ir pagatavota izmantojot rūpīgi atlasītas kafijas pupiņas no pasaulē vadošākajām pupiņu audzēšanas valstīm. Kafijas pupiņas ir grauzdētas balstoties uz labākajām itāļu tradīcijām, lai iegūtu pilnīgu un harmonisku garšu kopā ar īpaši bagātīgu aromātu, kas raksturo patiesi baudāmu kafijas tasīti.Specifikācija Lietošanas instrukcija [/TABS]",
+    "handle": "705-kafijas-pupinas-bonomi-kaffa-1kg",
+    "productType": "Kafijas pupiņas",
+    "title": "Kafijas pupiņas Bonomi, Kaffa, 1kg",
+    "vendor": "Bonomi",
+    "publishedAt": "2019-07-14T22:42:30Z",
+    "onlineStoreUrl": "https://www.esmilukafiju.lv/products/705-kafijas-pupinas-bonomi-kaffa-1kg",
+    "options": [
+      {
+        "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0T3B0aW9uLzI3NzUzNzI5MjI5MzQ=",
+        "name": "Title",
+        "values": [
+          {
+            "value": "Default Title",
+            "type": {
+              "name": "String",
+              "kind": "SCALAR"
+            }
+          }
+        ],
+        "type": {
+          "name": "ProductOption",
+          "kind": "OBJECT",
+          "fieldBaseTypes": {
+            "name": "String",
+            "values": "String"
+          },
+          "implementsNode": true
+        }
+      }
+    ],
+    "images": [
+      {
+        "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0SW1hZ2UvNjc5NTk3NjI3ODA3MA==",
+        "src": "https://cdn.shopify.com/s/files/1/0142/1334/9430/products/BN350_a8821dd1-fe41-44a2-a096-bd5d6a3acc5d.jpg?v=1551961973",
+        "altText": "Kafijas pupiņas Bonomi, Kaffa, 1kg",
+        "type": {
+          "name": "Image",
+          "kind": "OBJECT",
+          "fieldBaseTypes": {
+            "altText": "String",
+            "id": "ID",
+            "originalSrc": "URL",
+            "src": "URL"
+          },
+          "implementsNode": false
+        },
+        "hasNextPage": {
+          "value": true
+        },
+        "hasPreviousPage": false,
+        "variableValues": {
+          "first": 20
+        }
+      },
+      {
+        "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0SW1hZ2UvNjc5NTk3NjMxMDgzOA==",
+        "src": "https://cdn.shopify.com/s/files/1/0142/1334/9430/products/BN350_vide_a5dfa81d-d4f4-4ecc-b1a0-764ed7bd8693.jpg?v=1551961973",
+        "altText": null,
+        "type": {
+          "name": "Image",
+          "kind": "OBJECT",
+          "fieldBaseTypes": {
+            "altText": "String",
+            "id": "ID",
+            "originalSrc": "URL",
+            "src": "URL"
+          },
+          "implementsNode": false
+        },
+        "hasNextPage": false,
+        "hasPreviousPage": {
+          "value": true
+        },
+        "variableValues": {
+          "first": 20
+        }
+      }
+    ],
+    "variants": [
+      {
+        "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0VmFyaWFudC8xOTgzMTIwODczODg3MA==",
+        "title": "Default Title",
+        "price": "26.00",
+        "priceV2": {
+          "amount": "26.0",
+          "currencyCode": "EUR",
+          "type": {
+            "name": "MoneyV2",
+            "kind": "OBJECT",
+            "fieldBaseTypes": {
+              "amount": "Decimal",
+              "currencyCode": "CurrencyCode"
+            },
+            "implementsNode": false
+          }
+        },
+        "presentmentPrices": [
+          {
+            "price": {
+              "amount": "26.0",
+              "currencyCode": "EUR",
+              "type": {
+                "name": "MoneyV2",
+                "kind": "OBJECT",
+                "fieldBaseTypes": {
+                  "amount": "Decimal",
+                  "currencyCode": "CurrencyCode"
+                },
+                "implementsNode": false
+              }
+            },
+            "type": {
+              "name": "ProductVariantPricePair",
+              "kind": "OBJECT",
+              "fieldBaseTypes": {
+                "price": "MoneyV2"
+              },
+              "implementsNode": false
+            },
+            "hasNextPage": false,
+            "hasPreviousPage": false,
+            "variableValues": {
+              "first": 20
+            }
+          }
+        ],
+        "weight": 0,
+        "available": true,
+        "sku": "BN350",
+        "compareAtPrice": null,
+        "compareAtPriceV2": null,
+        "image": {
+          "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0SW1hZ2UvNjc5NTk3NjI3ODA3MA==",
+          "src": "https://cdn.shopify.com/s/files/1/0142/1334/9430/products/BN350_a8821dd1-fe41-44a2-a096-bd5d6a3acc5d.jpg?v=1551961973",
+          "altText": "Kafijas pupiņas Bonomi, Kaffa, 1kg",
+          "type": {
+            "name": "Image",
+            "kind": "OBJECT",
+            "fieldBaseTypes": {
+              "altText": "String",
+              "id": "ID",
+              "originalSrc": "URL",
+              "src": "URL"
+            },
+            "implementsNode": false
+          }
+        },
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title",
+            "type": {
+              "name": "SelectedOption",
+              "kind": "OBJECT",
+              "fieldBaseTypes": {
+                "name": "String",
+                "value": "String"
+              },
+              "implementsNode": false
+            }
+          }
+        ],
+        "type": {
+          "name": "ProductVariant",
+          "kind": "OBJECT",
+          "fieldBaseTypes": {
+            "availableForSale": "Boolean",
+            "compareAtPrice": "Money",
+            "compareAtPriceV2": "MoneyV2",
+            "id": "ID",
+            "image": "Image",
+            "presentmentPrices": "ProductVariantPricePairConnection",
+            "price": "Money",
+            "priceV2": "MoneyV2",
+            "product": "Product",
+            "selectedOptions": "SelectedOption",
+            "sku": "String",
+            "title": "String",
+            "weight": "Float"
+          },
+          "implementsNode": true
+        },
+        "hasNextPage": false,
+        "hasPreviousPage": false,
+        "variableValues": {
+          "first": 20
+        }
+      }
+    ],
+    "type": {
+      "name": "Product",
+      "kind": "OBJECT",
+      "fieldBaseTypes": {
+        "availableForSale": "Boolean",
+        "createdAt": "DateTime",
+        "description": "String",
+        "descriptionHtml": "HTML",
+        "handle": "String",
+        "id": "ID",
+        "images": "ImageConnection",
+        "onlineStoreUrl": "URL",
+        "options": "ProductOption",
+        "productType": "String",
+        "publishedAt": "DateTime",
+        "title": "String",
+        "updatedAt": "DateTime",
+        "variants": "ProductVariantConnection",
+        "vendor": "String"
+      },
+      "implementsNode": true
+    },
+    "hasNextPage": {
+      "value": true
+    },
+    "hasPreviousPage": {
+      "value": true
+    },
+    "variableValues": {
+      "first": 20
+    },
+    "img": "https://cdn.shopify.com/s/files/1/0142/1334/9430/products/BN350_a8821dd1-fe41-44a2-a096-bd5d6a3acc5d.jpg?v=1551961973"
+  },
+  {
+    "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0LzE5ODk1NzA0OTQ1MTg=",
+    "availableForSale": true,
+    "createdAt": "2019-02-28T20:07:28Z",
+    "updatedAt": "2019-09-02T14:07:31Z",
+    "descriptionHtml": "Bonomi kafijas maisījumā izmantotas rūpīgi atlasītas pupiņas no pasaulē vadošajām kafijas audzēšanas valstīm. <!-- split --> [TABS]\n<h5>Apraksts</h5>\n<meta charset=\"utf-8\">\n<p><span>Special Bar kafijas pupiņu maisījums ir perfekta rīta kafija, pilnīga garšā, zema skābuma pakāpe, veidota izmantojot pašas izmeklētākās Arabikas un Robustas kafijas pupiņas. Bonomi kafija ir pagatavota izmantojot rūpīgi atlasītas kafijas pupiņas no pasaulē vadošākajām pupiņu audzēšanas valstīm. Kafijas pupiņas ir grauzdētas balstoties uz labākajām itāļu tradīcijām, lai iegūtu pilnīgu un harmonisku garšu kopā ar īpaši bagātīgu aromātu, kas raksturo patiesi baudāmu kafijas tasīti.</span>Specifikācija</p>\n<p> </p>\n<h5>Lietošanas instrukcija</h5>\n<p> </p>\n[/TABS]",
+    "description": "Bonomi kafijas maisījumā izmantotas rūpīgi atlasītas pupiņas no pasaulē vadošajām kafijas audzēšanas valstīm. &lt;!-- split --> [TABS] Apraksts Special Bar kafijas pupiņu maisījums ir perfekta rīta kafija, pilnīga garšā, zema skābuma pakāpe, veidota izmantojot pašas izmeklētākās Arabikas un Robustas kafijas pupiņas. Bonomi kafija ir pagatavota izmantojot rūpīgi atlasītas kafijas pupiņas no pasaulē vadošākajām pupiņu audzēšanas valstīm. Kafijas pupiņas ir grauzdētas balstoties uz labākajām itāļu tradīcijām, lai iegūtu pilnīgu un harmonisku garšu kopā ar īpaši bagātīgu aromātu, kas raksturo patiesi baudāmu kafijas tasīti.Specifikācija Lietošanas instrukcija [/TABS]",
+    "handle": "796-kafijas-pupinas-bonomi-special-bar-1kg",
+    "productType": "Kafijas pupiņas",
+    "title": "Kafijas pupiņas Bonomi, Special Bar, 1kg",
+    "vendor": "Bonomi",
+    "publishedAt": "2019-07-14T22:42:30Z",
+    "onlineStoreUrl": "https://www.esmilukafiju.lv/products/796-kafijas-pupinas-bonomi-special-bar-1kg",
+    "options": [
+      {
+        "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0T3B0aW9uLzI3NzUzNzMxODUwNzg=",
+        "name": "Title",
+        "values": [
+          {
+            "value": "Default Title",
+            "type": {
+              "name": "String",
+              "kind": "SCALAR"
+            }
+          }
+        ],
+        "type": {
+          "name": "ProductOption",
+          "kind": "OBJECT",
+          "fieldBaseTypes": {
+            "name": "String",
+            "values": "String"
+          },
+          "implementsNode": true
+        }
+      }
+    ],
+    "images": [
+      {
+        "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0SW1hZ2UvNjc5NTk3NjgzNTEyNg==",
+        "src": "https://cdn.shopify.com/s/files/1/0142/1334/9430/products/BN376_64a8b1ba-053f-43be-9cc7-c0ddff08a9cb.jpg?v=1551961979",
+        "altText": "Kafijas pupiņas Bonomi, Special Bar, 1kg",
+        "type": {
+          "name": "Image",
+          "kind": "OBJECT",
+          "fieldBaseTypes": {
+            "altText": "String",
+            "id": "ID",
+            "originalSrc": "URL",
+            "src": "URL"
+          },
+          "implementsNode": false
+        },
+        "hasNextPage": {
+          "value": true
+        },
+        "hasPreviousPage": false,
+        "variableValues": {
+          "first": 20
+        }
+      },
+      {
+        "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0SW1hZ2UvNjc5NTk3Njg2Nzg5NA==",
+        "src": "https://cdn.shopify.com/s/files/1/0142/1334/9430/products/BN376-1_5c9f886e-3478-4aba-b51f-6e53ace9459d.jpg?v=1551961979",
+        "altText": null,
+        "type": {
+          "name": "Image",
+          "kind": "OBJECT",
+          "fieldBaseTypes": {
+            "altText": "String",
+            "id": "ID",
+            "originalSrc": "URL",
+            "src": "URL"
+          },
+          "implementsNode": false
+        },
+        "hasNextPage": {
+          "value": true
+        },
+        "hasPreviousPage": {
+          "value": true
+        },
+        "variableValues": {
+          "first": 20
+        }
+      },
+      {
+        "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0SW1hZ2UvNjc5NTk3NjkwMDY2Mg==",
+        "src": "https://cdn.shopify.com/s/files/1/0142/1334/9430/products/BN376_vide_38e2ee99-8443-438b-8c78-d8df418ad11c.jpg?v=1551961979",
+        "altText": null,
+        "type": {
+          "name": "Image",
+          "kind": "OBJECT",
+          "fieldBaseTypes": {
+            "altText": "String",
+            "id": "ID",
+            "originalSrc": "URL",
+            "src": "URL"
+          },
+          "implementsNode": false
+        },
+        "hasNextPage": false,
+        "hasPreviousPage": {
+          "value": true
+        },
+        "variableValues": {
+          "first": 20
+        }
+      }
+    ],
+    "variants": [
+      {
+        "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0VmFyaWFudC8xOTgzMTIwODc3MTYzOA==",
+        "title": "Default Title",
+        "price": "20.50",
+        "priceV2": {
+          "amount": "20.5",
+          "currencyCode": "EUR",
+          "type": {
+            "name": "MoneyV2",
+            "kind": "OBJECT",
+            "fieldBaseTypes": {
+              "amount": "Decimal",
+              "currencyCode": "CurrencyCode"
+            },
+            "implementsNode": false
+          }
+        },
+        "presentmentPrices": [
+          {
+            "price": {
+              "amount": "20.5",
+              "currencyCode": "EUR",
+              "type": {
+                "name": "MoneyV2",
+                "kind": "OBJECT",
+                "fieldBaseTypes": {
+                  "amount": "Decimal",
+                  "currencyCode": "CurrencyCode"
+                },
+                "implementsNode": false
+              }
+            },
+            "type": {
+              "name": "ProductVariantPricePair",
+              "kind": "OBJECT",
+              "fieldBaseTypes": {
+                "price": "MoneyV2"
+              },
+              "implementsNode": false
+            },
+            "hasNextPage": false,
+            "hasPreviousPage": false,
+            "variableValues": {
+              "first": 20
+            }
+          }
+        ],
+        "weight": 0,
+        "available": true,
+        "sku": "BN376",
+        "compareAtPrice": null,
+        "compareAtPriceV2": null,
+        "image": {
+          "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0SW1hZ2UvNjc5NTk3NjgzNTEyNg==",
+          "src": "https://cdn.shopify.com/s/files/1/0142/1334/9430/products/BN376_64a8b1ba-053f-43be-9cc7-c0ddff08a9cb.jpg?v=1551961979",
+          "altText": "Kafijas pupiņas Bonomi, Special Bar, 1kg",
+          "type": {
+            "name": "Image",
+            "kind": "OBJECT",
+            "fieldBaseTypes": {
+              "altText": "String",
+              "id": "ID",
+              "originalSrc": "URL",
+              "src": "URL"
+            },
+            "implementsNode": false
+          }
+        },
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title",
+            "type": {
+              "name": "SelectedOption",
+              "kind": "OBJECT",
+              "fieldBaseTypes": {
+                "name": "String",
+                "value": "String"
+              },
+              "implementsNode": false
+            }
+          }
+        ],
+        "type": {
+          "name": "ProductVariant",
+          "kind": "OBJECT",
+          "fieldBaseTypes": {
+            "availableForSale": "Boolean",
+            "compareAtPrice": "Money",
+            "compareAtPriceV2": "MoneyV2",
+            "id": "ID",
+            "image": "Image",
+            "presentmentPrices": "ProductVariantPricePairConnection",
+            "price": "Money",
+            "priceV2": "MoneyV2",
+            "product": "Product",
+            "selectedOptions": "SelectedOption",
+            "sku": "String",
+            "title": "String",
+            "weight": "Float"
+          },
+          "implementsNode": true
+        },
+        "hasNextPage": false,
+        "hasPreviousPage": false,
+        "variableValues": {
+          "first": 20
+        }
+      }
+    ],
+    "type": {
+      "name": "Product",
+      "kind": "OBJECT",
+      "fieldBaseTypes": {
+        "availableForSale": "Boolean",
+        "createdAt": "DateTime",
+        "description": "String",
+        "descriptionHtml": "HTML",
+        "handle": "String",
+        "id": "ID",
+        "images": "ImageConnection",
+        "onlineStoreUrl": "URL",
+        "options": "ProductOption",
+        "productType": "String",
+        "publishedAt": "DateTime",
+        "title": "String",
+        "updatedAt": "DateTime",
+        "variants": "ProductVariantConnection",
+        "vendor": "String"
+      },
+      "implementsNode": true
+    },
+    "hasNextPage": {
+      "value": true
+    },
+    "hasPreviousPage": {
+      "value": true
+    },
+    "variableValues": {
+      "first": 20
+    },
+    "img": "https://cdn.shopify.com/s/files/1/0142/1334/9430/products/BN376_64a8b1ba-053f-43be-9cc7-c0ddff08a9cb.jpg?v=1551961979"
+  },
+  {
+    "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0LzE5ODk1NzA3NTY2NjI=",
+    "availableForSale": true,
+    "createdAt": "2019-02-28T20:07:32Z",
+    "updatedAt": "2019-08-06T14:07:43Z",
+    "descriptionHtml": "Segafredo pupiņas - grauzdētas ar mīlestību un rūpēm par katru kafijas pupiņu! <!-- split --> [TABS]\n<h5>Apraksts</h5>\n<p>Extra Mild kafija ir saldu un maigu kafijas īpašību maisījums, kuru ir radījuši Segafredo grauzdēšanas eksperti, sniedzot augstākās kvalitātes Arabikas un Robustas pupiņu  perfekciju Jūsu kafijas tasē!</p>\n<h5>Specifikācija</h5>\n<p> </p>\n<h5>Lietošanas instrukcija</h5>\n<p> </p>\n[/TABS]",
+    "description": "Segafredo pupiņas - grauzdētas ar mīlestību un rūpēm par katru kafijas pupiņu! &lt;!-- split --> [TABS] Apraksts Extra Mild kafija ir saldu un maigu kafijas īpašību maisījums, kuru ir radījuši Segafredo grauzdēšanas eksperti, sniedzot augstākās kvalitātes Arabikas un Robustas pupiņu perfekciju Jūsu kafijas tasē! Specifikācija Lietošanas instrukcija [/TABS]",
+    "handle": "kafijas-pupinas-extra-mild-segafredo-1kg",
+    "productType": "Kafijas pupiņas",
+    "title": "Kafijas pupiņas Extra Mild Segafredo 1kg",
+    "vendor": "Segafredo",
+    "publishedAt": "2019-07-14T22:42:30Z",
+    "onlineStoreUrl": "https://www.esmilukafiju.lv/products/kafijas-pupinas-extra-mild-segafredo-1kg",
+    "options": [
+      {
+        "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0T3B0aW9uLzI3NzUzNzM0Nzk5OTA=",
+        "name": "Title",
+        "values": [
+          {
+            "value": "Default Title",
+            "type": {
+              "name": "String",
+              "kind": "SCALAR"
+            }
+          }
+        ],
+        "type": {
+          "name": "ProductOption",
+          "kind": "OBJECT",
+          "fieldBaseTypes": {
+            "name": "String",
+            "values": "String"
+          },
+          "implementsNode": true
+        }
+      }
+    ],
+    "images": [
+      {
+        "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0SW1hZ2UvNjc5NTk3Nzk4MjAwNg==",
+        "src": "https://cdn.shopify.com/s/files/1/0142/1334/9430/products/SZ010102_b88a9e87-5cbc-4d94-a8cc-505eeab7e8ce.jpg?v=1551961984",
+        "altText": "Kafijas pupiņas Extra Mild Segafredo 1kg",
+        "type": {
+          "name": "Image",
+          "kind": "OBJECT",
+          "fieldBaseTypes": {
+            "altText": "String",
+            "id": "ID",
+            "originalSrc": "URL",
+            "src": "URL"
+          },
+          "implementsNode": false
+        },
+        "hasNextPage": {
+          "value": true
+        },
+        "hasPreviousPage": false,
+        "variableValues": {
+          "first": 20
+        }
+      },
+      {
+        "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0SW1hZ2UvNjc5NTk3ODAxNDc3NA==",
+        "src": "https://cdn.shopify.com/s/files/1/0142/1334/9430/products/SZ010102_vide_9ed984d2-75f0-42a8-9207-58978dbcb69f.jpg?v=1551961984",
+        "altText": null,
+        "type": {
+          "name": "Image",
+          "kind": "OBJECT",
+          "fieldBaseTypes": {
+            "altText": "String",
+            "id": "ID",
+            "originalSrc": "URL",
+            "src": "URL"
+          },
+          "implementsNode": false
+        },
+        "hasNextPage": false,
+        "hasPreviousPage": {
+          "value": true
+        },
+        "variableValues": {
+          "first": 20
+        }
+      }
+    ],
+    "variants": [
+      {
+        "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0VmFyaWFudC8xOTgzMTIwODgwNDQwNg==",
+        "title": "Default Title",
+        "price": "28.00",
+        "priceV2": {
+          "amount": "28.0",
+          "currencyCode": "EUR",
+          "type": {
+            "name": "MoneyV2",
+            "kind": "OBJECT",
+            "fieldBaseTypes": {
+              "amount": "Decimal",
+              "currencyCode": "CurrencyCode"
+            },
+            "implementsNode": false
+          }
+        },
+        "presentmentPrices": [
+          {
+            "price": {
+              "amount": "28.0",
+              "currencyCode": "EUR",
+              "type": {
+                "name": "MoneyV2",
+                "kind": "OBJECT",
+                "fieldBaseTypes": {
+                  "amount": "Decimal",
+                  "currencyCode": "CurrencyCode"
+                },
+                "implementsNode": false
+              }
+            },
+            "type": {
+              "name": "ProductVariantPricePair",
+              "kind": "OBJECT",
+              "fieldBaseTypes": {
+                "price": "MoneyV2"
+              },
+              "implementsNode": false
+            },
+            "hasNextPage": false,
+            "hasPreviousPage": false,
+            "variableValues": {
+              "first": 20
+            }
+          }
+        ],
+        "weight": 0,
+        "available": true,
+        "sku": "SZ010102",
+        "compareAtPrice": null,
+        "compareAtPriceV2": null,
+        "image": {
+          "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0SW1hZ2UvNjc5NTk3Nzk4MjAwNg==",
+          "src": "https://cdn.shopify.com/s/files/1/0142/1334/9430/products/SZ010102_b88a9e87-5cbc-4d94-a8cc-505eeab7e8ce.jpg?v=1551961984",
+          "altText": "Kafijas pupiņas Extra Mild Segafredo 1kg",
+          "type": {
+            "name": "Image",
+            "kind": "OBJECT",
+            "fieldBaseTypes": {
+              "altText": "String",
+              "id": "ID",
+              "originalSrc": "URL",
+              "src": "URL"
+            },
+            "implementsNode": false
+          }
+        },
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title",
+            "type": {
+              "name": "SelectedOption",
+              "kind": "OBJECT",
+              "fieldBaseTypes": {
+                "name": "String",
+                "value": "String"
+              },
+              "implementsNode": false
+            }
+          }
+        ],
+        "type": {
+          "name": "ProductVariant",
+          "kind": "OBJECT",
+          "fieldBaseTypes": {
+            "availableForSale": "Boolean",
+            "compareAtPrice": "Money",
+            "compareAtPriceV2": "MoneyV2",
+            "id": "ID",
+            "image": "Image",
+            "presentmentPrices": "ProductVariantPricePairConnection",
+            "price": "Money",
+            "priceV2": "MoneyV2",
+            "product": "Product",
+            "selectedOptions": "SelectedOption",
+            "sku": "String",
+            "title": "String",
+            "weight": "Float"
+          },
+          "implementsNode": true
+        },
+        "hasNextPage": false,
+        "hasPreviousPage": false,
+        "variableValues": {
+          "first": 20
+        }
+      }
+    ],
+    "type": {
+      "name": "Product",
+      "kind": "OBJECT",
+      "fieldBaseTypes": {
+        "availableForSale": "Boolean",
+        "createdAt": "DateTime",
+        "description": "String",
+        "descriptionHtml": "HTML",
+        "handle": "String",
+        "id": "ID",
+        "images": "ImageConnection",
+        "onlineStoreUrl": "URL",
+        "options": "ProductOption",
+        "productType": "String",
+        "publishedAt": "DateTime",
+        "title": "String",
+        "updatedAt": "DateTime",
+        "variants": "ProductVariantConnection",
+        "vendor": "String"
+      },
+      "implementsNode": true
+    },
+    "hasNextPage": {
+      "value": true
+    },
+    "hasPreviousPage": {
+      "value": true
+    },
+    "variableValues": {
+      "first": 20
+    },
+    "img": "https://cdn.shopify.com/s/files/1/0142/1334/9430/products/SZ010102_b88a9e87-5cbc-4d94-a8cc-505eeab7e8ce.jpg?v=1551961984"
+  },
+  {
+    "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0LzE5ODk1NzA4ODc3MzQ=",
+    "availableForSale": true,
+    "createdAt": "2019-02-28T20:07:36Z",
+    "updatedAt": "2019-07-17T14:07:43Z",
+    "descriptionHtml": "Segafredo Espresso Casa pupiņu kafija 500g. Itāļu cienīga kafija mājās garantēta. <!-- split --> [TABS]\n<h5>Apraksts</h5>\n<p>Balancēts Arabikas un Robustas kafijas maisījums, krēmīgs, un ar intensīvu aromātu. Espresso gluži kā kafijas bārā. Spēcīga garša, noturīga Crema - kafijas puta, augsts kofeīna saturs.</p>\n<h5>Specifikācija</h5>\n<p> </p>\n<h5>Lietošanas instrukcija</h5>\n<p> </p>\n[/TABS]",
+    "description": "Segafredo Espresso Casa pupiņu kafija 500g. Itāļu cienīga kafija mājās garantēta. &lt;!-- split --> [TABS] Apraksts Balancēts Arabikas un Robustas kafijas maisījums, krēmīgs, un ar intensīvu aromātu. Espresso gluži kā kafijas bārā. Spēcīga garša, noturīga Crema - kafijas puta, augsts kofeīna saturs. Specifikācija Lietošanas instrukcija [/TABS]",
+    "handle": "579-kafijas-pupinas-segafredo-espresso-casa-500g",
+    "productType": "Kafijas pupiņas",
+    "title": "Kafijas pupiņas Segafredo Espresso Casa 500g",
+    "vendor": "Segafredo",
+    "publishedAt": "2019-07-14T22:42:30Z",
+    "onlineStoreUrl": "https://www.esmilukafiju.lv/products/579-kafijas-pupinas-segafredo-espresso-casa-500g",
+    "options": [
+      {
+        "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0T3B0aW9uLzI3NzUzNzM2MTEwNjI=",
+        "name": "Title",
+        "values": [
+          {
+            "value": "Default Title",
+            "type": {
+              "name": "String",
+              "kind": "SCALAR"
+            }
+          }
+        ],
+        "type": {
+          "name": "ProductOption",
+          "kind": "OBJECT",
+          "fieldBaseTypes": {
+            "name": "String",
+            "values": "String"
+          },
+          "implementsNode": true
+        }
+      }
+    ],
+    "images": [
+      {
+        "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0SW1hZ2UvNjc5NTk3ODExMzA3OA==",
+        "src": "https://cdn.shopify.com/s/files/1/0142/1334/9430/products/SZ010105_a9d654cd-45ee-453d-a7bc-0c587a3134e4.jpg?v=1551961989",
+        "altText": "Kafijas pupiņas Segafredo Espresso Casa 500g",
+        "type": {
+          "name": "Image",
+          "kind": "OBJECT",
+          "fieldBaseTypes": {
+            "altText": "String",
+            "id": "ID",
+            "originalSrc": "URL",
+            "src": "URL"
+          },
+          "implementsNode": false
+        },
+        "hasNextPage": {
+          "value": true
+        },
+        "hasPreviousPage": false,
+        "variableValues": {
+          "first": 20
+        }
+      },
+      {
+        "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0SW1hZ2UvNjc5NTk3ODE0NTg0Ng==",
+        "src": "https://cdn.shopify.com/s/files/1/0142/1334/9430/products/SZ010105_vide_90e0e490-f4da-4ac1-8c6f-5d1304e770be.jpg?v=1551961989",
+        "altText": null,
+        "type": {
+          "name": "Image",
+          "kind": "OBJECT",
+          "fieldBaseTypes": {
+            "altText": "String",
+            "id": "ID",
+            "originalSrc": "URL",
+            "src": "URL"
+          },
+          "implementsNode": false
+        },
+        "hasNextPage": false,
+        "hasPreviousPage": {
+          "value": true
+        },
+        "variableValues": {
+          "first": 20
+        }
+      }
+    ],
+    "variants": [
+      {
+        "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0VmFyaWFudC8xOTgzMTIwODgzNzE3NA==",
+        "title": "Default Title",
+        "price": "10.49",
+        "priceV2": {
+          "amount": "10.49",
+          "currencyCode": "EUR",
+          "type": {
+            "name": "MoneyV2",
+            "kind": "OBJECT",
+            "fieldBaseTypes": {
+              "amount": "Decimal",
+              "currencyCode": "CurrencyCode"
+            },
+            "implementsNode": false
+          }
+        },
+        "presentmentPrices": [
+          {
+            "price": {
+              "amount": "10.49",
+              "currencyCode": "EUR",
+              "type": {
+                "name": "MoneyV2",
+                "kind": "OBJECT",
+                "fieldBaseTypes": {
+                  "amount": "Decimal",
+                  "currencyCode": "CurrencyCode"
+                },
+                "implementsNode": false
+              }
+            },
+            "type": {
+              "name": "ProductVariantPricePair",
+              "kind": "OBJECT",
+              "fieldBaseTypes": {
+                "price": "MoneyV2"
+              },
+              "implementsNode": false
+            },
+            "hasNextPage": false,
+            "hasPreviousPage": false,
+            "variableValues": {
+              "first": 20
+            }
+          }
+        ],
+        "weight": 0,
+        "available": true,
+        "sku": "SZ010105",
+        "compareAtPrice": null,
+        "compareAtPriceV2": null,
+        "image": {
+          "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0SW1hZ2UvNjc5NTk3ODExMzA3OA==",
+          "src": "https://cdn.shopify.com/s/files/1/0142/1334/9430/products/SZ010105_a9d654cd-45ee-453d-a7bc-0c587a3134e4.jpg?v=1551961989",
+          "altText": "Kafijas pupiņas Segafredo Espresso Casa 500g",
+          "type": {
+            "name": "Image",
+            "kind": "OBJECT",
+            "fieldBaseTypes": {
+              "altText": "String",
+              "id": "ID",
+              "originalSrc": "URL",
+              "src": "URL"
+            },
+            "implementsNode": false
+          }
+        },
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title",
+            "type": {
+              "name": "SelectedOption",
+              "kind": "OBJECT",
+              "fieldBaseTypes": {
+                "name": "String",
+                "value": "String"
+              },
+              "implementsNode": false
+            }
+          }
+        ],
+        "type": {
+          "name": "ProductVariant",
+          "kind": "OBJECT",
+          "fieldBaseTypes": {
+            "availableForSale": "Boolean",
+            "compareAtPrice": "Money",
+            "compareAtPriceV2": "MoneyV2",
+            "id": "ID",
+            "image": "Image",
+            "presentmentPrices": "ProductVariantPricePairConnection",
+            "price": "Money",
+            "priceV2": "MoneyV2",
+            "product": "Product",
+            "selectedOptions": "SelectedOption",
+            "sku": "String",
+            "title": "String",
+            "weight": "Float"
+          },
+          "implementsNode": true
+        },
+        "hasNextPage": false,
+        "hasPreviousPage": false,
+        "variableValues": {
+          "first": 20
+        }
+      }
+    ],
+    "type": {
+      "name": "Product",
+      "kind": "OBJECT",
+      "fieldBaseTypes": {
+        "availableForSale": "Boolean",
+        "createdAt": "DateTime",
+        "description": "String",
+        "descriptionHtml": "HTML",
+        "handle": "String",
+        "id": "ID",
+        "images": "ImageConnection",
+        "onlineStoreUrl": "URL",
+        "options": "ProductOption",
+        "productType": "String",
+        "publishedAt": "DateTime",
+        "title": "String",
+        "updatedAt": "DateTime",
+        "variants": "ProductVariantConnection",
+        "vendor": "String"
+      },
+      "implementsNode": true
+    },
+    "hasNextPage": {
+      "value": true
+    },
+    "hasPreviousPage": {
+      "value": true
+    },
+    "variableValues": {
+      "first": 20
+    },
+    "img": "https://cdn.shopify.com/s/files/1/0142/1334/9430/products/SZ010105_a9d654cd-45ee-453d-a7bc-0c587a3134e4.jpg?v=1551961989"
+  },
+  {
+    "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0LzE5ODk1NzE0MTIwMjI=",
+    "availableForSale": true,
+    "createdAt": "2019-02-28T20:07:48Z",
+    "updatedAt": "2019-09-06T08:07:49Z",
+    "descriptionHtml": "Intensīva garša ar šokolādes niansēm <!-- split --> [TABS]\n<h5>Apraksts</h5>\n<p>Brazīlija ir pasaules vadošā Arabica kafijas ražotāja, kas, galvenokārt, audzēta dienvidaustrumu augstienēs, kur pārmaiņus sausuma un stipra lietus periodos pastāv ideāls klimats.Aromāts ir intensīvs un aptverošs, bet samtainā pilnība organismā rada manāmas garšas baudījuma sajūtas. Īpašais saldums un atšķirīgās šokolādes notis tiek papildinātas ar grauzdiņiem un karameli.</p>\n<h5>Specifikācija</h5>\n<p> </p>\n<h5>Lietošanas instrukcija</h5>\n<p> </p>\n[/TABS]",
+    "description": "Intensīva garša ar šokolādes niansēm &lt;!-- split --> [TABS] Apraksts Brazīlija ir pasaules vadošā Arabica kafijas ražotāja, kas, galvenokārt, audzēta dienvidaustrumu augstienēs, kur pārmaiņus sausuma un stipra lietus periodos pastāv ideāls klimats.Aromāts ir intensīvs un aptverošs, bet samtainā pilnība organismā rada manāmas garšas baudījuma sajūtas. Īpašais saldums un atšķirīgās šokolādes notis tiek papildinātas ar grauzdiņiem un karameli. Specifikācija Lietošanas instrukcija [/TABS]",
+    "handle": "pupinu-kafija-illy-arabica-selection-brazilija-250g",
+    "productType": "Kafijas pupiņas",
+    "title": "Pupiņu kafija Illy Arabica Selection Brazīlija ,250g",
+    "vendor": "illy",
+    "publishedAt": "2019-07-14T22:42:30Z",
+    "onlineStoreUrl": "https://www.esmilukafiju.lv/products/pupinu-kafija-illy-arabica-selection-brazilija-250g",
+    "options": [
+      {
+        "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0T3B0aW9uLzI3NzUzNzQyMzM2NTQ=",
+        "name": "Title",
+        "values": [
+          {
+            "value": "Default Title",
+            "type": {
+              "name": "String",
+              "kind": "SCALAR"
+            }
+          }
+        ],
+        "type": {
+          "name": "ProductOption",
+          "kind": "OBJECT",
+          "fieldBaseTypes": {
+            "name": "String",
+            "values": "String"
+          },
+          "implementsNode": true
+        }
+      }
+    ],
+    "images": [
+      {
+        "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0SW1hZ2UvNjc5NTk4MTM4OTg3OA==",
+        "src": "https://cdn.shopify.com/s/files/1/0142/1334/9430/products/IN7095_e10bf2f2-f2f8-451e-8b0e-71fac7f0da01.jpg?v=1551962009",
+        "altText": "Pupiņu kafija Illy Arabica Selection Brazīlija ,250g",
+        "type": {
+          "name": "Image",
+          "kind": "OBJECT",
+          "fieldBaseTypes": {
+            "altText": "String",
+            "id": "ID",
+            "originalSrc": "URL",
+            "src": "URL"
+          },
+          "implementsNode": false
+        },
+        "hasNextPage": {
+          "value": true
+        },
+        "hasPreviousPage": false,
+        "variableValues": {
+          "first": 20
+        }
+      },
+      {
+        "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0SW1hZ2UvNjc5NTk4MTQyMjY0Ng==",
+        "src": "https://cdn.shopify.com/s/files/1/0142/1334/9430/products/IN7095-1_17d75077-cf54-4791-9df0-c81ae96fbcd1.jpg?v=1551962009",
+        "altText": null,
+        "type": {
+          "name": "Image",
+          "kind": "OBJECT",
+          "fieldBaseTypes": {
+            "altText": "String",
+            "id": "ID",
+            "originalSrc": "URL",
+            "src": "URL"
+          },
+          "implementsNode": false
+        },
+        "hasNextPage": {
+          "value": true
+        },
+        "hasPreviousPage": {
+          "value": true
+        },
+        "variableValues": {
+          "first": 20
+        }
+      },
+      {
+        "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0SW1hZ2UvNjc5NTk4MTQ1NTQxNA==",
+        "src": "https://cdn.shopify.com/s/files/1/0142/1334/9430/products/IN7095_vide_2ce3478c-7219-414e-8b48-fce8b9512f24.jpg?v=1551962009",
+        "altText": null,
+        "type": {
+          "name": "Image",
+          "kind": "OBJECT",
+          "fieldBaseTypes": {
+            "altText": "String",
+            "id": "ID",
+            "originalSrc": "URL",
+            "src": "URL"
+          },
+          "implementsNode": false
+        },
+        "hasNextPage": false,
+        "hasPreviousPage": {
+          "value": true
+        },
+        "variableValues": {
+          "first": 20
+        }
+      }
+    ],
+    "variants": [
+      {
+        "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0VmFyaWFudC8xOTgzMTIxNzQ4NzkyNg==",
+        "title": "Default Title",
+        "price": "11.00",
+        "priceV2": {
+          "amount": "11.0",
+          "currencyCode": "EUR",
+          "type": {
+            "name": "MoneyV2",
+            "kind": "OBJECT",
+            "fieldBaseTypes": {
+              "amount": "Decimal",
+              "currencyCode": "CurrencyCode"
+            },
+            "implementsNode": false
+          }
+        },
+        "presentmentPrices": [
+          {
+            "price": {
+              "amount": "11.0",
+              "currencyCode": "EUR",
+              "type": {
+                "name": "MoneyV2",
+                "kind": "OBJECT",
+                "fieldBaseTypes": {
+                  "amount": "Decimal",
+                  "currencyCode": "CurrencyCode"
+                },
+                "implementsNode": false
+              }
+            },
+            "type": {
+              "name": "ProductVariantPricePair",
+              "kind": "OBJECT",
+              "fieldBaseTypes": {
+                "price": "MoneyV2"
+              },
+              "implementsNode": false
+            },
+            "hasNextPage": false,
+            "hasPreviousPage": false,
+            "variableValues": {
+              "first": 20
+            }
+          }
+        ],
+        "weight": 0,
+        "available": true,
+        "sku": "IN7095",
+        "compareAtPrice": null,
+        "compareAtPriceV2": null,
+        "image": {
+          "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0SW1hZ2UvNjc5NTk4MTM4OTg3OA==",
+          "src": "https://cdn.shopify.com/s/files/1/0142/1334/9430/products/IN7095_e10bf2f2-f2f8-451e-8b0e-71fac7f0da01.jpg?v=1551962009",
+          "altText": "Pupiņu kafija Illy Arabica Selection Brazīlija ,250g",
+          "type": {
+            "name": "Image",
+            "kind": "OBJECT",
+            "fieldBaseTypes": {
+              "altText": "String",
+              "id": "ID",
+              "originalSrc": "URL",
+              "src": "URL"
+            },
+            "implementsNode": false
+          }
+        },
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title",
+            "type": {
+              "name": "SelectedOption",
+              "kind": "OBJECT",
+              "fieldBaseTypes": {
+                "name": "String",
+                "value": "String"
+              },
+              "implementsNode": false
+            }
+          }
+        ],
+        "type": {
+          "name": "ProductVariant",
+          "kind": "OBJECT",
+          "fieldBaseTypes": {
+            "availableForSale": "Boolean",
+            "compareAtPrice": "Money",
+            "compareAtPriceV2": "MoneyV2",
+            "id": "ID",
+            "image": "Image",
+            "presentmentPrices": "ProductVariantPricePairConnection",
+            "price": "Money",
+            "priceV2": "MoneyV2",
+            "product": "Product",
+            "selectedOptions": "SelectedOption",
+            "sku": "String",
+            "title": "String",
+            "weight": "Float"
+          },
+          "implementsNode": true
+        },
+        "hasNextPage": false,
+        "hasPreviousPage": false,
+        "variableValues": {
+          "first": 20
+        }
+      }
+    ],
+    "type": {
+      "name": "Product",
+      "kind": "OBJECT",
+      "fieldBaseTypes": {
+        "availableForSale": "Boolean",
+        "createdAt": "DateTime",
+        "description": "String",
+        "descriptionHtml": "HTML",
+        "handle": "String",
+        "id": "ID",
+        "images": "ImageConnection",
+        "onlineStoreUrl": "URL",
+        "options": "ProductOption",
+        "productType": "String",
+        "publishedAt": "DateTime",
+        "title": "String",
+        "updatedAt": "DateTime",
+        "variants": "ProductVariantConnection",
+        "vendor": "String"
+      },
+      "implementsNode": true
+    },
+    "hasNextPage": {
+      "value": true
+    },
+    "hasPreviousPage": {
+      "value": true
+    },
+    "variableValues": {
+      "first": 20
+    },
+    "img": "https://cdn.shopify.com/s/files/1/0142/1334/9430/products/IN7095_e10bf2f2-f2f8-451e-8b0e-71fac7f0da01.jpg?v=1551962009"
+  },
+  {
+    "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0LzE5ODk1NzE2MDg2MzA=",
+    "availableForSale": true,
+    "createdAt": "2019-02-28T20:07:54Z",
+    "updatedAt": "2019-08-30T12:07:51Z",
+    "descriptionHtml": "Delikāts aromāts, jasmīna ziedu notis. <!-- split --> [TABS]\n<h5>Apraksts</h5>\n<p>Etiopijas meži tiek uzskatīti par kafijas izcelsmes reģionu, un šeit kafijas koki joprojām aug savvaļā, ēnainā veģetācijā. Pupiņas tiek nolasītas ar rokām gan plantācijās, gan vietējos pagalmu dārzos, kur kafijas koku augļi nogatavojas kopā ar citiem kultūraugiem. Īpaša kafija ar maigu, delikātu aromātu un unikālu smaržu, ko raksturo jasmīna ziedu un citrusaugļu notis.</p>\n<h5>Specifikācija</h5>\n<p> </p>\n<h5>Lietošanas instrukcija</h5>\n<p> </p>\n[/TABS]",
+    "description": "Delikāts aromāts, jasmīna ziedu notis. &lt;!-- split --> [TABS] Apraksts Etiopijas meži tiek uzskatīti par kafijas izcelsmes reģionu, un šeit kafijas koki joprojām aug savvaļā, ēnainā veģetācijā. Pupiņas tiek nolasītas ar rokām gan plantācijās, gan vietējos pagalmu dārzos, kur kafijas koku augļi nogatavojas kopā ar citiem kultūraugiem. Īpaša kafija ar maigu, delikātu aromātu un unikālu smaržu, ko raksturo jasmīna ziedu un citrusaugļu notis. Specifikācija Lietošanas instrukcija [/TABS]",
+    "handle": "193-pupinu-kafija-illy-monoarabica-etiopija-250g",
+    "productType": "Kafijas pupiņas",
+    "title": "Pupiņu kafija Illy Arabica Selection Ethiopia ,250g",
+    "vendor": "illy",
+    "publishedAt": "2019-07-14T22:42:30Z",
+    "onlineStoreUrl": "https://www.esmilukafiju.lv/products/193-pupinu-kafija-illy-monoarabica-etiopija-250g",
+    "options": [
+      {
+        "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0T3B0aW9uLzI3NzUzNzQ0MzAyNjI=",
+        "name": "Title",
+        "values": [
+          {
+            "value": "Default Title",
+            "type": {
+              "name": "String",
+              "kind": "SCALAR"
+            }
+          }
+        ],
+        "type": {
+          "name": "ProductOption",
+          "kind": "OBJECT",
+          "fieldBaseTypes": {
+            "name": "String",
+            "values": "String"
+          },
+          "implementsNode": true
+        }
+      }
+    ],
+    "images": [
+      {
+        "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0SW1hZ2UvNjc5NTk4MTc1MDMyNg==",
+        "src": "https://cdn.shopify.com/s/files/1/0142/1334/9430/products/IN7096_f87d37f7-2d89-452c-9bf5-d30a49804ba9.jpg?v=1551962016",
+        "altText": "Pupiņu kafija Illy Arabica Selection Ethiopia ,250g",
+        "type": {
+          "name": "Image",
+          "kind": "OBJECT",
+          "fieldBaseTypes": {
+            "altText": "String",
+            "id": "ID",
+            "originalSrc": "URL",
+            "src": "URL"
+          },
+          "implementsNode": false
+        },
+        "hasNextPage": {
+          "value": true
+        },
+        "hasPreviousPage": false,
+        "variableValues": {
+          "first": 20
+        }
+      },
+      {
+        "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0SW1hZ2UvNjc5NTk4MTc4MzA5NA==",
+        "src": "https://cdn.shopify.com/s/files/1/0142/1334/9430/products/IN7096-1_349ca898-3f6c-46be-ab20-042ddd68d5c6.jpg?v=1551962016",
+        "altText": null,
+        "type": {
+          "name": "Image",
+          "kind": "OBJECT",
+          "fieldBaseTypes": {
+            "altText": "String",
+            "id": "ID",
+            "originalSrc": "URL",
+            "src": "URL"
+          },
+          "implementsNode": false
+        },
+        "hasNextPage": {
+          "value": true
+        },
+        "hasPreviousPage": {
+          "value": true
+        },
+        "variableValues": {
+          "first": 20
+        }
+      },
+      {
+        "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0SW1hZ2UvNjc5NTk4MTgxNTg2Mg==",
+        "src": "https://cdn.shopify.com/s/files/1/0142/1334/9430/products/IN7096_vide_a7b79eda-00cc-44c4-9d31-a10017a87424.jpg?v=1551962016",
+        "altText": null,
+        "type": {
+          "name": "Image",
+          "kind": "OBJECT",
+          "fieldBaseTypes": {
+            "altText": "String",
+            "id": "ID",
+            "originalSrc": "URL",
+            "src": "URL"
+          },
+          "implementsNode": false
+        },
+        "hasNextPage": false,
+        "hasPreviousPage": {
+          "value": true
+        },
+        "variableValues": {
+          "first": 20
+        }
+      }
+    ],
+    "variants": [
+      {
+        "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0VmFyaWFudC8xOTgzMTIxNzUyMDY5NA==",
+        "title": "Default Title",
+        "price": "11.00",
+        "priceV2": {
+          "amount": "11.0",
+          "currencyCode": "EUR",
+          "type": {
+            "name": "MoneyV2",
+            "kind": "OBJECT",
+            "fieldBaseTypes": {
+              "amount": "Decimal",
+              "currencyCode": "CurrencyCode"
+            },
+            "implementsNode": false
+          }
+        },
+        "presentmentPrices": [
+          {
+            "price": {
+              "amount": "11.0",
+              "currencyCode": "EUR",
+              "type": {
+                "name": "MoneyV2",
+                "kind": "OBJECT",
+                "fieldBaseTypes": {
+                  "amount": "Decimal",
+                  "currencyCode": "CurrencyCode"
+                },
+                "implementsNode": false
+              }
+            },
+            "type": {
+              "name": "ProductVariantPricePair",
+              "kind": "OBJECT",
+              "fieldBaseTypes": {
+                "price": "MoneyV2"
+              },
+              "implementsNode": false
+            },
+            "hasNextPage": false,
+            "hasPreviousPage": false,
+            "variableValues": {
+              "first": 20
+            }
+          }
+        ],
+        "weight": 0,
+        "available": true,
+        "sku": "IN7096",
+        "compareAtPrice": null,
+        "compareAtPriceV2": null,
+        "image": {
+          "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0SW1hZ2UvNjc5NTk4MTc1MDMyNg==",
+          "src": "https://cdn.shopify.com/s/files/1/0142/1334/9430/products/IN7096_f87d37f7-2d89-452c-9bf5-d30a49804ba9.jpg?v=1551962016",
+          "altText": "Pupiņu kafija Illy Arabica Selection Ethiopia ,250g",
+          "type": {
+            "name": "Image",
+            "kind": "OBJECT",
+            "fieldBaseTypes": {
+              "altText": "String",
+              "id": "ID",
+              "originalSrc": "URL",
+              "src": "URL"
+            },
+            "implementsNode": false
+          }
+        },
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title",
+            "type": {
+              "name": "SelectedOption",
+              "kind": "OBJECT",
+              "fieldBaseTypes": {
+                "name": "String",
+                "value": "String"
+              },
+              "implementsNode": false
+            }
+          }
+        ],
+        "type": {
+          "name": "ProductVariant",
+          "kind": "OBJECT",
+          "fieldBaseTypes": {
+            "availableForSale": "Boolean",
+            "compareAtPrice": "Money",
+            "compareAtPriceV2": "MoneyV2",
+            "id": "ID",
+            "image": "Image",
+            "presentmentPrices": "ProductVariantPricePairConnection",
+            "price": "Money",
+            "priceV2": "MoneyV2",
+            "product": "Product",
+            "selectedOptions": "SelectedOption",
+            "sku": "String",
+            "title": "String",
+            "weight": "Float"
+          },
+          "implementsNode": true
+        },
+        "hasNextPage": false,
+        "hasPreviousPage": false,
+        "variableValues": {
+          "first": 20
+        }
+      }
+    ],
+    "type": {
+      "name": "Product",
+      "kind": "OBJECT",
+      "fieldBaseTypes": {
+        "availableForSale": "Boolean",
+        "createdAt": "DateTime",
+        "description": "String",
+        "descriptionHtml": "HTML",
+        "handle": "String",
+        "id": "ID",
+        "images": "ImageConnection",
+        "onlineStoreUrl": "URL",
+        "options": "ProductOption",
+        "productType": "String",
+        "publishedAt": "DateTime",
+        "title": "String",
+        "updatedAt": "DateTime",
+        "variants": "ProductVariantConnection",
+        "vendor": "String"
+      },
+      "implementsNode": true
+    },
+    "hasNextPage": {
+      "value": true
+    },
+    "hasPreviousPage": {
+      "value": true
+    },
+    "variableValues": {
+      "first": 20
+    },
+    "img": "https://cdn.shopify.com/s/files/1/0142/1334/9430/products/IN7096_f87d37f7-2d89-452c-9bf5-d30a49804ba9.jpg?v=1551962016"
+  },
+  {
+    "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0LzE5ODk1NzE5MzYzMTA=",
+    "availableForSale": true,
+    "createdAt": "2019-02-28T20:08:03Z",
+    "updatedAt": "2019-09-06T08:07:50Z",
+    "descriptionHtml": "Kompleksa garša, šokolādes, karameļu un medus notis. <!-- split --> [TABS]\n<h5>Apraksts</h5>\n<p>Gvatemalā kafija aug neskartos kalnu apgabalos, kur lauksaimniecībā ievēro bioloģisko daudzveidību un saglabā augsnes bagātību. Kalnu vēso gaisu mazina Meksikas siltā gaisa vēji, tāpēc kafijas kokus var audzēt līdz pat 2000 m virs jūras līmeņa. Šai kafijai piemīt intensīva smarža un atšķirīgs saldums apvienojumā ar bagātīgu aromātu kopumu, kas ietver šokolādes, karameles, citrusaugļu un medus notis.</p>\n<h5>Specifikācija</h5>\n<p> </p>\n<h5>Lietošanas instrukcija</h5>\n<p> </p>\n[/TABS]",
+    "description": "Kompleksa garša, šokolādes, karameļu un medus notis. &lt;!-- split --> [TABS] Apraksts Gvatemalā kafija aug neskartos kalnu apgabalos, kur lauksaimniecībā ievēro bioloģisko daudzveidību un saglabā augsnes bagātību. Kalnu vēso gaisu mazina Meksikas siltā gaisa vēji, tāpēc kafijas kokus var audzēt līdz pat 2000 m virs jūras līmeņa. Šai kafijai piemīt intensīva smarža un atšķirīgs saldums apvienojumā ar bagātīgu aromātu kopumu, kas ietver šokolādes, karameles, citrusaugļu un medus notis. Specifikācija Lietošanas instrukcija [/TABS]",
+    "handle": "pupinu-kafija-illy-arabica-selection-guatemala-250g",
+    "productType": "Kafijas pupiņas",
+    "title": "Pupiņu kafija Illy Arabica Selection Guatemala,250g",
+    "vendor": "illy",
+    "publishedAt": "2019-07-14T22:42:30Z",
+    "onlineStoreUrl": "https://www.esmilukafiju.lv/products/pupinu-kafija-illy-arabica-selection-guatemala-250g",
+    "options": [
+      {
+        "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0T3B0aW9uLzI3NzUzNzQ3OTA3MTA=",
+        "name": "Title",
+        "values": [
+          {
+            "value": "Default Title",
+            "type": {
+              "name": "String",
+              "kind": "SCALAR"
+            }
+          }
+        ],
+        "type": {
+          "name": "ProductOption",
+          "kind": "OBJECT",
+          "fieldBaseTypes": {
+            "name": "String",
+            "values": "String"
+          },
+          "implementsNode": true
+        }
+      }
+    ],
+    "images": [
+      {
+        "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0SW1hZ2UvNjc5NTk4MjU2OTUyNg==",
+        "src": "https://cdn.shopify.com/s/files/1/0142/1334/9430/products/IN7097_30a54304-2cb8-4239-97af-4ae6c2ae37b6.jpg?v=1553257396",
+        "altText": "Pupiņu kafija Illy Arabica Selection Guatemala,250g",
+        "type": {
+          "name": "Image",
+          "kind": "OBJECT",
+          "fieldBaseTypes": {
+            "altText": "String",
+            "id": "ID",
+            "originalSrc": "URL",
+            "src": "URL"
+          },
+          "implementsNode": false
+        },
+        "hasNextPage": {
+          "value": true
+        },
+        "hasPreviousPage": false,
+        "variableValues": {
+          "first": 20
+        }
+      },
+      {
+        "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0SW1hZ2UvNjc5NTk4MjYzNTA2Mg==",
+        "src": "https://cdn.shopify.com/s/files/1/0142/1334/9430/products/IN7097-2_2b8cdb4c-f0a4-4e0b-8f04-3e2aff5739c9.jpg?v=1553257396",
+        "altText": null,
+        "type": {
+          "name": "Image",
+          "kind": "OBJECT",
+          "fieldBaseTypes": {
+            "altText": "String",
+            "id": "ID",
+            "originalSrc": "URL",
+            "src": "URL"
+          },
+          "implementsNode": false
+        },
+        "hasNextPage": {
+          "value": true
+        },
+        "hasPreviousPage": {
+          "value": true
+        },
+        "variableValues": {
+          "first": 20
+        }
+      },
+      {
+        "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0SW1hZ2UvNjc5NTk4MjY2NzgzMA==",
+        "src": "https://cdn.shopify.com/s/files/1/0142/1334/9430/products/IN7097_vide_9a8fdb5b-92c6-4603-a322-4c574eb25f1e.jpg?v=1553257396",
+        "altText": null,
+        "type": {
+          "name": "Image",
+          "kind": "OBJECT",
+          "fieldBaseTypes": {
+            "altText": "String",
+            "id": "ID",
+            "originalSrc": "URL",
+            "src": "URL"
+          },
+          "implementsNode": false
+        },
+        "hasNextPage": false,
+        "hasPreviousPage": {
+          "value": true
+        },
+        "variableValues": {
+          "first": 20
+        }
+      }
+    ],
+    "variants": [
+      {
+        "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0VmFyaWFudC8xOTgzMTIxNzU1MzQ2Mg==",
+        "title": "Default Title",
+        "price": "11.00",
+        "priceV2": {
+          "amount": "11.0",
+          "currencyCode": "EUR",
+          "type": {
+            "name": "MoneyV2",
+            "kind": "OBJECT",
+            "fieldBaseTypes": {
+              "amount": "Decimal",
+              "currencyCode": "CurrencyCode"
+            },
+            "implementsNode": false
+          }
+        },
+        "presentmentPrices": [
+          {
+            "price": {
+              "amount": "11.0",
+              "currencyCode": "EUR",
+              "type": {
+                "name": "MoneyV2",
+                "kind": "OBJECT",
+                "fieldBaseTypes": {
+                  "amount": "Decimal",
+                  "currencyCode": "CurrencyCode"
+                },
+                "implementsNode": false
+              }
+            },
+            "type": {
+              "name": "ProductVariantPricePair",
+              "kind": "OBJECT",
+              "fieldBaseTypes": {
+                "price": "MoneyV2"
+              },
+              "implementsNode": false
+            },
+            "hasNextPage": false,
+            "hasPreviousPage": false,
+            "variableValues": {
+              "first": 20
+            }
+          }
+        ],
+        "weight": 0,
+        "available": true,
+        "sku": "IN7097",
+        "compareAtPrice": null,
+        "compareAtPriceV2": null,
+        "image": {
+          "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0SW1hZ2UvNjc5NTk4MjU2OTUyNg==",
+          "src": "https://cdn.shopify.com/s/files/1/0142/1334/9430/products/IN7097_30a54304-2cb8-4239-97af-4ae6c2ae37b6.jpg?v=1553257396",
+          "altText": "Pupiņu kafija Illy Arabica Selection Guatemala,250g",
+          "type": {
+            "name": "Image",
+            "kind": "OBJECT",
+            "fieldBaseTypes": {
+              "altText": "String",
+              "id": "ID",
+              "originalSrc": "URL",
+              "src": "URL"
+            },
+            "implementsNode": false
+          }
+        },
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title",
+            "type": {
+              "name": "SelectedOption",
+              "kind": "OBJECT",
+              "fieldBaseTypes": {
+                "name": "String",
+                "value": "String"
+              },
+              "implementsNode": false
+            }
+          }
+        ],
+        "type": {
+          "name": "ProductVariant",
+          "kind": "OBJECT",
+          "fieldBaseTypes": {
+            "availableForSale": "Boolean",
+            "compareAtPrice": "Money",
+            "compareAtPriceV2": "MoneyV2",
+            "id": "ID",
+            "image": "Image",
+            "presentmentPrices": "ProductVariantPricePairConnection",
+            "price": "Money",
+            "priceV2": "MoneyV2",
+            "product": "Product",
+            "selectedOptions": "SelectedOption",
+            "sku": "String",
+            "title": "String",
+            "weight": "Float"
+          },
+          "implementsNode": true
+        },
+        "hasNextPage": false,
+        "hasPreviousPage": false,
+        "variableValues": {
+          "first": 20
+        }
+      }
+    ],
+    "type": {
+      "name": "Product",
+      "kind": "OBJECT",
+      "fieldBaseTypes": {
+        "availableForSale": "Boolean",
+        "createdAt": "DateTime",
+        "description": "String",
+        "descriptionHtml": "HTML",
+        "handle": "String",
+        "id": "ID",
+        "images": "ImageConnection",
+        "onlineStoreUrl": "URL",
+        "options": "ProductOption",
+        "productType": "String",
+        "publishedAt": "DateTime",
+        "title": "String",
+        "updatedAt": "DateTime",
+        "variants": "ProductVariantConnection",
+        "vendor": "String"
+      },
+      "implementsNode": true
+    },
+    "hasNextPage": {
+      "value": true
+    },
+    "hasPreviousPage": {
+      "value": true
+    },
+    "variableValues": {
+      "first": 20
+    },
+    "img": "https://cdn.shopify.com/s/files/1/0142/1334/9430/products/IN7097_30a54304-2cb8-4239-97af-4ae6c2ae37b6.jpg?v=1553257396"
+  },
+  {
+    "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0LzE5ODk1NzI2NTcyMDY=",
+    "availableForSale": true,
+    "createdAt": "2019-02-28T20:08:25Z",
+    "updatedAt": "2019-08-28T16:07:28Z",
+    "descriptionHtml": "Raksturīgā illy garša, tumšs grauzdējums ar izteiktām tumšās šokolādes un riekstu garšas notīm. <!-- split --> [TABS]\n<h5>Apraksts</h5>\n<p>Rūpīgi atlasītas, blendētas un grauzdētas, ILLY kafijas pupiņas aizrautīgā kafijas mīļotājā raisa juteklisku skaistumu un poēziju. Atvērt iepakojumu nozīmē ienākt pasaulē, kur kafijas pagatošana ir vairāk nekā tikai rutīna: tas ir aizraujošs un patīkams ikdienas rituāls. 50 pupiņas Illy maisījuma spēj pārvērst tavu ikdienas kafijas krūzi! Patiesa poēzija 250 gramos, kas sastāv no 9 atsevišķām Arabica šķirnēm. Pamatā ir elitārā Santos šķirne no Brazīlijas. Ražota Triestē, Itālijā.Apburošs espresso: pirmās to pamana acis. Bieza, nepārtraukta riekstu krāsas crema kārtiņa, iekrāsota ar tumši brūnām svītrām.Aromātā jūtamas saldas un kompleksas nianses, pilnas šokolādes, grauzdētas maizes, medus un karameles notīm.</p>\n<h5>Specifikācija</h5>\n<p> </p>\n<h5>Lietošanas instrukcija</h5>\n<p> </p>\n[/TABS]",
+    "description": "Raksturīgā illy garša, tumšs grauzdējums ar izteiktām tumšās šokolādes un riekstu garšas notīm. &lt;!-- split --> [TABS] Apraksts Rūpīgi atlasītas, blendētas un grauzdētas, ILLY kafijas pupiņas aizrautīgā kafijas mīļotājā raisa juteklisku skaistumu un poēziju. Atvērt iepakojumu nozīmē ienākt pasaulē, kur kafijas pagatošana ir vairāk nekā tikai rutīna: tas ir aizraujošs un patīkams ikdienas rituāls. 50 pupiņas Illy maisījuma spēj pārvērst tavu ikdienas kafijas krūzi! Patiesa poēzija 250 gramos, kas sastāv no 9 atsevišķām Arabica šķirnēm. Pamatā ir elitārā Santos šķirne no Brazīlijas. Ražota Triestē, Itālijā.Apburošs espresso: pirmās to pamana acis. Bieza, nepārtraukta riekstu krāsas crema kārtiņa, iekrāsota ar tumši brūnām svītrām.Aromātā jūtamas saldas un kompleksas nianses, pilnas šokolādes, grauzdētas maizes, medus un karameles notīm. Specifikācija Lietošanas instrukcija [/TABS]",
+    "handle": "744-pupinu-kafija-illy-tumsi-grauzdeta-250g",
+    "productType": "Kafijas pupiņas",
+    "title": "Pupiņu kafija Illy, Tumši grauzdēta, 250g",
+    "vendor": "illy",
+    "publishedAt": "2019-07-14T22:42:30Z",
+    "onlineStoreUrl": "https://www.esmilukafiju.lv/products/744-pupinu-kafija-illy-tumsi-grauzdeta-250g",
+    "options": [
+      {
+        "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0T3B0aW9uLzI3NzUzNzU1NzcxNDI=",
+        "name": "Title",
+        "values": [
+          {
+            "value": "Default Title",
+            "type": {
+              "name": "String",
+              "kind": "SCALAR"
+            }
+          }
+        ],
+        "type": {
+          "name": "ProductOption",
+          "kind": "OBJECT",
+          "fieldBaseTypes": {
+            "name": "String",
+            "values": "String"
+          },
+          "implementsNode": true
+        }
+      }
+    ],
+    "images": [
+      {
+        "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0SW1hZ2UvNjc5NTk4NDE3NTE1OA==",
+        "src": "https://cdn.shopify.com/s/files/1/0142/1334/9430/products/IN3371-Edit_e307f2d8-4aad-4ba5-a14c-eba5487daa91.jpg?v=1551962043",
+        "altText": "Pupiņu kafija Illy, Tumši grauzdēta, 250g",
+        "type": {
+          "name": "Image",
+          "kind": "OBJECT",
+          "fieldBaseTypes": {
+            "altText": "String",
+            "id": "ID",
+            "originalSrc": "URL",
+            "src": "URL"
+          },
+          "implementsNode": false
+        },
+        "hasNextPage": {
+          "value": true
+        },
+        "hasPreviousPage": false,
+        "variableValues": {
+          "first": 20
+        }
+      },
+      {
+        "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0SW1hZ2UvNjc5NTk4NDIwNzkyNg==",
+        "src": "https://cdn.shopify.com/s/files/1/0142/1334/9430/products/IN3371-1_b4b00a27-85e9-4294-b707-a87d9540940e.jpg?v=1551962043",
+        "altText": null,
+        "type": {
+          "name": "Image",
+          "kind": "OBJECT",
+          "fieldBaseTypes": {
+            "altText": "String",
+            "id": "ID",
+            "originalSrc": "URL",
+            "src": "URL"
+          },
+          "implementsNode": false
+        },
+        "hasNextPage": {
+          "value": true
+        },
+        "hasPreviousPage": {
+          "value": true
+        },
+        "variableValues": {
+          "first": 20
+        }
+      },
+      {
+        "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0SW1hZ2UvNjc5NTk4NDI0MDY5NA==",
+        "src": "https://cdn.shopify.com/s/files/1/0142/1334/9430/products/IN3371_vide_512e3b49-7008-426f-99db-39d08bd3f04b.jpg?v=1551962043",
+        "altText": null,
+        "type": {
+          "name": "Image",
+          "kind": "OBJECT",
+          "fieldBaseTypes": {
+            "altText": "String",
+            "id": "ID",
+            "originalSrc": "URL",
+            "src": "URL"
+          },
+          "implementsNode": false
+        },
+        "hasNextPage": false,
+        "hasPreviousPage": {
+          "value": true
+        },
+        "variableValues": {
+          "first": 20
+        }
+      }
+    ],
+    "variants": [
+      {
+        "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0VmFyaWFudC8xOTgzMTIxNzYxODk5OA==",
+        "title": "Default Title",
+        "price": "11.00",
+        "priceV2": {
+          "amount": "11.0",
+          "currencyCode": "EUR",
+          "type": {
+            "name": "MoneyV2",
+            "kind": "OBJECT",
+            "fieldBaseTypes": {
+              "amount": "Decimal",
+              "currencyCode": "CurrencyCode"
+            },
+            "implementsNode": false
+          }
+        },
+        "presentmentPrices": [
+          {
+            "price": {
+              "amount": "11.0",
+              "currencyCode": "EUR",
+              "type": {
+                "name": "MoneyV2",
+                "kind": "OBJECT",
+                "fieldBaseTypes": {
+                  "amount": "Decimal",
+                  "currencyCode": "CurrencyCode"
+                },
+                "implementsNode": false
+              }
+            },
+            "type": {
+              "name": "ProductVariantPricePair",
+              "kind": "OBJECT",
+              "fieldBaseTypes": {
+                "price": "MoneyV2"
+              },
+              "implementsNode": false
+            },
+            "hasNextPage": false,
+            "hasPreviousPage": false,
+            "variableValues": {
+              "first": 20
+            }
+          }
+        ],
+        "weight": 0,
+        "available": true,
+        "sku": "IN3371",
+        "compareAtPrice": null,
+        "compareAtPriceV2": null,
+        "image": {
+          "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0SW1hZ2UvNjc5NTk4NDE3NTE1OA==",
+          "src": "https://cdn.shopify.com/s/files/1/0142/1334/9430/products/IN3371-Edit_e307f2d8-4aad-4ba5-a14c-eba5487daa91.jpg?v=1551962043",
+          "altText": "Pupiņu kafija Illy, Tumši grauzdēta, 250g",
+          "type": {
+            "name": "Image",
+            "kind": "OBJECT",
+            "fieldBaseTypes": {
+              "altText": "String",
+              "id": "ID",
+              "originalSrc": "URL",
+              "src": "URL"
+            },
+            "implementsNode": false
+          }
+        },
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title",
+            "type": {
+              "name": "SelectedOption",
+              "kind": "OBJECT",
+              "fieldBaseTypes": {
+                "name": "String",
+                "value": "String"
+              },
+              "implementsNode": false
+            }
+          }
+        ],
+        "type": {
+          "name": "ProductVariant",
+          "kind": "OBJECT",
+          "fieldBaseTypes": {
+            "availableForSale": "Boolean",
+            "compareAtPrice": "Money",
+            "compareAtPriceV2": "MoneyV2",
+            "id": "ID",
+            "image": "Image",
+            "presentmentPrices": "ProductVariantPricePairConnection",
+            "price": "Money",
+            "priceV2": "MoneyV2",
+            "product": "Product",
+            "selectedOptions": "SelectedOption",
+            "sku": "String",
+            "title": "String",
+            "weight": "Float"
+          },
+          "implementsNode": true
+        },
+        "hasNextPage": false,
+        "hasPreviousPage": false,
+        "variableValues": {
+          "first": 20
+        }
+      }
+    ],
+    "type": {
+      "name": "Product",
+      "kind": "OBJECT",
+      "fieldBaseTypes": {
+        "availableForSale": "Boolean",
+        "createdAt": "DateTime",
+        "description": "String",
+        "descriptionHtml": "HTML",
+        "handle": "String",
+        "id": "ID",
+        "images": "ImageConnection",
+        "onlineStoreUrl": "URL",
+        "options": "ProductOption",
+        "productType": "String",
+        "publishedAt": "DateTime",
+        "title": "String",
+        "updatedAt": "DateTime",
+        "variants": "ProductVariantConnection",
+        "vendor": "String"
+      },
+      "implementsNode": true
+    },
+    "hasNextPage": {
+      "value": true
+    },
+    "hasPreviousPage": {
+      "value": true
+    },
+    "variableValues": {
+      "first": 20
+    },
+    "img": "https://cdn.shopify.com/s/files/1/0142/1334/9430/products/IN3371-Edit_e307f2d8-4aad-4ba5-a14c-eba5487daa91.jpg?v=1551962043"
+  },
+  {
+    "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0LzE5ODk1NzI3MjI3NDI=",
+    "availableForSale": true,
+    "createdAt": "2019-02-28T20:08:30Z",
+    "updatedAt": "2019-09-02T12:07:55Z",
+    "descriptionHtml": "Svaigi grauzdētas kafijas pupiņas īstenai kafijas baudīšanai! <!-- split --> [TABS]\n<h5>Apraksts</h5>\n<p>VELVET Coffee Charisma 1kg kafijas pupiņas 100% arabikas šķirnes kafijas pupiņas no Kolumbijas. Garšas nianses: augļi un tumšā šokolāde. Saldena un daudzpusīga garša.Vidējs grauzdējums. </p>\n<h5>Specifikācija</h5>\n<p> </p>\n<h5>Lietošanas instrukcija</h5>\n<p> </p>\n[/TABS]",
+    "description": "Svaigi grauzdētas kafijas pupiņas īstenai kafijas baudīšanai! &lt;!-- split --> [TABS] Apraksts VELVET Coffee Charisma 1kg kafijas pupiņas 100% arabikas šķirnes kafijas pupiņas no Kolumbijas. Garšas nianses: augļi un tumšā šokolāde. Saldena un daudzpusīga garša.Vidējs grauzdējums. Specifikācija Lietošanas instrukcija [/TABS]",
+    "handle": "velvet-charisma-kafijas-pupinas-1-kg",
+    "productType": "Kafijas pupiņas",
+    "title": "VELVET Charisma kafijas pupiņas, 1 KG",
+    "vendor": "VELVET",
+    "publishedAt": "2019-07-14T22:42:30Z",
+    "onlineStoreUrl": "https://www.esmilukafiju.lv/products/velvet-charisma-kafijas-pupinas-1-kg",
+    "options": [
+      {
+        "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0T3B0aW9uLzI3NzUzNzU2NzU0NDY=",
+        "name": "Title",
+        "values": [
+          {
+            "value": "Default Title",
+            "type": {
+              "name": "String",
+              "kind": "SCALAR"
+            }
+          }
+        ],
+        "type": {
+          "name": "ProductOption",
+          "kind": "OBJECT",
+          "fieldBaseTypes": {
+            "name": "String",
+            "values": "String"
+          },
+          "implementsNode": true
+        }
+      }
+    ],
+    "images": [
+      {
+        "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0SW1hZ2UvNzEzNzAzNDg2MjY0Ng==",
+        "src": "https://cdn.shopify.com/s/files/1/0142/1334/9430/products/RB0101100092.jpg?v=1556222153",
+        "altText": null,
+        "type": {
+          "name": "Image",
+          "kind": "OBJECT",
+          "fieldBaseTypes": {
+            "altText": "String",
+            "id": "ID",
+            "originalSrc": "URL",
+            "src": "URL"
+          },
+          "implementsNode": false
+        },
+        "hasNextPage": {
+          "value": true
+        },
+        "hasPreviousPage": false,
+        "variableValues": {
+          "first": 20
+        }
+      },
+      {
+        "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0SW1hZ2UvNjc5NTk4NDUzNTYwNg==",
+        "src": "https://cdn.shopify.com/s/files/1/0142/1334/9430/products/RB0101100092_vide_5e232ce0-b743-4ad4-a401-0a95a30e47d6.jpg?v=1556222153",
+        "altText": null,
+        "type": {
+          "name": "Image",
+          "kind": "OBJECT",
+          "fieldBaseTypes": {
+            "altText": "String",
+            "id": "ID",
+            "originalSrc": "URL",
+            "src": "URL"
+          },
+          "implementsNode": false
+        },
+        "hasNextPage": false,
+        "hasPreviousPage": {
+          "value": true
+        },
+        "variableValues": {
+          "first": 20
+        }
+      }
+    ],
+    "variants": [
+      {
+        "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0VmFyaWFudC8xOTgzMTIyNjIzNjk4Mg==",
+        "title": "Default Title",
+        "price": "29.50",
+        "priceV2": {
+          "amount": "29.5",
+          "currencyCode": "EUR",
+          "type": {
+            "name": "MoneyV2",
+            "kind": "OBJECT",
+            "fieldBaseTypes": {
+              "amount": "Decimal",
+              "currencyCode": "CurrencyCode"
+            },
+            "implementsNode": false
+          }
+        },
+        "presentmentPrices": [
+          {
+            "price": {
+              "amount": "29.5",
+              "currencyCode": "EUR",
+              "type": {
+                "name": "MoneyV2",
+                "kind": "OBJECT",
+                "fieldBaseTypes": {
+                  "amount": "Decimal",
+                  "currencyCode": "CurrencyCode"
+                },
+                "implementsNode": false
+              }
+            },
+            "type": {
+              "name": "ProductVariantPricePair",
+              "kind": "OBJECT",
+              "fieldBaseTypes": {
+                "price": "MoneyV2"
+              },
+              "implementsNode": false
+            },
+            "hasNextPage": false,
+            "hasPreviousPage": false,
+            "variableValues": {
+              "first": 20
+            }
+          }
+        ],
+        "weight": 0,
+        "available": true,
+        "sku": "RB0101100092",
+        "compareAtPrice": null,
+        "compareAtPriceV2": null,
+        "image": {
+          "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0SW1hZ2UvNzEzNzAzNDg2MjY0Ng==",
+          "src": "https://cdn.shopify.com/s/files/1/0142/1334/9430/products/RB0101100092.jpg?v=1556222153",
+          "altText": null,
+          "type": {
+            "name": "Image",
+            "kind": "OBJECT",
+            "fieldBaseTypes": {
+              "altText": "String",
+              "id": "ID",
+              "originalSrc": "URL",
+              "src": "URL"
+            },
+            "implementsNode": false
+          }
+        },
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title",
+            "type": {
+              "name": "SelectedOption",
+              "kind": "OBJECT",
+              "fieldBaseTypes": {
+                "name": "String",
+                "value": "String"
+              },
+              "implementsNode": false
+            }
+          }
+        ],
+        "type": {
+          "name": "ProductVariant",
+          "kind": "OBJECT",
+          "fieldBaseTypes": {
+            "availableForSale": "Boolean",
+            "compareAtPrice": "Money",
+            "compareAtPriceV2": "MoneyV2",
+            "id": "ID",
+            "image": "Image",
+            "presentmentPrices": "ProductVariantPricePairConnection",
+            "price": "Money",
+            "priceV2": "MoneyV2",
+            "product": "Product",
+            "selectedOptions": "SelectedOption",
+            "sku": "String",
+            "title": "String",
+            "weight": "Float"
+          },
+          "implementsNode": true
+        },
+        "hasNextPage": false,
+        "hasPreviousPage": false,
+        "variableValues": {
+          "first": 20
+        }
+      }
+    ],
+    "type": {
+      "name": "Product",
+      "kind": "OBJECT",
+      "fieldBaseTypes": {
+        "availableForSale": "Boolean",
+        "createdAt": "DateTime",
+        "description": "String",
+        "descriptionHtml": "HTML",
+        "handle": "String",
+        "id": "ID",
+        "images": "ImageConnection",
+        "onlineStoreUrl": "URL",
+        "options": "ProductOption",
+        "productType": "String",
+        "publishedAt": "DateTime",
+        "title": "String",
+        "updatedAt": "DateTime",
+        "variants": "ProductVariantConnection",
+        "vendor": "String"
+      },
+      "implementsNode": true
+    },
+    "hasNextPage": {
+      "value": true
+    },
+    "hasPreviousPage": {
+      "value": true
+    },
+    "variableValues": {
+      "first": 20
+    },
+    "img": "https://cdn.shopify.com/s/files/1/0142/1334/9430/products/RB0101100092.jpg?v=1556222153"
+  },
+  {
+    "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0LzE5ODk1NzI5MTkzNTA=",
+    "availableForSale": true,
+    "createdAt": "2019-02-28T20:08:34Z",
+    "updatedAt": "2019-09-06T12:07:54Z",
+    "descriptionHtml": "Svaigi grauzdētas kafijas pupiņas īstenai kafijas baudīšanai! <!-- split --> [TABS]<h5>Apraksts</h5><p>VELVET Coffee Charisma 250g kafijas pupiņas 100% arabikas šķirnes kafijas pupiņas no Kolumbijas. Garšas nianses: augļi un tumšā šokolāde. Saldena un daudzpusīga garša.Vidējs grauzdējums. </p><h5>Specifikācija</h5><p></p><h5>Lietošanas instrukcija</h5><p></p>[/TABS]",
+    "description": "Svaigi grauzdētas kafijas pupiņas īstenai kafijas baudīšanai! &lt;!-- split --> [TABS]AprakstsVELVET Coffee Charisma 250g kafijas pupiņas 100% arabikas šķirnes kafijas pupiņas no Kolumbijas. Garšas nianses: augļi un tumšā šokolāde. Saldena un daudzpusīga garša.Vidējs grauzdējums. SpecifikācijaLietošanas instrukcija[/TABS]",
+    "handle": "velvet-charisma-kafijas-pupinas-250g",
+    "productType": "Kafijas pupiņas",
+    "title": "VELVET Charisma kafijas pupiņas, 250g",
+    "vendor": "VELVET",
+    "publishedAt": "2019-07-14T22:42:30Z",
+    "onlineStoreUrl": "https://www.esmilukafiju.lv/products/velvet-charisma-kafijas-pupinas-250g",
+    "options": [
+      {
+        "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0T3B0aW9uLzI3NzUzNzU5Mzc1OTA=",
+        "name": "Title",
+        "values": [
+          {
+            "value": "Default Title",
+            "type": {
+              "name": "String",
+              "kind": "SCALAR"
+            }
+          }
+        ],
+        "type": {
+          "name": "ProductOption",
+          "kind": "OBJECT",
+          "fieldBaseTypes": {
+            "name": "String",
+            "values": "String"
+          },
+          "implementsNode": true
+        }
+      }
+    ],
+    "images": [
+      {
+        "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0SW1hZ2UvNjc5NTk4NDYzMzkxMA==",
+        "src": "https://cdn.shopify.com/s/files/1/0142/1334/9430/products/RB0101025016_9eacfce5-a1b1-42e9-9e0d-8f01bc236a99.jpg?v=1551962052",
+        "altText": "VELVET Charisma kafijas pupiņas, 250g",
+        "type": {
+          "name": "Image",
+          "kind": "OBJECT",
+          "fieldBaseTypes": {
+            "altText": "String",
+            "id": "ID",
+            "originalSrc": "URL",
+            "src": "URL"
+          },
+          "implementsNode": false
+        },
+        "hasNextPage": {
+          "value": true
+        },
+        "hasPreviousPage": false,
+        "variableValues": {
+          "first": 20
+        }
+      },
+      {
+        "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0SW1hZ2UvNjc5NTk4NDY2NjY3OA==",
+        "src": "https://cdn.shopify.com/s/files/1/0142/1334/9430/products/RB0101025016_vide_050bec43-2cfc-4d19-8312-77278bb53c53.jpg?v=1551962052",
+        "altText": null,
+        "type": {
+          "name": "Image",
+          "kind": "OBJECT",
+          "fieldBaseTypes": {
+            "altText": "String",
+            "id": "ID",
+            "originalSrc": "URL",
+            "src": "URL"
+          },
+          "implementsNode": false
+        },
+        "hasNextPage": false,
+        "hasPreviousPage": {
+          "value": true
+        },
+        "variableValues": {
+          "first": 20
+        }
+      }
+    ],
+    "variants": [
+      {
+        "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0VmFyaWFudC8xOTgzMTIyNjI2OTc1MA==",
+        "title": "Default Title",
+        "price": "7.60",
+        "priceV2": {
+          "amount": "7.6",
+          "currencyCode": "EUR",
+          "type": {
+            "name": "MoneyV2",
+            "kind": "OBJECT",
+            "fieldBaseTypes": {
+              "amount": "Decimal",
+              "currencyCode": "CurrencyCode"
+            },
+            "implementsNode": false
+          }
+        },
+        "presentmentPrices": [
+          {
+            "price": {
+              "amount": "7.6",
+              "currencyCode": "EUR",
+              "type": {
+                "name": "MoneyV2",
+                "kind": "OBJECT",
+                "fieldBaseTypes": {
+                  "amount": "Decimal",
+                  "currencyCode": "CurrencyCode"
+                },
+                "implementsNode": false
+              }
+            },
+            "type": {
+              "name": "ProductVariantPricePair",
+              "kind": "OBJECT",
+              "fieldBaseTypes": {
+                "price": "MoneyV2"
+              },
+              "implementsNode": false
+            },
+            "hasNextPage": false,
+            "hasPreviousPage": false,
+            "variableValues": {
+              "first": 20
+            }
+          }
+        ],
+        "weight": 0,
+        "available": true,
+        "sku": "RB0101025016",
+        "compareAtPrice": null,
+        "compareAtPriceV2": null,
+        "image": {
+          "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0SW1hZ2UvNjc5NTk4NDYzMzkxMA==",
+          "src": "https://cdn.shopify.com/s/files/1/0142/1334/9430/products/RB0101025016_9eacfce5-a1b1-42e9-9e0d-8f01bc236a99.jpg?v=1551962052",
+          "altText": "VELVET Charisma kafijas pupiņas, 250g",
+          "type": {
+            "name": "Image",
+            "kind": "OBJECT",
+            "fieldBaseTypes": {
+              "altText": "String",
+              "id": "ID",
+              "originalSrc": "URL",
+              "src": "URL"
+            },
+            "implementsNode": false
+          }
+        },
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title",
+            "type": {
+              "name": "SelectedOption",
+              "kind": "OBJECT",
+              "fieldBaseTypes": {
+                "name": "String",
+                "value": "String"
+              },
+              "implementsNode": false
+            }
+          }
+        ],
+        "type": {
+          "name": "ProductVariant",
+          "kind": "OBJECT",
+          "fieldBaseTypes": {
+            "availableForSale": "Boolean",
+            "compareAtPrice": "Money",
+            "compareAtPriceV2": "MoneyV2",
+            "id": "ID",
+            "image": "Image",
+            "presentmentPrices": "ProductVariantPricePairConnection",
+            "price": "Money",
+            "priceV2": "MoneyV2",
+            "product": "Product",
+            "selectedOptions": "SelectedOption",
+            "sku": "String",
+            "title": "String",
+            "weight": "Float"
+          },
+          "implementsNode": true
+        },
+        "hasNextPage": false,
+        "hasPreviousPage": false,
+        "variableValues": {
+          "first": 20
+        }
+      }
+    ],
+    "type": {
+      "name": "Product",
+      "kind": "OBJECT",
+      "fieldBaseTypes": {
+        "availableForSale": "Boolean",
+        "createdAt": "DateTime",
+        "description": "String",
+        "descriptionHtml": "HTML",
+        "handle": "String",
+        "id": "ID",
+        "images": "ImageConnection",
+        "onlineStoreUrl": "URL",
+        "options": "ProductOption",
+        "productType": "String",
+        "publishedAt": "DateTime",
+        "title": "String",
+        "updatedAt": "DateTime",
+        "variants": "ProductVariantConnection",
+        "vendor": "String"
+      },
+      "implementsNode": true
+    },
+    "hasNextPage": {
+      "value": true
+    },
+    "hasPreviousPage": {
+      "value": true
+    },
+    "variableValues": {
+      "first": 20
+    },
+    "img": "https://cdn.shopify.com/s/files/1/0142/1334/9430/products/RB0101025016_9eacfce5-a1b1-42e9-9e0d-8f01bc236a99.jpg?v=1551962052"
+  },
+  {
+    "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0LzE5ODk1NzMxNDg3MjY=",
+    "availableForSale": true,
+    "createdAt": "2019-02-28T20:08:38Z",
+    "updatedAt": "2019-09-02T12:07:56Z",
+    "descriptionHtml": "Svaigi grauzdētas kafijas pupiņas īstenai kafijas baudīšanai! <!-- split --> [TABS]\n<h5>Apraksts</h5>\n<p>VELVET Coffee Inspiration 1KG kafijas pupiņas 100% arabikas šķirnes kafijas pupiņas no Brazīlijas. Garšas nianses: lazdu rieksti un kakao notis. </p>\n<h5>Specifikācija</h5>\n<p> </p>\n<h5>Lietošanas instrukcija</h5>\n<p> </p>\n[/TABS]",
+    "description": "Svaigi grauzdētas kafijas pupiņas īstenai kafijas baudīšanai! &lt;!-- split --> [TABS] Apraksts VELVET Coffee Inspiration 1KG kafijas pupiņas 100% arabikas šķirnes kafijas pupiņas no Brazīlijas. Garšas nianses: lazdu rieksti un kakao notis. Specifikācija Lietošanas instrukcija [/TABS]",
+    "handle": "velvet-inspiration-kafijas-pupinas-1-kg",
+    "productType": "Kafijas pupiņas",
+    "title": "VELVET Inspiration kafijas pupiņas, 1 KG",
+    "vendor": "VELVET",
+    "publishedAt": "2019-07-14T22:42:30Z",
+    "onlineStoreUrl": "https://www.esmilukafiju.lv/products/velvet-inspiration-kafijas-pupinas-1-kg",
+    "options": [
+      {
+        "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0T3B0aW9uLzI3NzUzNzYyNjUyNzA=",
+        "name": "Title",
+        "values": [
+          {
+            "value": "Default Title",
+            "type": {
+              "name": "String",
+              "kind": "SCALAR"
+            }
+          }
+        ],
+        "type": {
+          "name": "ProductOption",
+          "kind": "OBJECT",
+          "fieldBaseTypes": {
+            "name": "String",
+            "values": "String"
+          },
+          "implementsNode": true
+        }
+      }
+    ],
+    "images": [
+      {
+        "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0SW1hZ2UvNzEzNzA2NTIwNTgxNA==",
+        "src": "https://cdn.shopify.com/s/files/1/0142/1334/9430/products/RB0101100089.jpg?v=1556222435",
+        "altText": null,
+        "type": {
+          "name": "Image",
+          "kind": "OBJECT",
+          "fieldBaseTypes": {
+            "altText": "String",
+            "id": "ID",
+            "originalSrc": "URL",
+            "src": "URL"
+          },
+          "implementsNode": false
+        },
+        "hasNextPage": {
+          "value": true
+        },
+        "hasPreviousPage": false,
+        "variableValues": {
+          "first": 20
+        }
+      },
+      {
+        "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0SW1hZ2UvNjc5NTk4NDc2NDk4Mg==",
+        "src": "https://cdn.shopify.com/s/files/1/0142/1334/9430/products/RB0101100089_vide_24100d74-92a2-47e5-906d-3422bcbd7b96.jpg?v=1556222435",
+        "altText": null,
+        "type": {
+          "name": "Image",
+          "kind": "OBJECT",
+          "fieldBaseTypes": {
+            "altText": "String",
+            "id": "ID",
+            "originalSrc": "URL",
+            "src": "URL"
+          },
+          "implementsNode": false
+        },
+        "hasNextPage": false,
+        "hasPreviousPage": {
+          "value": true
+        },
+        "variableValues": {
+          "first": 20
+        }
+      }
+    ],
+    "variants": [
+      {
+        "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0VmFyaWFudC8xOTgzMTIyNjMwMjUxOA==",
+        "title": "Default Title",
+        "price": "26.00",
+        "priceV2": {
+          "amount": "26.0",
+          "currencyCode": "EUR",
+          "type": {
+            "name": "MoneyV2",
+            "kind": "OBJECT",
+            "fieldBaseTypes": {
+              "amount": "Decimal",
+              "currencyCode": "CurrencyCode"
+            },
+            "implementsNode": false
+          }
+        },
+        "presentmentPrices": [
+          {
+            "price": {
+              "amount": "26.0",
+              "currencyCode": "EUR",
+              "type": {
+                "name": "MoneyV2",
+                "kind": "OBJECT",
+                "fieldBaseTypes": {
+                  "amount": "Decimal",
+                  "currencyCode": "CurrencyCode"
+                },
+                "implementsNode": false
+              }
+            },
+            "type": {
+              "name": "ProductVariantPricePair",
+              "kind": "OBJECT",
+              "fieldBaseTypes": {
+                "price": "MoneyV2"
+              },
+              "implementsNode": false
+            },
+            "hasNextPage": false,
+            "hasPreviousPage": false,
+            "variableValues": {
+              "first": 20
+            }
+          }
+        ],
+        "weight": 0,
+        "available": true,
+        "sku": "RB0101100089",
+        "compareAtPrice": null,
+        "compareAtPriceV2": null,
+        "image": {
+          "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0SW1hZ2UvNzEzNzA2NTIwNTgxNA==",
+          "src": "https://cdn.shopify.com/s/files/1/0142/1334/9430/products/RB0101100089.jpg?v=1556222435",
+          "altText": null,
+          "type": {
+            "name": "Image",
+            "kind": "OBJECT",
+            "fieldBaseTypes": {
+              "altText": "String",
+              "id": "ID",
+              "originalSrc": "URL",
+              "src": "URL"
+            },
+            "implementsNode": false
+          }
+        },
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title",
+            "type": {
+              "name": "SelectedOption",
+              "kind": "OBJECT",
+              "fieldBaseTypes": {
+                "name": "String",
+                "value": "String"
+              },
+              "implementsNode": false
+            }
+          }
+        ],
+        "type": {
+          "name": "ProductVariant",
+          "kind": "OBJECT",
+          "fieldBaseTypes": {
+            "availableForSale": "Boolean",
+            "compareAtPrice": "Money",
+            "compareAtPriceV2": "MoneyV2",
+            "id": "ID",
+            "image": "Image",
+            "presentmentPrices": "ProductVariantPricePairConnection",
+            "price": "Money",
+            "priceV2": "MoneyV2",
+            "product": "Product",
+            "selectedOptions": "SelectedOption",
+            "sku": "String",
+            "title": "String",
+            "weight": "Float"
+          },
+          "implementsNode": true
+        },
+        "hasNextPage": false,
+        "hasPreviousPage": false,
+        "variableValues": {
+          "first": 20
+        }
+      }
+    ],
+    "type": {
+      "name": "Product",
+      "kind": "OBJECT",
+      "fieldBaseTypes": {
+        "availableForSale": "Boolean",
+        "createdAt": "DateTime",
+        "description": "String",
+        "descriptionHtml": "HTML",
+        "handle": "String",
+        "id": "ID",
+        "images": "ImageConnection",
+        "onlineStoreUrl": "URL",
+        "options": "ProductOption",
+        "productType": "String",
+        "publishedAt": "DateTime",
+        "title": "String",
+        "updatedAt": "DateTime",
+        "variants": "ProductVariantConnection",
+        "vendor": "String"
+      },
+      "implementsNode": true
+    },
+    "hasNextPage": {
+      "value": true
+    },
+    "hasPreviousPage": {
+      "value": true
+    },
+    "variableValues": {
+      "first": 20
+    },
+    "img": "https://cdn.shopify.com/s/files/1/0142/1334/9430/products/RB0101100089.jpg?v=1556222435"
+  },
+  {
+    "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0LzE5ODk1NzM0NzY0MDY=",
+    "availableForSale": true,
+    "createdAt": "2019-02-28T20:08:45Z",
+    "updatedAt": "2019-09-03T15:47:55Z",
+    "descriptionHtml": "Svaigi grauzdētas kafijas pupiņas īstenai kafijas baudīšanai! <!-- split --> [TABS]\n<h5>Apraksts</h5>\n<p>VELVET Coffee Passion 1kg kafijas pupiņas 100% arabikas šķirnes kafijas pupiņas no Brazīlijas un Indijas. Garšas nianses: tumšā šokolāde un melnie ķirši. Vidēji tumšs grauzdējums.</p>\n<h5>Specifikācija</h5>\n<p> </p>\n<h5>Lietošanas instrukcija</h5>\n<p> </p>\n[/TABS]",
+    "description": "Svaigi grauzdētas kafijas pupiņas īstenai kafijas baudīšanai! &lt;!-- split --> [TABS] Apraksts VELVET Coffee Passion 1kg kafijas pupiņas 100% arabikas šķirnes kafijas pupiņas no Brazīlijas un Indijas. Garšas nianses: tumšā šokolāde un melnie ķirši. Vidēji tumšs grauzdējums. Specifikācija Lietošanas instrukcija [/TABS]",
+    "handle": "velvet-passion-kafijas-pupinas-1-kg",
+    "productType": "Kafijas pupiņas",
+    "title": "VELVET Passion kafijas pupiņas, 1 KG",
+    "vendor": "VELVET",
+    "publishedAt": "2019-07-14T22:42:30Z",
+    "onlineStoreUrl": "https://www.esmilukafiju.lv/products/velvet-passion-kafijas-pupinas-1-kg",
+    "options": [
+      {
+        "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0T3B0aW9uLzI3NzUzNzY3NTY3OTA=",
+        "name": "Title",
+        "values": [
+          {
+            "value": "Default Title",
+            "type": {
+              "name": "String",
+              "kind": "SCALAR"
+            }
+          }
+        ],
+        "type": {
+          "name": "ProductOption",
+          "kind": "OBJECT",
+          "fieldBaseTypes": {
+            "name": "String",
+            "values": "String"
+          },
+          "implementsNode": true
+        }
+      }
+    ],
+    "images": [
+      {
+        "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0SW1hZ2UvNjc5NTk4NTAyNzEyNg==",
+        "src": "https://cdn.shopify.com/s/files/1/0142/1334/9430/products/RB0101100091_1e3cba01-16b6-43c0-b9f3-174d00bd45e6.jpg?v=1551962065",
+        "altText": "VELVET Passion kafijas pupiņas, 1 KG",
+        "type": {
+          "name": "Image",
+          "kind": "OBJECT",
+          "fieldBaseTypes": {
+            "altText": "String",
+            "id": "ID",
+            "originalSrc": "URL",
+            "src": "URL"
+          },
+          "implementsNode": false
+        },
+        "hasNextPage": {
+          "value": true
+        },
+        "hasPreviousPage": false,
+        "variableValues": {
+          "first": 20
+        }
+      },
+      {
+        "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0SW1hZ2UvNjc5NTk4NTA1OTg5NA==",
+        "src": "https://cdn.shopify.com/s/files/1/0142/1334/9430/products/RB0101100091_vide_0132fc88-a861-47f9-956e-8c1ee88b61e4.jpg?v=1551962065",
+        "altText": null,
+        "type": {
+          "name": "Image",
+          "kind": "OBJECT",
+          "fieldBaseTypes": {
+            "altText": "String",
+            "id": "ID",
+            "originalSrc": "URL",
+            "src": "URL"
+          },
+          "implementsNode": false
+        },
+        "hasNextPage": false,
+        "hasPreviousPage": {
+          "value": true
+        },
+        "variableValues": {
+          "first": 20
+        }
+      }
+    ],
+    "variants": [
+      {
+        "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0VmFyaWFudC8xOTgzMTIyNjUzMTg5NA==",
+        "title": "Default Title",
+        "price": "23.50",
+        "priceV2": {
+          "amount": "23.5",
+          "currencyCode": "EUR",
+          "type": {
+            "name": "MoneyV2",
+            "kind": "OBJECT",
+            "fieldBaseTypes": {
+              "amount": "Decimal",
+              "currencyCode": "CurrencyCode"
+            },
+            "implementsNode": false
+          }
+        },
+        "presentmentPrices": [
+          {
+            "price": {
+              "amount": "23.5",
+              "currencyCode": "EUR",
+              "type": {
+                "name": "MoneyV2",
+                "kind": "OBJECT",
+                "fieldBaseTypes": {
+                  "amount": "Decimal",
+                  "currencyCode": "CurrencyCode"
+                },
+                "implementsNode": false
+              }
+            },
+            "type": {
+              "name": "ProductVariantPricePair",
+              "kind": "OBJECT",
+              "fieldBaseTypes": {
+                "price": "MoneyV2"
+              },
+              "implementsNode": false
+            },
+            "hasNextPage": false,
+            "hasPreviousPage": false,
+            "variableValues": {
+              "first": 20
+            }
+          }
+        ],
+        "weight": 0,
+        "available": true,
+        "sku": "RB0101100091",
+        "compareAtPrice": null,
+        "compareAtPriceV2": null,
+        "image": {
+          "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0SW1hZ2UvNjc5NTk4NTAyNzEyNg==",
+          "src": "https://cdn.shopify.com/s/files/1/0142/1334/9430/products/RB0101100091_1e3cba01-16b6-43c0-b9f3-174d00bd45e6.jpg?v=1551962065",
+          "altText": "VELVET Passion kafijas pupiņas, 1 KG",
+          "type": {
+            "name": "Image",
+            "kind": "OBJECT",
+            "fieldBaseTypes": {
+              "altText": "String",
+              "id": "ID",
+              "originalSrc": "URL",
+              "src": "URL"
+            },
+            "implementsNode": false
+          }
+        },
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title",
+            "type": {
+              "name": "SelectedOption",
+              "kind": "OBJECT",
+              "fieldBaseTypes": {
+                "name": "String",
+                "value": "String"
+              },
+              "implementsNode": false
+            }
+          }
+        ],
+        "type": {
+          "name": "ProductVariant",
+          "kind": "OBJECT",
+          "fieldBaseTypes": {
+            "availableForSale": "Boolean",
+            "compareAtPrice": "Money",
+            "compareAtPriceV2": "MoneyV2",
+            "id": "ID",
+            "image": "Image",
+            "presentmentPrices": "ProductVariantPricePairConnection",
+            "price": "Money",
+            "priceV2": "MoneyV2",
+            "product": "Product",
+            "selectedOptions": "SelectedOption",
+            "sku": "String",
+            "title": "String",
+            "weight": "Float"
+          },
+          "implementsNode": true
+        },
+        "hasNextPage": false,
+        "hasPreviousPage": false,
+        "variableValues": {
+          "first": 20
+        }
+      }
+    ],
+    "type": {
+      "name": "Product",
+      "kind": "OBJECT",
+      "fieldBaseTypes": {
+        "availableForSale": "Boolean",
+        "createdAt": "DateTime",
+        "description": "String",
+        "descriptionHtml": "HTML",
+        "handle": "String",
+        "id": "ID",
+        "images": "ImageConnection",
+        "onlineStoreUrl": "URL",
+        "options": "ProductOption",
+        "productType": "String",
+        "publishedAt": "DateTime",
+        "title": "String",
+        "updatedAt": "DateTime",
+        "variants": "ProductVariantConnection",
+        "vendor": "String"
+      },
+      "implementsNode": true
+    },
+    "hasNextPage": {
+      "value": true
+    },
+    "hasPreviousPage": {
+      "value": true
+    },
+    "variableValues": {
+      "first": 20
+    },
+    "img": "https://cdn.shopify.com/s/files/1/0142/1334/9430/products/RB0101100091_1e3cba01-16b6-43c0-b9f3-174d00bd45e6.jpg?v=1551962065"
+  },
+  {
+    "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0LzE5ODk1NzM2NzMwMTQ=",
+    "availableForSale": true,
+    "createdAt": "2019-02-28T20:08:50Z",
+    "updatedAt": "2019-09-06T12:07:55Z",
+    "descriptionHtml": "Svaigi grauzdētas kafijas pupiņas īstenai kafijas baudīšanai! <!-- split --> [TABS]<h5>Apraksts</h5><p>VELVET Coffee Passion 250g kafijas pupiņas 100% arabikas šķirnes kafijas pupiņas no Brazīlijas un Indijas. Garšas nianses: tumšā šokolāde un melnie ķirši. Vidēji tumšs grauzdējums.</p><h5>Specifikācija</h5><p></p><h5>Lietošanas instrukcija</h5><p></p>[/TABS]",
+    "description": "Svaigi grauzdētas kafijas pupiņas īstenai kafijas baudīšanai! &lt;!-- split --> [TABS]AprakstsVELVET Coffee Passion 250g kafijas pupiņas 100% arabikas šķirnes kafijas pupiņas no Brazīlijas un Indijas. Garšas nianses: tumšā šokolāde un melnie ķirši. Vidēji tumšs grauzdējums.SpecifikācijaLietošanas instrukcija[/TABS]",
+    "handle": "velvet-passion-kafijas-pupinas-250g",
+    "productType": "Kafijas pupiņas",
+    "title": "VELVET Passion kafijas pupiņas, 250g",
+    "vendor": "VELVET",
+    "publishedAt": "2019-07-14T22:42:30Z",
+    "onlineStoreUrl": "https://www.esmilukafiju.lv/products/velvet-passion-kafijas-pupinas-250g",
+    "options": [
+      {
+        "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0T3B0aW9uLzI3NzUzNzcwMTg5MzQ=",
+        "name": "Title",
+        "values": [
+          {
+            "value": "Default Title",
+            "type": {
+              "name": "String",
+              "kind": "SCALAR"
+            }
+          }
+        ],
+        "type": {
+          "name": "ProductOption",
+          "kind": "OBJECT",
+          "fieldBaseTypes": {
+            "name": "String",
+            "values": "String"
+          },
+          "implementsNode": true
+        }
+      }
+    ],
+    "images": [
+      {
+        "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0SW1hZ2UvNjc5NTk4NTE5MDk2Ng==",
+        "src": "https://cdn.shopify.com/s/files/1/0142/1334/9430/products/RB0101025015_2abac5e0-bb31-4db3-ad73-d078f0ef091e.jpg?v=1551962069",
+        "altText": "VELVET Passion kafijas pupiņas, 250g",
+        "type": {
+          "name": "Image",
+          "kind": "OBJECT",
+          "fieldBaseTypes": {
+            "altText": "String",
+            "id": "ID",
+            "originalSrc": "URL",
+            "src": "URL"
+          },
+          "implementsNode": false
+        },
+        "hasNextPage": {
+          "value": true
+        },
+        "hasPreviousPage": false,
+        "variableValues": {
+          "first": 20
+        }
+      },
+      {
+        "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0SW1hZ2UvNjc5NTk4NTIyMzczNA==",
+        "src": "https://cdn.shopify.com/s/files/1/0142/1334/9430/products/RB0101025015_vide_792f2748-0b25-4c67-9523-52498d5b4e3e.jpg?v=1551962069",
+        "altText": null,
+        "type": {
+          "name": "Image",
+          "kind": "OBJECT",
+          "fieldBaseTypes": {
+            "altText": "String",
+            "id": "ID",
+            "originalSrc": "URL",
+            "src": "URL"
+          },
+          "implementsNode": false
+        },
+        "hasNextPage": false,
+        "hasPreviousPage": {
+          "value": true
+        },
+        "variableValues": {
+          "first": 20
+        }
+      }
+    ],
+    "variants": [
+      {
+        "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0VmFyaWFudC8xOTgzMTIyNjU2NDY2Mg==",
+        "title": "Default Title",
+        "price": "6.11",
+        "priceV2": {
+          "amount": "6.11",
+          "currencyCode": "EUR",
+          "type": {
+            "name": "MoneyV2",
+            "kind": "OBJECT",
+            "fieldBaseTypes": {
+              "amount": "Decimal",
+              "currencyCode": "CurrencyCode"
+            },
+            "implementsNode": false
+          }
+        },
+        "presentmentPrices": [
+          {
+            "price": {
+              "amount": "6.11",
+              "currencyCode": "EUR",
+              "type": {
+                "name": "MoneyV2",
+                "kind": "OBJECT",
+                "fieldBaseTypes": {
+                  "amount": "Decimal",
+                  "currencyCode": "CurrencyCode"
+                },
+                "implementsNode": false
+              }
+            },
+            "type": {
+              "name": "ProductVariantPricePair",
+              "kind": "OBJECT",
+              "fieldBaseTypes": {
+                "price": "MoneyV2"
+              },
+              "implementsNode": false
+            },
+            "hasNextPage": false,
+            "hasPreviousPage": false,
+            "variableValues": {
+              "first": 20
+            }
+          }
+        ],
+        "weight": 0,
+        "available": true,
+        "sku": "RB0101025015",
+        "compareAtPrice": null,
+        "compareAtPriceV2": null,
+        "image": {
+          "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0SW1hZ2UvNjc5NTk4NTE5MDk2Ng==",
+          "src": "https://cdn.shopify.com/s/files/1/0142/1334/9430/products/RB0101025015_2abac5e0-bb31-4db3-ad73-d078f0ef091e.jpg?v=1551962069",
+          "altText": "VELVET Passion kafijas pupiņas, 250g",
+          "type": {
+            "name": "Image",
+            "kind": "OBJECT",
+            "fieldBaseTypes": {
+              "altText": "String",
+              "id": "ID",
+              "originalSrc": "URL",
+              "src": "URL"
+            },
+            "implementsNode": false
+          }
+        },
+        "selectedOptions": [
+          {
+            "name": "Title",
+            "value": "Default Title",
+            "type": {
+              "name": "SelectedOption",
+              "kind": "OBJECT",
+              "fieldBaseTypes": {
+                "name": "String",
+                "value": "String"
+              },
+              "implementsNode": false
+            }
+          }
+        ],
+        "type": {
+          "name": "ProductVariant",
+          "kind": "OBJECT",
+          "fieldBaseTypes": {
+            "availableForSale": "Boolean",
+            "compareAtPrice": "Money",
+            "compareAtPriceV2": "MoneyV2",
+            "id": "ID",
+            "image": "Image",
+            "presentmentPrices": "ProductVariantPricePairConnection",
+            "price": "Money",
+            "priceV2": "MoneyV2",
+            "product": "Product",
+            "selectedOptions": "SelectedOption",
+            "sku": "String",
+            "title": "String",
+            "weight": "Float"
+          },
+          "implementsNode": true
+        },
+        "hasNextPage": false,
+        "hasPreviousPage": false,
+        "variableValues": {
+          "first": 20
+        }
+      }
+    ],
+    "type": {
+      "name": "Product",
+      "kind": "OBJECT",
+      "fieldBaseTypes": {
+        "availableForSale": "Boolean",
+        "createdAt": "DateTime",
+        "description": "String",
+        "descriptionHtml": "HTML",
+        "handle": "String",
+        "id": "ID",
+        "images": "ImageConnection",
+        "onlineStoreUrl": "URL",
+        "options": "ProductOption",
+        "productType": "String",
+        "publishedAt": "DateTime",
+        "title": "String",
+        "updatedAt": "DateTime",
+        "variants": "ProductVariantConnection",
+        "vendor": "String"
+      },
+      "implementsNode": true
+    },
+    "hasNextPage": true,
+    "hasPreviousPage": {
+      "value": true
+    },
+    "variableValues": {
+      "first": 20
+    },
+    "img": "https://cdn.shopify.com/s/files/1/0142/1334/9430/products/RB0101025015_2abac5e0-bb31-4db3-ad73-d078f0ef091e.jpg?v=1551962069"
+  }
+]

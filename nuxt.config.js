@@ -1,7 +1,25 @@
-import data from './static/storedata.json'
-let dynamicRoutes = () => {
+import fs from 'fs'
+import fetch from 'isomorphic-fetch'
+import Client from 'shopify-buy'
+
+const dynamicRoutes = async () => {
+  const client = Client.buildClient({
+    domain: process.env.storeUrl,
+    storefrontAccessToken: process.env.storefrontAccessToken
+  });
+
+  let products = await client.product.fetchAll();
+  products = products.map(
+    product => {
+      product.img = product.images.length > 0 ? product.images[0].src : null;
+
+      return product;
+    }
+  );
+  fs.writeFileSync('./static/shopifydata.json', JSON.stringify(products, null, 2));
+
   return new Promise(resolve => {
-    resolve(data.map(el => `product/${el.id}`))
+    resolve(products.map(el => `products/${el.handle}`))
   })
 }
 
@@ -35,6 +53,8 @@ export default {
   generate: {
     routes: dynamicRoutes
   },
+  env: process.env.NODE_ENV === 'development'
+    ? require('dotenv').config().parsed : {},
   /*
    ** Customize the progress-bar color
    */

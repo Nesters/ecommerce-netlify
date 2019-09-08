@@ -1,6 +1,6 @@
-# 🛍 Ecommerce Store with Netlify Functions and Stripe
+# 🛍 Ecommerce Store with Netlify Functions and Shopify
 
-> A serverless function to process stripe payments with Nuxt, Netlify, and Lambda
+> Serverless ecommerce platform with AWS Lambda, Nuxt, Netlify and Shopify
 
 Demo site is here: [E-Commerce Store](https://ecommerce-netlify.netlify.com/)
 
@@ -26,5 +26,9 @@ $ yarn start or npm start
 # generate static project
 $ yarn generate or npm generate
 ```
+
+Important(!) for first time development setup:
+
+Run generate at least once when you set up the project locally (or when you want latest data from Shopify)
 
 For detailed explanation on how things work, checkout [Nuxt.js docs](https://nuxtjs.org).

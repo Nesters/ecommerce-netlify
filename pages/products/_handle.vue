@@ -2,7 +2,7 @@
   <div>
     <section class="item-contain">
       <section class="img">
-        <img :src="`/products/${product.img}`" />
+        <img :src="product.img" />
       </section>
       <section class="product-info">
         <h1>{{ product.name }}</h1>
@@ -62,7 +62,7 @@ export default {
   },
   data() {
     return {
-      id: this.$route.params.id,
+      handle: this.$route.params.handle,
       quantity: 1,
       tempcart: [] // this object should be the same as the json store object, with an additional param, quantity
     };
@@ -70,7 +70,7 @@ export default {
   computed: {
     ...mapState(["storedata"]),
     product() {
-      return this.storedata.find(el => el.id === this.id);
+      return this.storedata.find(el => el.handle === this.handle);
     }
   },
   methods: {
@@ -85,6 +85,14 @@ export default {
 </script>
 
 <style lang="scss" scoped>
+.img {
+  max-width: 400px;
+  
+  img {
+    width: 100%;
+  }
+}
+
 .item-contain {
   margin-left: 8%;
   width: 80%;
