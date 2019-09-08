@@ -8,23 +8,22 @@
           <th>Quantity</th>
           <th>Total</th>
         </tr>
-        <tr v-for="item in cart" :key="item.id">
+        <tr v-for="item in checkout.lineItems" :key="item.id">
           <td>
-            <img :src="item.img" :alt="item.name" class="productimg" />
-            <h3 class="productname">{{ item.name }}</h3>
+            <img :src="item.variant.image.src" :alt="item.title" class="productimg" />
+            <h3 class="productname">{{ item.title }}</h3>
           </td>
           <td>
-            <h4 class="price">{{ item.price | dollar }}</h4>
+            <h4 class="price">{{ parseFloat(item.variant.price) | dollar }}</h4>
           </td>
           <td>
             <strong>{{ item.quantity }}</strong>
           </td>
-          <td>{{ item.quantity * item.price | dollar }}</td>
+          <td>{{ item.quantity * parseFloat(item.variant.price) | dollar }}</td>
         </tr>
       </table>
 
       <section class="payment">
-        <app-card />
         <div class="total">
           <div class="caption">
             <p>
@@ -42,6 +41,9 @@
           </div>
         </div>
       </section>
+      <button class="pay-with-stripe">
+        <a :href="checkout.webUrl">Checkout</a>
+      </button>
     </section>
 
     <section v-else class="center">
@@ -54,16 +56,14 @@
 </template>
 
 <script>
-import AppCard from "~/components/AppCard.vue";
 import { mapState } from "vuex";
 import { mapGetters } from "vuex";
 
 export default {
   components: {
-    AppCard
   },
   computed: {
-    ...mapState(["cart"]),
+    ...mapState(["checkout"]),
     ...mapGetters(["cartCount", "cartTotal"])
   }
 };

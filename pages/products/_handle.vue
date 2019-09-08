@@ -13,7 +13,7 @@
           active-color="#000"
           style="margin: 5px 0"
         ></star-rating>
-        <h4 class="price">{{ product.price | dollar }}</h4>
+        <h4 class="price">{{ product.variants[0].price | dollar }}</h4>
         <p>{{ product.description }}</p>
         <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iusto velit dolores repudiandae animi quidem, eveniet quod dolor facilis dicta eligendi ullam error. Assumenda in fugiat natus enim similique nam itaque.</p>
         <p class="quantity">
