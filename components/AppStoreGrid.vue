@@ -15,7 +15,7 @@
           style="margin: 5px 0"
         ></star-rating>
         <h3>{{ item.name }}</h3>
-        <h4 class="price">{{ item.price | dollar }}</h4>
+        <h4 class="price">{{ item.variants[0].price | dollar }}</h4>
         <NuxtLink :to="`products/${item.handle}`">
           <button class="multi-item">View Item ></button>
         </NuxtLink>
@@ -62,7 +62,7 @@ export default {
   },
   computed: {
     filteredprice() {
-      return this.data.filter(el => el.price < this.pricerange);
+      return this.data.filter(el => parseFloat(el.variants[0].price) < this.pricerange);
     }
   },
   components: {
