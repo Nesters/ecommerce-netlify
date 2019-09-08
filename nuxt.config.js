@@ -37,7 +37,10 @@ export default {
     routes: dynamicRoutes
   },
   env: process.env.NODE_ENV === 'development'
-    ? require('dotenv').config().parsed : {},
+    ? require('dotenv').config().parsed : {
+      storeUrl: process.env.storeUrl,
+      storefrontAccessToken: process.env.storefrontAccessToken
+    },
   /*
    ** Customize the progress-bar color
    */
