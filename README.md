@@ -27,8 +27,4 @@ $ yarn start or npm start
 $ yarn generate or npm generate
 ```
 
-Important(!) for first time development setup:
-
-Run generate at least once when you set up the project locally (or when you want latest data from Shopify)
-
 For detailed explanation on how things work, checkout [Nuxt.js docs](https://nuxtjs.org).

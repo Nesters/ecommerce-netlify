@@ -5,10 +5,11 @@
   "author": "nesters && sdras",
   "private": true,
   "scripts": {
-    "dev": "nuxt",
+    "dev": "NODE_ENV=development npm run fetch-products && nuxt",
     "build": "nuxt build",
+    "fetch-products": "node scripts/shopifyDataFetch.js",
     "start": "nuxt start",
-    "generate": "nuxt generate"
+    "generate": "npm run fetch-products && nuxt generate"
   },
   "dependencies": {
     "axios": "^0.19.0",
