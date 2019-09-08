@@ -13,7 +13,7 @@ export default {
    */
   head: {
     title: process.env.npm_package_name || '',
-    script: [{ src: 'http://sdks.shopifycdn.com/js-buy-sdk/v2/latest/index.umd.min.js' }],
+    script: [{ src: 'https://sdks.shopifycdn.com/js-buy-sdk/v2/latest/index.umd.min.js' }],
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
