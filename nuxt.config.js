@@ -13,7 +13,7 @@ export default {
    */
   head: {
     title: process.env.npm_package_name || '',
-    script: [{ src: 'https://js.stripe.com/v3/' }],
+    script: [{ src: 'http://sdks.shopifycdn.com/js-buy-sdk/v2/latest/index.umd.min.js' }],
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
@@ -49,7 +49,10 @@ export default {
   /*
    ** Plugins to load before mounting the App
    */
-  plugins: [`~/plugins/currency-filter.js`],
+  plugins: [
+    `~/plugins/currency-filter.js`,
+    { src: `~/plugins/shopifyClient.js`, mode: 'client' }
+  ],
   /*
    ** Nuxt.js modules
    */
