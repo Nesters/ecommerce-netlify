@@ -70,15 +70,16 @@ export default {
   computed: {
     ...mapState(["storedata"]),
     product() {
-      return this.storedata.find(el => el.handle === this.handle);
+      return this.storedata.find(el => el.handle === this.handle)
     }
   },
   methods: {
     cartAdd() {
-      let item = this.product;
-      item.quantity = this.quantity;
-      this.tempcart.push(item);
-      this.$store.commit("addToCart", {...item});
+      this.$store.dispatch("addToCart", {
+        variantId: this.product.variants[0].id,
+        quantity: this.quantity,
+        customAttributes: []
+      })
     }
   }
 };

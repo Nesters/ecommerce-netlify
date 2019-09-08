@@ -24,9 +24,12 @@ export const getters = {
 }
 
 export const mutations = {
-  setCheckout: async (state, payload) => {
-    state.checkout = payload
+  setCheckout: (state, payload) => {
+    state.checkout = { ...payload }
     Cookies.set('checkoutId', state.checkout.id, { expires: 1 })
+  },
+  setClient: (state, payload) => {
+    state.client = { ...payload.client }
   },
   updateCartUI: (state, payload) => {
     state.cartUIStatus = payload
@@ -45,11 +48,34 @@ export const mutations = {
 
 export const actions = {
   async initializeCheckout({ state, commit }, payload) {
-    const checkoutId = Cookies.get('checkoutId');
+    commit('setClient', payload)
+    const checkoutId = Cookies.get('checkoutId')
     try {
       const checkout = !checkoutId
-        ? await payload.client.checkout.create() : await payload.client.checkout.fetch(checkoutId)
+        ? await state.client.checkout.create() : await state.client.checkout.fetch(checkoutId)
       commit('setCheckout', checkout);
+    } catch (err) {
+      console.log(err)
+    }
+  },
+  async addToCart({ state, commit}, payload) {
+    try {
+      const checkout = await state.client.checkout.addLineItems(
+        state.checkout.id,
+        [payload]
+      )
+      commit('setCheckout', checkout)
+    } catch (err) {
+      console.log(err)
+    }
+  },
+  async removeFromCart({ state, commit }, payload) {
+    try {
+      const checkout = await state.client.checkout.removeLineItems(
+        state.checkout.id,
+        [payload]
+      )
+      commit('setCheckout', checkout)
     } catch (err) {
       console.log(err)
     }
