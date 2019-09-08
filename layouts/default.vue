@@ -16,6 +16,9 @@ export default {
   components: {
     AppFooter,
     AppNav
+  },
+  mounted() {
+    this.$store.dispatch("initializeCheckout", { client: this.shopifyClient });
   }
 };
 </script>

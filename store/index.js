@@ -1,5 +1,6 @@
 import axios from "axios"
 import uuidv1 from "uuid/v1"
+import * as Cookies from 'js-cookie'
 import data from "~/static/shopifydata.json"
 
 export const state = () => ({
@@ -23,6 +24,10 @@ export const getters = {
 }
 
 export const mutations = {
+  setCheckout: async (state, payload) => {
+    state.checkout = payload
+    Cookies.set('checkoutId', state.checkout.id, { expires: 1 })
+  },
   updateCartUI: (state, payload) => {
     state.cartUIStatus = payload
   },
@@ -39,6 +44,16 @@ export const mutations = {
 }
 
 export const actions = {
+  async initializeCheckout({ state, commit }, payload) {
+    const checkoutId = Cookies.get('checkoutId');
+    try {
+      const checkout = !checkoutId
+        ? await payload.client.checkout.create() : await payload.client.checkout.fetch(checkoutId)
+      commit('setCheckout', checkout);
+    } catch (err) {
+      console.log(err)
+    }
+  },
   async postStripeFunction({ getters, commit }, payload) {
     commit("updateCartUI", "loading")
 

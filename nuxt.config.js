@@ -50,8 +50,8 @@ export default {
    ** Plugins to load before mounting the App
    */
   plugins: [
-    `~/plugins/currency-filter.js`,
-    { src: `~/plugins/shopifyClient.js`, mode: 'client' }
+    '~/plugins/currency-filter.js',
+    { src: '~/plugins/shopifyClient.js', mode: 'client' }
   ],
   /*
    ** Nuxt.js modules
