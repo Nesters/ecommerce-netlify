@@ -13,7 +13,7 @@ const fetchShopifyProducts = async () => {
     storefrontAccessToken: process.env.storefrontAccessToken
   });
 
-  let products = await client.product.fetchAll();
+  let products = await client.product.fetchAll(60);
   products = products.map(
     product => {
       product.img = product.images.length > 0 ? product.images[0].src : null;

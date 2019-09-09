@@ -86,3 +86,6 @@ sw.*
 
 # Mac OSX
 .DS_Store
+
+# Statically generated data from Shopify
+static/shopifydata.json
