@@ -2,7 +2,10 @@ import data from './static/shopifydata.json'
 
 const dynamicRoutes = async () => {
   return new Promise(resolve => {
-    resolve(data.products.map(el => `products/${el.handle}`))
+    const routes = [];
+    routes.push(...data.products.map(el => `products/${el.handle}`))
+    routes.push(...data.collections.map(el => `collections/${el.handle}`))
+    resolve(routes)
   })
 }
 

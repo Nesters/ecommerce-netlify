@@ -9,11 +9,12 @@
         <li>
           <nuxt-link to="/all">All</nuxt-link>
         </li>
-        <li>
-          <nuxt-link to="/women">Women</nuxt-link>
-        </li>
-        <li>
-          <nuxt-link to="/men">Men</nuxt-link>
+        <li v-for="collection in collections" :key="collection.id">
+          <nuxt-link
+            :to="`/collections/${collection.handle}`"
+            :aria-label="collection.title">
+              {{ collection.title }}
+          </nuxt-link>
         </li>
         <li>
           <div class="carttotal" v-if="cartCount > 0">{{ cartCount }}</div>
@@ -25,10 +26,11 @@
 </template>
 
 <script>
-import { mapGetters } from "vuex";
+import { mapGetters, mapState } from "vuex";
 
 export default {
   computed: {
+    ...mapState(["collections"]),
     ...mapGetters(["cartCount"])
   }
 };
