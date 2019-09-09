@@ -54,6 +54,7 @@ export default {
    */
   plugins: [
     '~/plugins/currency-filter.js',
+    '~/plugins/image-resize-cdn.js',
     { src: '~/plugins/shopifyClient.js', mode: 'client' }
   ],
   /*
