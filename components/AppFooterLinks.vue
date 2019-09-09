@@ -14,8 +14,10 @@
       <li>LinkedIn</li>
     </ul>
     <ul>
-      <h4>Newsletter:</h4>
-      <input type="text" />
+      <li>
+        <label for="newsletter">Subscribe to our Newsletter!</label>
+        <input id="newsletter" type="text" />
+      </li>
     </ul>
   </section>
 </template>
