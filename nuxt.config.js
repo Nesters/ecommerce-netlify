@@ -12,6 +12,9 @@ export default {
    ** Headers of the page
    */
   head: {
+    htmlAttrs: {
+      lang: 'en'
+    },
     title: process.env.npm_package_name || '',
     script: [{ src: 'https://sdks.shopifycdn.com/js-buy-sdk/v2/latest/index.umd.min.js' }],
     meta: [
