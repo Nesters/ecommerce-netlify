@@ -5,7 +5,7 @@
         <img :src="product.img" :alt="product.images[0].altText || ''" />
       </section>
       <section class="product-info">
-        <h1>{{ product.name }}</h1>
+        <h1>{{ product.title }}</h1>
         <star-rating
           :rating="product.starrating"
           :star-size="15"
