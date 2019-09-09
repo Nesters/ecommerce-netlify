@@ -60,7 +60,16 @@ export default {
   /*
    ** Nuxt.js modules
    */
-  modules: [],
+  modules: [
+    [
+      'nuxt-netlify-http2-server-push',
+      {
+        resources: [
+          { path: '**/*.js', as: 'script' },
+        ]
+      }
+    ]
+  ],
   /*
    ** Build configuration
    */
