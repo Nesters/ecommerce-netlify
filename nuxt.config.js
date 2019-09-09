@@ -2,7 +2,7 @@ import data from './static/shopifydata.json'
 
 const dynamicRoutes = async () => {
   return new Promise(resolve => {
-    resolve(data.map(el => `products/${el.handle}`))
+    resolve(data.products.map(el => `products/${el.handle}`))
   })
 }
 
