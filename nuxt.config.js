@@ -32,7 +32,7 @@ export default {
       {
         rel: 'stylesheet',
         href:
-          'https://fonts.googleapis.com/css?family=Montserrat:300,600|PT+Serif&display=swap'
+          'https://fonts.googleapis.com/css?family=Montserrat:300,600|PT+Serif&display=block',
       }
     ]
   },
