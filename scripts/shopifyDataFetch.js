@@ -13,16 +13,32 @@ const fetchShopifyProducts = async () => {
     storefrontAccessToken: process.env.storefrontAccessToken
   });
 
-  let products = await client.product.fetchAll(60);
+  let products = await client.product.fetchAll(60)
+  let collections = await client.collection.fetchAllWithProducts()
   products = products.map(
     product => {
-      product.img = product.images.length > 0 ? product.images[0].src : null;
+      product.img = product.images.length > 0 ? product.images[0].src : null
+      product.collections = collections.reduce(
+        (acc, collection) => {
+          if (collection.products.filter(prod => prod.id === product.id).length > 0) {
+            acc.push(collection.handle)
+          }
+          return acc
+        }, []
+      )
 
       return product;
     }
   );
-  console.log('Writing products to data file');
-  fs.writeFileSync('./static/shopifydata.json', JSON.stringify(products, null, 2));
+  collections = collections.map(
+    collection => {
+      const newCollection = { ...collection }
+      newCollection.products = [] // Avoid data file size bloating
+      return newCollection
+    }
+  )
+  console.log('Writing products to data file')
+  fs.writeFileSync('./static/shopifydata.json', JSON.stringify({ products, collections }, null, 2))
 };
 
 fetchShopifyProducts();

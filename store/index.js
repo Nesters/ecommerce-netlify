@@ -5,15 +5,15 @@ import data from "~/static/shopifydata.json"
 
 export const state = () => ({
   cartUIStatus: "idle",
-  storedata: data,
+  storedata: data.products,
   cart: [],
   checkout: null
 })
 
 export const getters = {
   featuredProducts: state => state.storedata.slice(0, 3),
-  women: state => state.storedata.filter(el => el.gender === "Female"),
-  men: state => state.storedata.filter(el => el.gender === "Male"),
+  women: state => state.storedata.filter(el => el.collections.includes('jewellery')),
+  men: state => state.storedata.filter(el => el.collections.includes('home-garden')),
   cartCount: state => {
     if (!state.checkout) return 0
     return state.checkout.lineItems.reduce((ac, next) => ac + next.quantity, 0)
