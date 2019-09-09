@@ -4,7 +4,7 @@
       <div v-for="item in filteredprice" :key="item.id" class="item">
         <div class="img-contain">
           <NuxtLink :to="`/products/${item.handle}`">
-            <img :src="item.img | resize({ width: 300 })" />
+            <img :src="item.img | resize({ width: 300 })" :alt="item.images[0].altText || ''" />
           </NuxtLink>
         </div>
         <star-rating
