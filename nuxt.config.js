@@ -74,7 +74,13 @@ export default {
           { path: '**/*.js', as: 'script' },
         ]
       }
+    ],
+    [
+      '@nuxtjs/google-analytics', {
+        id: process.env.trackingId
+      }
     ]
+  ]
   ],
   /*
    ** Build configuration
