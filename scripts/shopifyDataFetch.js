@@ -62,7 +62,7 @@ const fetchShopifyProducts = async () => {
   collections = collections.map(
     collection => {
       const newCollection = { ...collection }
-      newCollection.products = [] // Avoid data file size bloating
+      newCollection.products = [] // Reduce bundle size by simplifying logic
       return newCollection
     }
   )

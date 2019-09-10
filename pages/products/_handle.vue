@@ -15,7 +15,6 @@
         ></star-rating>
         <h4 class="price">{{ product.variants[selectedVariant].price | dollar }}</h4>
         <p>{{ product.description }}</p>
-        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iusto velit dolores repudiandae animi quidem, eveniet quod dolor facilis dicta eligendi ullam error. Assumenda in fugiat natus enim similique nam itaque.</p>
         <p class="quantity">
           <button class="update-num" @click="quantity > 0 ? quantity-- : quantity = 0">-</button>
           <input type="number" v-model="quantity" />
@@ -98,6 +97,10 @@ export default {
   img {
     width: 100%;
   }
+}
+
+.product-info {
+  margin: 0 15px;
 }
 
 .item-contain {
