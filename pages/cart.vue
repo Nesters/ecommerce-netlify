@@ -1,7 +1,5 @@
 <template>
   <div>
-    <app-cart-steps />
-    <hr />
     <h1 class="center">Your Cart</h1>
 
     <section v-if="cartUIStatus === 'idle'">
@@ -31,7 +29,6 @@
 
 <script>
 import AppLoader from "~/components/AppLoader.vue";
-import AppCartSteps from "~/components/AppCartSteps.vue";
 import AppSalesBoxes from "~/components/AppSalesBoxes.vue";
 import AppCartDisplay from "~/components/AppCartDisplay.vue";
 import { mapState } from "vuex";
@@ -40,7 +37,6 @@ export default {
   components: {
     AppCartDisplay,
     AppSalesBoxes,
-    AppCartSteps,
     AppLoader
   },
   computed: {

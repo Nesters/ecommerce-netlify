@@ -10,7 +10,7 @@
         </tr>
         <tr v-for="item in checkout.lineItems" :key="item.id">
           <td>
-            <img :src="item.variant.image.src" :alt="item.title" class="productimg" />
+            <img :src="item.variant.image.src | resize({ width: 100 })" :alt="item.title" class="productimg" />
             <h3 class="productname">{{ cartItemTitle(item) }}</h3>
           </td>
           <td>
