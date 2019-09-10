@@ -24,6 +24,8 @@
       </table>
 
       <section class="payment">
+        <div class="discount_box">
+        </div>
         <div class="total">
           <div class="caption">
             <p>
@@ -41,14 +43,19 @@
           </div>
         </div>
       </section>
-      <button class="pay-with-stripe">
-        <a :href="checkout.webUrl">Checkout</a>
-      </button>
+      <section class="payment">
+        <div></div>
+        <div class="checkout_container">
+          <button class="pay-with-shopify">
+            <a :href="checkout.webUrl">Checkout</a>
+          </button>
+        </div>
+      </section>
     </section>
 
     <section v-else class="center">
       <p>Your cart is empty, fill it up!</p>
-      <button class="pay-with-stripe">
+      <button class="pay-with-shopify">
         <nuxt-link exact to="/">Back Home</nuxt-link>
       </button>
     </section>

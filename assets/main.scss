@@ -78,7 +78,12 @@ button.purchase {
   }
 }
 
-button.pay-with-stripe {
+.checkout_container {
+  text-align: right;
+  width:90%;
+}
+
+button.pay-with-shopify {
   background: black;
   color: white;
   font-size: 16px;

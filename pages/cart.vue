@@ -16,7 +16,7 @@
       <h2>Success!</h2>
       <p>Thank you for your purchase. You'll be receiving your items in 4 business days.</p>
       <p>Forgot something?</p>
-      <button class="pay-with-stripe">
+      <button class="pay-with-shopify">
         <nuxt-link exact to="/">Back to Home</nuxt-link>
       </button>
     </section>
