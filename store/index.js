@@ -48,6 +48,10 @@ export const actions = {
         ? await state.client.checkout.create() : await state.client.checkout.fetch(checkoutId)
       commit('setCheckout', checkout);
     } catch (err) {
+      Cookies.remove('checkoutId')
+      const checkout = await state.client.checkout.create()
+      commit('setCheckout', checkout)
+
       console.log(err)
     }
   },
