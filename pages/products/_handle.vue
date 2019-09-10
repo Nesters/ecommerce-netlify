@@ -2,7 +2,7 @@
   <div>
     <section class="item-contain">
       <section class="img">
-        <img :src="product.img" :alt="product.images[0].altText || ''" />
+        <img :src="product.img | resize({ width: 400 })" :alt="product.images[0].altText || ''" />
       </section>
       <section class="product-info">
         <h1>{{ product.title }}</h1>
