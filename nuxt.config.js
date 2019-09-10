@@ -80,7 +80,6 @@ export default {
         id: process.env.trackingId
       }
     ]
-  ]
   ],
   /*
    ** Build configuration
