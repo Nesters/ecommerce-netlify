@@ -11,7 +11,7 @@
         <tr v-for="item in checkout.lineItems" :key="item.id">
           <td>
             <img :src="item.variant.image.src" :alt="item.title" class="productimg" />
-            <h3 class="productname">{{ item.title }}</h3>
+            <h3 class="productname">{{ cartItemTitle(item) }}</h3>
           </td>
           <td>
             <h4 class="price">{{ parseFloat(item.variant.price) | dollar }}</h4>
@@ -65,6 +65,12 @@ export default {
   computed: {
     ...mapState(["checkout"]),
     ...mapGetters(["cartCount", "cartTotal"])
+  },
+  methods: {
+    cartItemTitle(item) {
+      return item.variant.title === 'Default Title'
+        ? item.title : `${item.title} - ${item.variant.title}`
+    }
   }
 };
 </script>

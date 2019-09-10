@@ -13,7 +13,7 @@
           active-color="#000"
           style="margin: 5px 0"
         ></star-rating>
-        <h4 class="price">{{ product.variants[0].price | dollar }}</h4>
+        <h4 class="price">{{ product.variants[selectedVariant].price | dollar }}</h4>
         <p>{{ product.description }}</p>
         <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iusto velit dolores repudiandae animi quidem, eveniet quod dolor facilis dicta eligendi ullam error. Assumenda in fugiat natus enim similique nam itaque.</p>
         <p class="quantity">
@@ -21,11 +21,16 @@
           <input type="number" v-model="quantity" />
           <button class="update-num" @click="quantity++">+</button>
         </p>
-        <p>
-          Available in additional colors:
-          <strong>
-            <span :style="`color: ${product.color}`">{{ product.color }}</span>
-          </strong>
+        <p v-if="product.variants.length > 1">
+          Available options:
+            <select v-model="selectedVariant">
+              <option
+                v-for="(variant, id) in product.variants"
+                :key="variant.id"
+                :value="id">
+                {{ variant.title }}
+              </option>
+            </select>
         </p>
         <p>
           <button class="button purchase" @click="cartAdd">Add to Cart</button>
@@ -63,6 +68,7 @@ export default {
   data() {
     return {
       handle: this.$route.params.handle,
+      selectedVariant: 0,
       quantity: 1,
       tempcart: [] // this object should be the same as the json store object, with an additional param, quantity
     };
@@ -76,7 +82,7 @@ export default {
   methods: {
     cartAdd() {
       this.$store.dispatch("addToCart", {
-        variantId: this.product.variants[0].id,
+        variantId: this.product.variants[this.selectedVariant].id,
         quantity: this.quantity,
         customAttributes: []
       })
