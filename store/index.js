@@ -12,7 +12,6 @@ export const state = () => ({
 })
 
 export const getters = {
-  featuredProducts: state => state.storedata.slice(0, 3),
   cartCount: state => {
     if (!state.checkout) return 0
     return state.checkout.lineItems.reduce((ac, next) => ac + next.quantity, 0)

@@ -18,9 +18,21 @@
 
 <script>
 export default {
+  props: {
+    data: {
+      required: true
+    },
+    product: {
+      required: false
+    }
+  },
   computed: {
     featuredProducts() {
-      return this.$store.getters.featuredProducts;
+      return this.product
+        ? this.data.filter(
+          product => this.product.id !== product.id && product.collections.includes(
+            this.product.collections[0])
+          ).slice(0, 3) : this.data.slice(0, 3)
     }
   }
 };

@@ -46,7 +46,7 @@
       <p>{{ product.review }}</p>
       <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum iusto placeat consequatur voluptas sit mollitia ratione autem, atque sequi odio laborum, recusandae quia distinctio voluptatibus sint, quae aliquid possimus exercitationem.</p>
     </div>
-    <app-featured-products />
+    <app-featured-products :data="storedata" :product="product" />
   </div>
 </template>
 
