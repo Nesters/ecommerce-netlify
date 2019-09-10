@@ -100,7 +100,7 @@ h2 span:after {
   }
 
   img {
-    width: initial;
+    width: 100%;
   }
 }
 
