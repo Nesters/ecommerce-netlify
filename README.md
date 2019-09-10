@@ -1,14 +1,10 @@
-# 🛍 Ecommerce Store with Netlify Functions and Shopify
+# 🛍 Ecommerce Store with Netlify and Shopify
 
-> Serverless ecommerce platform with AWS Lambda, Nuxt, Netlify and Shopify
+> Serverless ecommerce platform with Nuxt, Netlify and Shopify
 
-Demo site is here: [E-Commerce Store](https://ecommerce-netlify.netlify.com/)
+Demo site is here: [E-Commerce Store](https://jamstack-ecommerce.nesters.me)
 
 ![screenshot of site](https://s3-us-west-2.amazonaws.com/s.cdpn.io/28963/ecommerce-screenshot.jpg "E-Commerce Netlify Site")
-
-There are two articles explaining how this site is set up:
-* Explanation of Netlify Functions and Stripe: [Let's Build a JAMstack E-Commerce Store with Netlify Functions](https://css-tricks.com/lets-build-a-jamstack-e-commerce-store-with-netlify-functions/)
-* Explanation of dynamic routing in Nuxt for the individual product pages: [Creating Dynamic Routes in Nuxt Application](https://css-tricks.com/creating-dynamic-routes-in-a-nuxt-application/)
 
 ## Build Setup
 
@@ -26,5 +22,11 @@ $ yarn start or npm start
 # generate static project
 $ yarn generate or npm generate
 ```
+
+* 3 reasons why should consider JAMstack for your ecommerce store: [AMstack ecommerce with Shopify](https://medium.com/@nestersk/jamstack-ecommerce-with-shopify-7fa0cc373eed)
+
+I took inspiration from these two articles explaining how this site is set up:
+* Explanation of Netlify Functions and Stripe: [Let's Build a JAMstack E-Commerce Store with Netlify Functions](https://css-tricks.com/lets-build-a-jamstack-e-commerce-store-with-netlify-functions/)
+* Explanation of dynamic routing in Nuxt for the individual product pages: [Creating Dynamic Routes in Nuxt Application](https://css-tricks.com/creating-dynamic-routes-in-a-nuxt-application/)
 
 For detailed explanation on how things work, checkout [Nuxt.js docs](https://nuxtjs.org).

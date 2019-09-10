@@ -8,13 +8,9 @@
     <div class="sarahstuff">
       <p>
         This project is
-        <a href="https://github.com/sdras/ecommerce-netlify">open source on github</a>,
+        <a href="https://github.com/Nesters/ecommerce-netlify">open source on github</a>,
         hosted with
-        <a href="https://bit.ly/2G29YwK">Netlify</a>, and made with love by Sarah Drasner,
-        <a
-          href="https://twitter.com/sarah_edo"
-        >@sarah_edo (twitter)</a> &
-        <a href="https://github.com/sdras">@sdras (github)</a>
+        <a href="https://bit.ly/2G29YwK">Netlify</a>
       </p>
     </div>
   </footer>
