@@ -21,7 +21,7 @@
         @change="complete = $event.complete"
       />
       <button
-        class="pay-with-stripe button"
+        class="pay-with-shopify button"
         @click="pay"
         :disabled="!complete || !stripeEmail"
       >Pay with credit card</button>

@@ -13,7 +13,7 @@
           active-color="#000"
           style="margin: 5px 0"
         ></star-rating>
-        <h4 class="price">{{ product.variants[selectedVariant].price | dollar }}</h4>
+        <h4 class="price">{{ product.variants[selectedVariant].price | euro }}</h4>
         <p>{{ product.description }}</p>
         <p class="quantity">
           <button class="update-num" @click="quantity > 0 ? quantity-- : quantity = 0">-</button>

@@ -14,12 +14,12 @@
             <h3 class="productname">{{ cartItemTitle(item) }}</h3>
           </td>
           <td>
-            <h4 class="price">{{ parseFloat(item.variant.price) | dollar }}</h4>
+            <h4 class="price">{{ parseFloat(item.variant.price) | euro }}</h4>
           </td>
           <td>
             <strong>{{ item.quantity }}</strong>
           </td>
-          <td>{{ item.quantity * parseFloat(item.variant.price) | dollar }}</td>
+          <td>{{ item.quantity * parseFloat(item.variant.price) | euro }}</td>
         </tr>
       </table>
 
@@ -36,10 +36,10 @@
           </div>
           <div class="num">
             <p>
-              <strong>{{ cartTotal | dollar }}</strong>
+              <strong>{{ cartTotal | euro }}</strong>
             </p>
             <p>Free Shipping</p>
-            <p class="golden">{{ cartTotal | dollar }}</p>
+            <p class="golden">{{ cartTotal | euro }}</p>
           </div>
         </div>
       </section>

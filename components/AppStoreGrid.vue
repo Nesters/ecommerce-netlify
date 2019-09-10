@@ -18,7 +18,7 @@
           style="margin: 5px 0"
         ></star-rating>
         <h3>{{ item.title }}</h3>
-        <h4 class="price">{{ item.variants[0].price | dollar }}</h4>
+        <h4 class="price">{{ item.variants[0].price | euro }}</h4>
         <NuxtLink
           :to="`/products/${item.handle}`"
           :aria-label="item.title">

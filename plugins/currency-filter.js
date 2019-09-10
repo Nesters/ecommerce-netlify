@@ -5,3 +5,6 @@ Vue.filter("dollar", function(value) {
   // The first is an actual dollar.
   return `$${parseFloat(value).toFixed(2)}`
 })
+Vue.filter("euro", function(value) {
+  return `€${parseFloat(value).toFixed(2)}`
+})
