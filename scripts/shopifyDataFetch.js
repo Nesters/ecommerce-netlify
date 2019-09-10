@@ -17,8 +17,9 @@ const fetchShopifyProducts = async () => {
   let collections = await client.collection.fetchAllWithProducts()
   products = products.map(
     product => {
-      product.img = product.images.length > 0 ? product.images[0].src : null
-      product.collections = collections.reduce(
+      const newProduct = { ...product }
+      newProduct.img = product.images.length > 0 ? product.images[0].src : null
+      newProduct.collections = collections.reduce(
         (acc, collection) => {
           if (collection.products.filter(prod => prod.id === product.id).length > 0) {
             acc.push(collection.handle)
@@ -26,8 +27,36 @@ const fetchShopifyProducts = async () => {
           return acc
         }, []
       )
+      // Reduce bundle size
+      newProduct.type = null
+      newProduct.images = product.images.map(
+        image => {
+          const newImage = { ...image }
+          newImage.type = null
 
-      return product;
+          return newImage
+        }
+      )
+      newProduct.options = product.options.map(
+        option => {
+          const newOption = { ...option }
+          newOption.type = null
+
+          return newOption
+        }
+      )
+      newProduct.variants = product.variants.map(
+        variant => {
+          const newVariant = { ...variant }
+          newVariant.presentmentPrices = null
+          newVariant.type = null
+
+          return newVariant
+        }
+      )
+      
+
+      return newProduct;
     }
   );
   collections = collections.map(
