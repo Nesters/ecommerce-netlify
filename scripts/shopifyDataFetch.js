@@ -2,7 +2,7 @@ const fs = require('fs');
 const fetch = require('isomorphic-fetch');
 const Client = require('shopify-buy');
 
-if (process.env.NODE_ENV === 'development') {
+if (process.env.NODE_ENV !== 'production') {
   require('dotenv').config().parsed
 }
 
