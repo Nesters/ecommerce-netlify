@@ -23,7 +23,7 @@ $ yarn start or npm start
 $ yarn generate or npm generate
 ```
 
-* 3 reasons why should consider JAMstack for your ecommerce store: [AMstack ecommerce with Shopify](https://medium.com/@nestersk/jamstack-ecommerce-with-shopify-7fa0cc373eed)
+* 3 reasons why you should consider JAMstack for your ecommerce store: [The bemefits of JAMstack ecommerce](https://medium.com/@nestersk/the-benefits-of-jamstack-ecommerce-12fbedcf1501)
 
 I took inspiration from these two articles explaining how this site is set up:
 * Explanation of Netlify Functions and Stripe: [Let's Build a JAMstack E-Commerce Store with Netlify Functions](https://css-tricks.com/lets-build-a-jamstack-e-commerce-store-with-netlify-functions/)
